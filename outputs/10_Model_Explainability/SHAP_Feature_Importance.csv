@@ -1,0 +1,4793 @@
+Rank,Feature,Mean Absolute SHAP
+1,categorical__City_Halesowen,41.54262
+2,categorical__Sub-Category_Copiers,40.777782
+3,categorical__Sub-Category_Appliances,37.014305
+4,categorical__City_Waynesboro,30.154488
+5,categorical__City_Treviglio,30.141083
+6,categorical__City_Wenzhou,27.84916
+7,categorical__City_Lagos de Moreno,23.469559
+8,numeric__Shipping Cost,23.021502
+9,categorical__Sub-Category_Bookcases,21.669786
+10,categorical__City_Noblesville,21.565754
+11,categorical__City_Xiangfan,21.316442
+12,categorical__City_Sukabumi,19.478474
+13,categorical__City_Modica,19.258453
+14,numeric__Quantity,19.247427
+15,categorical__City_Badalona,19.246044
+16,categorical__Sub-Category_Storage,18.99057
+17,categorical__Sub-Category_Phones,18.595324
+18,categorical__City_Pekalongan,18.307823
+19,categorical__Sub-Category_Chairs,17.782679
+20,categorical__City_Inglewood,17.649261
+21,numeric__Discount,17.47797
+22,categorical__City_Sevastopol,17.454449
+23,categorical__City_Ulm,16.070314
+24,categorical__City_Da Nang,15.868913
+25,categorical__City_Cavaillon,15.675268
+26,categorical__Category_Technology,14.9331875
+27,categorical__City_Potsdam,14.235159
+28,categorical__City_Deventer,14.074964
+29,categorical__City_Santo André,14.02465
+30,categorical__City_Akron,13.778634
+31,categorical__City_Urganch,13.278832
+32,categorical__Sub-Category_Tables,12.933024
+33,categorical__City_Baraki,12.747465
+34,categorical__City_Cosenza,12.350461
+35,categorical__City_Delhi,12.270076
+36,categorical__Country_United States,11.980667
+37,categorical__City_Aligarh,10.8866005
+38,categorical__City_Hefei,10.533734
+39,categorical__City_Sunderland,10.450697
+40,categorical__City_Nha Trang,10.435433
+41,categorical__City_Zhoukou,10.22193
+42,categorical__City_Czestochowa,9.94021
+43,categorical__City_Getafe,9.868918
+44,categorical__City_Biarritz,9.813577
+45,categorical__Sub-Category_Fasteners,9.607805
+46,categorical__City_Turku,9.5434675
+47,categorical__City_Hiratsuka,9.429873
+48,categorical__City_Bratsk,9.363159
+49,categorical__City_Chengjiang,8.94631
+50,categorical__City_Minden,7.7011027
+51,categorical__City_Nakuru,7.5494914
+52,categorical__City_Aswan,7.5043945
+53,categorical__Sub-Category_Machines,7.46951
+54,categorical__City_Xichang,7.4470325
+55,numeric__Shipping Days,7.412341
+56,categorical__City_Midland,7.408529
+57,categorical__City_Suresnes,7.2480755
+58,categorical__City_Tabuk,7.1478963
+59,categorical__City_Bornova,7.0461345
+60,categorical__City_Changzhou,7.0201955
+61,categorical__City_Brownsville,7.0046153
+62,categorical__Ship Mode_First Class,6.7079177
+63,categorical__City_Westland,6.6338077
+64,categorical__City_Quibdó,6.633807
+65,categorical__City_Arauca,6.581767
+66,categorical__City_Eugene,6.310373
+67,categorical__City_Chesterfield,6.21818
+68,categorical__City_Burnley,6.0581408
+69,categorical__City_Villeneuve-sur-Lot,6.0459676
+70,categorical__City_Albertville,6.0456185
+71,categorical__City_Luton,6.015813
+72,categorical__City_Aubervilliers,5.9749637
+73,categorical__City_Dos Hermanas,5.9667034
+74,categorical__City_Villa Frontera,5.9112883
+75,categorical__City_Islamabad,5.8883977
+76,categorical__City_La Madeleine,5.885618
+77,categorical__City_Salon-de-Provence,5.870643
+78,categorical__City_Pelotas,5.778416
+79,categorical__City_Shinyanga,5.766034
+80,categorical__City_Brest,5.6204305
+81,categorical__State_Sindh,5.6149054
+82,categorical__City_Baotou,5.6102552
+83,categorical__City_Aprilia,5.549406
+84,categorical__City_São Gonçalo,5.5061035
+85,categorical__City_Nuevo Laredo,5.5021152
+86,categorical__City_Paderborn,5.427333
+87,categorical__City_Indianapolis,5.392712
+88,categorical__City_Yangzhou,5.374309
+89,categorical__Market_LATAM,5.233552
+90,categorical__City_Holon,5.1376424
+91,categorical__State_Shizuoka,5.127947
+92,categorical__State_Santa Ana,5.097266
+93,categorical__Order Priority_Medium,4.9478126
+94,categorical__Quantity Category_Very High,4.9474373
+95,categorical__Country_Austria,4.924155
+96,categorical__City_Moncalieri,4.7814274
+97,categorical__City_Tarbes,4.7652664
+98,categorical__State_Tipaza,4.7529125
+99,categorical__City_Angers,4.720447
+100,categorical__City_Cognac,4.6524773
+101,categorical__Discount Category_Low Discount,4.622751
+102,categorical__City_Pulheim,4.5862594
+103,categorical__City_Vitoria,4.5336313
+104,categorical__State_Sevastopol',4.5127797
+105,categorical__City_Saint Cloud,4.509777
+106,categorical__City_Port Macquarie,4.4963994
+107,categorical__State_Ibaraki,4.463659
+108,categorical__Sub-Category_Art,4.4417005
+109,categorical__Order Priority_Critical,4.3822784
+110,categorical__City_Tarragona,4.3151183
+111,categorical__City_Medellín,4.274319
+112,categorical__Market_US,4.2294717
+113,categorical__City_Langenhagen,4.1711025
+114,categorical__City_Thane,4.031159
+115,categorical__City_Kenosha,3.890809
+116,categorical__City_Alice Springs,3.786338
+117,categorical__Country_Democratic Republic of the Congo,3.7550857
+118,categorical__City_Huangshi,3.7493317
+119,categorical__City_Detroit,3.7433772
+120,categorical__Quantity Category_High,3.4788184
+121,categorical__Sub-Category_Furnishings,3.457235
+122,categorical__City_Tamale,3.4556568
+123,categorical__City_Ponferrada,3.4035978
+124,categorical__City_Buca,3.3347578
+125,categorical__City_Jamshedpur,3.3238037
+126,categorical__Sub-Category_Binders,3.3077958
+127,categorical__City_Middlesbrough,3.3000722
+128,categorical__City_Solingen,3.2946262
+129,categorical__City_Nashville,3.1934943
+130,categorical__City_Montrouge,3.1748202
+131,categorical__City_Bergen op Zoom,3.1685395
+132,categorical__Category_Office Supplies,3.1651242
+133,categorical__City_Yambol,3.1252244
+134,categorical__State_Poitou-Charentes,3.1236007
+135,categorical__City_Tiruchchirappalli,3.1230617
+136,categorical__City_Lismore,3.101848
+137,categorical__City_Auckland,3.0917726
+138,categorical__City_Pune,3.0711942
+139,categorical__City_Rosny-sous-Bois,3.0639248
+140,categorical__Country_Vietnam,3.0400417
+141,categorical__City_Villejuif,3.023666
+142,categorical__City_Santiago,2.9505312
+143,numeric__Order Month,2.944017
+144,categorical__City_Raleigh,2.8806865
+145,categorical__City_Castres,2.870268
+146,categorical__City_Perth,2.8607163
+147,categorical__State_Northern Mindanao,2.8586047
+148,categorical__City_Melton,2.8305838
+149,categorical__City_Nantes,2.7805543
+150,categorical__City_Sidi Bel Abbes,2.752354
+151,categorical__City_Baguio City,2.7510881
+152,categorical__City_Noisy-le-Sec,2.7341588
+153,categorical__City_Molina de Segura,2.731608
+154,categorical__City_Surabaya,2.6792336
+155,categorical__City_Saskatoon,2.6713266
+156,categorical__City_Belgaum,2.670034
+157,categorical__City_Petapa,2.6645093
+158,categorical__City_Neuilly-sur-Marne,2.6589801
+159,categorical__City_Hampton,2.6528475
+160,categorical__City_Jieyang,2.6416523
+161,categorical__City_Lansing,2.625167
+162,categorical__City_Rybnik,2.6137738
+163,categorical__City_Bagé,2.558476
+164,categorical__City_Santa Cruz de la Sierra,2.5055344
+165,categorical__City_Coffs Harbour,2.4999511
+166,categorical__City_Meerut,2.465102
+167,categorical__State_Chocó,2.4221246
+168,categorical__City_Harrow,2.4162
+169,numeric__Order Day of Week,2.3931391
+170,categorical__City_San Pedro de Macorís,2.3763263
+171,categorical__City_Miami,2.3578422
+172,categorical__City_Namur,2.3501081
+173,categorical__City_Elx,2.2966015
+174,categorical__City_Heilbronn,2.2730384
+175,categorical__City_Padang,2.2693036
+176,categorical__State_Maryland,2.2502592
+177,categorical__City_Pimpri,2.2239332
+178,categorical__City_Blumenau,2.2167656
+179,categorical__Country_Finland,2.1810775
+180,categorical__City_Albany,2.179937
+181,categorical__City_Altamura,2.173755
+182,categorical__City_Krefeld,2.1707284
+183,categorical__Category_Furniture,2.168461
+184,categorical__City_Misratah,2.1634474
+185,numeric__Order Year,2.132695
+186,categorical__Market_EU,2.1229978
+187,categorical__City_Oviedo,2.1092575
+188,categorical__City_Guangzhou,2.1065204
+189,categorical__City_Tripoli,2.0807133
+190,categorical__City_Savigny-le-Temple,2.0738733
+191,categorical__State_Nebraska,2.0663006
+192,categorical__City_Springfield,2.0239806
+193,categorical__City_Lower Hutt,2.022217
+194,categorical__City_San Diego,1.9999456
+195,categorical__City_Molfetta,1.98891
+196,categorical__City_Riverside,1.9880139
+197,categorical__City_Bamenda,1.9608444
+198,categorical__City_Hirakata,1.9513736
+199,categorical__City_Christchurch,1.9351528
+200,categorical__City_Siegen,1.9092228
+201,categorical__State_Khorezm,1.9076989
+202,categorical__City_Liverpool,1.9051223
+203,categorical__Market_APAC,1.854508
+204,categorical__City_Juárez,1.8497413
+205,categorical__State_Rift Valley,1.8368055
+206,categorical__State_Tennessee,1.8165696
+207,categorical__City_Seattle,1.8067331
+208,categorical__Country_Turkey,1.7795945
+209,categorical__City_Wilmington,1.7716578
+210,categorical__Country_Honduras,1.7491758
+211,categorical__City_Columbus,1.7339113
+212,categorical__Ship Mode_Standard Class,1.7322007
+213,categorical__Country_Cuba,1.7184886
+214,categorical__Country_Italy,1.711369
+215,categorical__City_Birmingham,1.6897343
+216,numeric__Order Week,1.683317
+217,categorical__City_Gap,1.6678473
+218,categorical__State_Michigan,1.646736
+219,categorical__State_Galicia,1.6192018
+220,categorical__City_Lake Forest,1.6122152
+221,categorical__State_Jalisco,1.5990471
+222,categorical__City_Bottrop,1.5975186
+223,categorical__State_Delhi,1.5676235
+224,categorical__Country_Argentina,1.5650816
+225,categorical__City_Fes,1.564413
+226,categorical__City_Tours,1.5594747
+227,categorical__City_Rouen,1.5495125
+228,categorical__City_Getxo,1.5485864
+229,categorical__City_Zapopan,1.5438757
+230,categorical__Country_Bulgaria,1.5394354
+231,categorical__City_Sari,1.5392121
+232,categorical__State_Baden-Württemberg,1.4887544
+233,categorical__City_Korla,1.4731861
+234,categorical__City_Pinar del Río,1.426539
+235,categorical__City_Les Abymes,1.4239331
+236,categorical__Region_North Asia,1.4127501
+237,categorical__State_Donetsk,1.4100597
+238,categorical__State_Anhui,1.409071
+239,categorical__State_New York,1.4068074
+240,categorical__State_Finland Proper,1.3994403
+241,categorical__Country_Brazil,1.3733631
+242,categorical__State_Picardy,1.3543979
+243,categorical__City_Cairo,1.3510828
+244,categorical__City_Sonsonate,1.350817
+245,categorical__City_Columbia,1.3259578
+246,categorical__City_Obregón,1.3233353
+247,categorical__State_Hesse,1.3224483
+248,categorical__State_Misratah,1.3203214
+249,categorical__City_Apopa,1.3037117
+250,categorical__Sub-Category_Accessories,1.2674407
+251,categorical__City_Maidenhead,1.2553995
+252,categorical__City_Tlalpan,1.2542564
+253,categorical__City_Pontivy,1.2424371
+254,categorical__City_Vaughan,1.2376918
+255,categorical__Ship Mode_Second Class,1.2367815
+256,categorical__City_Sandnes,1.23626
+257,categorical__Order Priority_High,1.2317024
+258,categorical__Sub-Category_Labels,1.2314672
+259,categorical__City_Memphis,1.224593
+260,categorical__City_Changchun,1.2196699
+261,categorical__City_Tegucigalpa,1.2169513
+262,categorical__City_Scottsdale,1.216578
+263,categorical__State_Namur,1.2020274
+264,categorical__City_Lucca,1.1989282
+265,categorical__City_Donets'k,1.1881766
+266,categorical__City_Auburn,1.1673416
+267,categorical__City_Brussels,1.1623763
+268,categorical__City_Fairfield,1.1517391
+269,categorical__City_Aurora,1.1502032
+270,categorical__City_Chaoyang,1.1476299
+271,categorical__State_Lorraine,1.1234561
+272,categorical__City_Zacatecas,1.1209421
+273,categorical__State_Colorado,1.117933
+274,categorical__City_Baghdad,1.1130686
+275,categorical__City_Mesa,1.112969
+276,categorical__City_Nieuwegein,1.1091338
+277,categorical__City_San Francisco,1.1009294
+278,categorical__Segment_Home Office,1.0979162
+279,categorical__Country_Norway,1.0719141
+280,categorical__City_Mcallen,1.0523012
+281,categorical__City_Fuji,1.0252564
+282,categorical__City_Ankara,1.0212307
+283,categorical__City_Toronto,1.0048877
+284,categorical__City_Villeparisis,0.99658304
+285,categorical__City_Bruges,0.9855439
+286,categorical__City_Changsha,0.98207563
+287,categorical__Segment_Consumer,0.972294
+288,categorical__City_Saint-Laurent-du-Var,0.96983194
+289,categorical__City_Tieling,0.9631502
+290,categorical__City_Redondo Beach,0.96028656
+291,categorical__City_Bandung,0.9574161
+292,categorical__Order Priority_Low,0.93344694
+293,categorical__City_Kano,0.9325761
+294,categorical__State_Catalonia,0.92930907
+295,categorical__Country_Ghana,0.92320985
+296,categorical__Country_Niger,0.9223473
+297,categorical__City_Roseville,0.9087064
+298,categorical__Discount Category_Medium Discount,0.9086688
+299,numeric__Order Quarter,0.90320987
+300,categorical__City_Oslo,0.9031109
+301,categorical__Quantity Category_Low,0.8920502
+302,categorical__City_San Pedro Sula,0.8915673
+303,categorical__City_Dewas,0.8825443
+304,categorical__City_Rajkot,0.874852
+305,categorical__City_Whangarei,0.8737843
+306,categorical__State_Jawa Barat,0.86462736
+307,categorical__City_Monrovia,0.86049443
+308,categorical__City_Casablanca,0.8568288
+309,categorical__City_Singapore,0.8563459
+310,categorical__Discount Category_High Discount,0.8451747
+311,categorical__City_San Gabriel,0.8420844
+312,categorical__State_North Carolina,0.84120834
+313,categorical__City_Montereau-Fault-Yonne,0.83637077
+314,categorical__Country_Algeria,0.8276971
+315,categorical__State_Sidi Bel Abbes,0.8231754
+316,categorical__City_Moers,0.81895345
+317,categorical__City_Rosarito,0.8101988
+318,categorical__City_Santa Ana,0.8053473
+319,categorical__City_Colchester,0.80254096
+320,categorical__City_Yangon,0.7931263
+321,categorical__City_Bacau,0.7742912
+322,categorical__City_Kayes,0.76932746
+323,categorical__State_México,0.7657392
+324,categorical__City_Presidente Prudente,0.7642362
+325,categorical__City_Darwin,0.7634113
+326,categorical__Region_Central,0.7416816
+327,categorical__City_Vernon,0.7392982
+328,categorical__City_Mombasa,0.73786914
+329,categorical__City_Valencia,0.73679537
+330,categorical__State_Panama,0.7258039
+331,categorical__Sub-Category_Supplies,0.7101512
+332,categorical__City_Nicolás Romero,0.7070497
+333,categorical__State_Lodz,0.70669925
+334,categorical__City_Rochester,0.7016515
+335,categorical__City_Quito,0.6988993
+336,categorical__City_Ningbo,0.6926327
+337,categorical__State_Indiana,0.68955976
+338,categorical__State_Dà Nang,0.6880117
+339,categorical__City_Jonesboro,0.6742066
+340,categorical__City_Milan,0.6735374
+341,categorical__City_Aachen,0.67245024
+342,categorical__State_Paraíba,0.6699026
+343,categorical__City_Guayaquil,0.66692066
+344,categorical__City_Yunyang,0.66278195
+345,categorical__State_Al Qahirah,0.6615017
+346,categorical__City_Aulnay-sous-Bois,0.65017605
+347,categorical__Ship Mode_Same Day,0.6497682
+348,categorical__City_Chinautla,0.6477336
+349,categorical__City_Los Mochis,0.6470896
+350,categorical__City_Ciudad del Carmen,0.64666784
+351,categorical__City_Moradabad,0.6424096
+352,categorical__City_Camagüey,0.6405676
+353,categorical__State_Guadeloupe,0.638121
+354,categorical__City_Kerman,0.6340772
+355,categorical__State_Mato Grosso do Sul,0.6240537
+356,categorical__City_Pontevedra,0.6226432
+357,categorical__City_Durango,0.62235945
+358,categorical__City_Owerri,0.6196806
+359,categorical__State_Andalusía,0.6139281
+360,categorical__State_Piedmont,0.6112804
+361,categorical__City_Florence,0.6102148
+362,categorical__City_Bremen,0.60534364
+363,categorical__City_Paço do Lumiar,0.5988295
+364,categorical__City_Huntsville,0.5981676
+365,categorical__State_Murcia,0.59727734
+366,categorical__State_Kwazulu-natal,0.5965049
+367,categorical__State_Hirat,0.5810551
+368,categorical__Country_Germany,0.5792051
+369,categorical__City_Chinandega,0.5784763
+370,categorical__State_Distrito Federal,0.5776226
+371,categorical__Segment_Corporate,0.5760408
+372,categorical__Country_Netherlands,0.5717505
+373,categorical__State_Arkhangel'sk,0.56850785
+374,categorical__City_Juba,0.56710666
+375,categorical__Country_Panama,0.56481016
+376,categorical__City_Herat,0.5609811
+377,categorical__Country_China,0.5583542
+378,categorical__City_Brandenburg,0.54385394
+379,categorical__State_North Lebanon,0.540527
+380,categorical__City_Lafayette,0.5363164
+381,categorical__City_Richmond,0.5355129
+382,categorical__City_Jackson,0.5299567
+383,categorical__Market_EMEA,0.5277834
+384,categorical__City_Rillieux-la-Pape,0.5255091
+385,categorical__Country_Israel,0.5253856
+386,categorical__City_Beni Suef,0.523347
+387,categorical__State_Mazandaran,0.51726484
+388,categorical__City_Semarang,0.51126045
+389,categorical__State_Jawa Timur,0.50561833
+390,categorical__Sub-Category_Envelopes,0.50513256
+391,categorical__City_Espoo,0.50339603
+392,categorical__State_Calabria,0.49812773
+393,categorical__City_Jacksonville,0.49608123
+394,categorical__City_San Salvador,0.49435678
+395,categorical__City_Ulhasnagar,0.49342892
+396,categorical__State_Santa Cruz,0.48307428
+397,categorical__City_Munich,0.4828189
+398,categorical__State_Rabat-Salé-Zemmour-Zaer,0.47689313
+399,categorical__City_Las Rozas de Madrid,0.4749249
+400,categorical__City_Kanpur,0.47282052
+401,categorical__City_Cuenca,0.4714416
+402,categorical__City_Phoenix,0.46976593
+403,categorical__Sub-Category_Paper,0.4588263
+404,categorical__State_Rogaland,0.45821467
+405,categorical__City_Luanda,0.45782334
+406,categorical__City_Kent,0.4471761
+407,categorical__City_Seville,0.44587597
+408,categorical__City_Port Harcourt,0.44581655
+409,categorical__City_Monterrey,0.44123867
+410,categorical__State_Dhaka,0.4291107
+411,categorical__City_Chihuahua,0.42468727
+412,categorical__State_Madrid,0.42345572
+413,categorical__City_Buenos Aires,0.416632
+414,categorical__City_Oklahoma City,0.4153504
+415,categorical__City_Mumbai,0.41467357
+416,categorical__Country_Mexico,0.4142539
+417,categorical__State_Umbria,0.4077431
+418,categorical__City_Halle,0.4057627
+419,categorical__State_California,0.40523756
+420,categorical__State_Sicily,0.40344906
+421,categorical__Country_Poland,0.40101716
+422,categorical__State_Oslo,0.39774415
+423,categorical__City_Dhaka,0.38507664
+424,categorical__Region_South,0.38363332
+425,categorical__State_Wisconsin,0.37797087
+426,categorical__City_Champigny-sur-Marne,0.3774311
+427,categorical__Country_France,0.37550458
+428,categorical__Country_Belgium,0.37545827
+429,categorical__State_Khánh Hòa,0.37475425
+430,categorical__City_Levallois-Perret,0.37470222
+431,categorical__City_Brasília,0.37323853
+432,categorical__State_Alagoas,0.37059245
+433,categorical__City_Guantánamo,0.37047336
+434,categorical__City_Cologne,0.36913502
+435,categorical__Country_Pakistan,0.3639532
+436,categorical__City_Devonport,0.3636736
+437,categorical__City_Sukkur,0.3629033
+438,categorical__City_Lahore,0.3624804
+439,categorical__City_Bondy,0.3613005
+440,categorical__City_San Antonio,0.36019966
+441,categorical__State_Ile-de-France,0.35989165
+442,categorical__City_Louisville,0.35827616
+443,categorical__City_Recklinghausen,0.35640946
+444,categorical__City_Guelma,0.35619244
+445,categorical__City_Mar del Plata,0.35465854
+446,categorical__State_Thies,0.345961
+447,categorical__City_Cartagena,0.3450558
+448,categorical__City_Hamburg,0.33994296
+449,categorical__Market_Africa,0.33845228
+450,categorical__City_Newcastle,0.3375812
+451,categorical__State_Lombardy,0.3348599
+452,categorical__City_Maputo,0.3347017
+453,categorical__State_Pinar del Río,0.33258
+454,categorical__City_Ayacucho,0.32615542
+455,categorical__State_Rhône-Alpes,0.322952
+456,categorical__Quantity Category_Medium,0.318197
+457,categorical__City_Cuscatancingo,0.3179614
+458,categorical__City_Arlington,0.31771746
+459,categorical__City_Kramators'k,0.31709883
+460,categorical__City_Stevenage,0.3130213
+461,categorical__State_Illinois,0.31287885
+462,categorical__City_Thies Nones,0.31262517
+463,categorical__State_Amapá,0.31129262
+464,categorical__City_Bezerros,0.31091848
+465,categorical__City_Cajazeiras,0.30460533
+466,categorical__City_Manzanillo,0.30117515
+467,categorical__State_Pennsylvania,0.30102587
+468,categorical__City_Chitungwiza,0.29952577
+469,categorical__Country_Australia,0.29826942
+470,categorical__State_Berlin,0.29718617
+471,categorical__City_Tlaquepaque,0.29473788
+472,categorical__City_Tepic,0.2944991
+473,categorical__City_Glasgow,0.29205644
+474,categorical__Region_Oceania,0.29203343
+475,categorical__City_Gelsenkirchen,0.28902325
+476,categorical__State_Delaware,0.2863816
+477,categorical__City_Severodvinsk,0.28589278
+478,categorical__State_Singapore,0.28552765
+479,categorical__State_Shinyanga,0.28447413
+480,categorical__City_Milwaukee,0.283913
+481,categorical__City_Puebla,0.2825332
+482,categorical__City_Trier,0.27969766
+483,categorical__State_Arauca,0.27886286
+484,categorical__City_Corbeil-Essonnes,0.27829015
+485,categorical__City_Ho Chi Minh City,0.27766913
+486,categorical__City_Hanoi,0.27137572
+487,categorical__City_Matagalpa,0.27136606
+488,categorical__City_Morelia,0.27033144
+489,categorical__City_Tianjin,0.26905295
+490,categorical__Region_Caribbean,0.26599985
+491,categorical__City_Wasquehal,0.26592883
+492,categorical__State_Imo,0.2614732
+493,categorical__State_Jawa Tengah,0.2590866
+494,categorical__Region_Southeast Asia,0.25857008
+495,categorical__State_Missouri,0.25630796
+496,categorical__City_Schiltigheim,0.25465593
+497,categorical__City_Santo Domingo,0.25436172
+498,categorical__City_Bangkok,0.2535724
+499,categorical__State_Arizona,0.251277
+500,categorical__City_Annecy,0.2491352
+501,categorical__City_Zanjan,0.24612117
+502,categorical__City_Lecce,0.2452474
+503,categorical__State_Prague,0.24459194
+504,categorical__Country_Spain,0.24389067
+505,categorical__City_Kunming,0.24365301
+506,categorical__City_Bilbeis,0.24193312
+507,categorical__State_Gujarat,0.24005997
+508,categorical__City_Bradford,0.23951839
+509,categorical__City_Jakarta,0.23928952
+510,categorical__State_Canterbury,0.23841217
+511,categorical__State_León,0.23567262
+512,categorical__Country_United Kingdom,0.23365852
+513,categorical__Country_Russia,0.23093006
+514,categorical__City_Salvador,0.22853994
+515,categorical__City_Bielefeld,0.22832166
+516,categorical__State_Georgia,0.22669625
+517,categorical__State_Antioquia,0.22493668
+518,categorical__City_New York City,0.223204
+519,categorical__State_Hamburg,0.22289407
+520,categorical__City_Pharr,0.22219682
+521,categorical__City_Santiago de Cuba,0.22083661
+522,categorical__State_Maranhão,0.22074944
+523,categorical__City_Pembroke Pines,0.21833952
+524,categorical__State_Lima (city),0.21807095
+525,categorical__State_Matagalpa,0.21583344
+526,categorical__City_Temixco,0.21163799
+527,categorical__City_Kinshasa,0.20732605
+528,categorical__City_Vienna,0.20529199
+529,categorical__City_Patna,0.20469905
+530,categorical__State_Valenciana,0.20299703
+531,categorical__City_Watertown,0.2024066
+532,categorical__City_Mashhad,0.2006744
+533,categorical__State_Aquitaine,0.19953732
+534,categorical__State_Luanda,0.19797714
+535,categorical__State_Ash Sharqiyah,0.19752862
+536,categorical__City_Oak Park,0.1959717
+537,categorical__City_Tangshan,0.19548258
+538,categorical__City_Mount Gambier,0.19128527
+539,categorical__City_Madrid,0.19108279
+540,categorical__City_Paris,0.19009213
+541,categorical__City_Sydney,0.18968728
+542,categorical__State_Chihuahua,0.18761373
+543,categorical__City_Cork,0.18510891
+544,categorical__City_Tecomán,0.18436259
+545,categorical__Region_West,0.18420517
+546,categorical__City_Torreón,0.18345429
+547,categorical__Country_Uzbekistan,0.182136
+548,categorical__City_Dublin,0.18132201
+549,categorical__Country_Ukraine,0.1806351
+550,categorical__Country_Sweden,0.17884563
+551,categorical__City_Lowell,0.17835592
+552,categorical__State_North Rhine-Westphalia,0.17591596
+553,categorical__State_Sliven,0.17478618
+554,categorical__City_Bendigo,0.17414477
+555,categorical__State_Apulia,0.17317167
+556,categorical__City_Dallas,0.17161195
+557,categorical__City_Manchester,0.17022274
+558,categorical__City_Sliven,0.16825688
+559,categorical__State_Yangon,0.16800363
+560,categorical__Country_Iraq,0.16703857
+561,categorical__State_England,0.16511074
+562,categorical__City_Tlalnepantla,0.1639956
+563,categorical__State_Fès-Boulemane,0.1638044
+564,categorical__City_Yaritagua,0.16331749
+565,categorical__City_Djibouti,0.1629474
+566,categorical__State_Jharkhand,0.16195355
+567,categorical__City_San Jose del Monte,0.15806898
+568,categorical__State_Federal District,0.15779215
+569,categorical__State_San Pedro de Macorís,0.15607792
+570,categorical__City_Nice,0.15364075
+571,categorical__City_Managua,0.15291063
+572,categorical__City_Orizaba,0.15185532
+573,categorical__City_Agra,0.15016706
+574,categorical__State_Zanjan,0.14972304
+575,categorical__State_Corrientes,0.14769098
+576,categorical__Country_Bolivia,0.1465598
+577,categorical__City_Pertuis,0.14561808
+578,categorical__City_Sofia,0.14531197
+579,categorical__State_Sinaloa,0.1431602
+580,categorical__City_Clinton,0.14018904
+581,categorical__City_Barcelona,0.13958421
+582,categorical__State_Michoacán,0.13951553
+583,categorical__Country_Japan,0.13833511
+584,categorical__State_Ohio,0.13632809
+585,categorical__City_Vadodara,0.13585448
+586,categorical__City_Khartoum,0.13562538
+587,categorical__City_Coral Springs,0.13490267
+588,categorical__State_Auckland,0.13421625
+589,categorical__State_Oregon,0.13337079
+590,categorical__City_Ghent,0.13296063
+591,categorical__City_East London,0.13254975
+592,categorical__City_Izmir,0.13071167
+593,categorical__State_Ontario,0.13006929
+594,categorical__Country_Zambia,0.12987405
+595,categorical__City_Wetzlar,0.1292707
+596,categorical__City_Ribeirão Preto,0.12632695
+597,categorical__State_Guelma,0.1263
+598,categorical__Country_Canada,0.12601425
+599,categorical__State_Karnataka,0.12492841
+600,categorical__State_Hubei,0.12476955
+601,categorical__State_Guatemala,0.12086958
+602,categorical__City_Oswego,0.11852709
+603,categorical__City_Carquefou,0.11764981
+604,categorical__State_Santo Domingo,0.11630899
+605,categorical__City_Manila,0.11620829
+606,categorical__City_Al Mubarraz,0.11529372
+607,categorical__State_Kanagawa,0.114025176
+608,categorical__City_Bangalore,0.11291524
+609,categorical__State_Tel Aviv,0.11248177
+610,categorical__Country_Nigeria,0.11152281
+611,categorical__State_Katanga,0.111481495
+612,categorical__Region_East,0.10960197
+613,categorical__City_León,0.109039746
+614,categorical__State_National Capital,0.10898767
+615,categorical__State_Cidade De Maputo,0.10873372
+616,categorical__City_Houston,0.10865435
+617,categorical__State_Copperbelt,0.108069316
+618,categorical__City_Bayeux,0.1073954
+619,categorical__City_Cannes,0.10516498
+620,categorical__City_Pforzheim,0.10496068
+621,categorical__State_Grand Casablanca,0.10392844
+622,categorical__State_Dublin,0.10311511
+623,categorical__State_Mississippi,0.10267817
+624,categorical__State_Jilin,0.10267028
+625,categorical__City_Linyi,0.09773797
+626,categorical__City_Kuala Lumpur,0.096843965
+627,categorical__City_Prague,0.09564209
+628,categorical__State_Florida,0.09476198
+629,categorical__City_Arbil,0.09404236
+630,categorical__Region_North,0.09310324
+631,categorical__City_Seoul,0.09156371
+632,categorical__City_Katoomba,0.09020812
+633,categorical__City_Celle,0.08997082
+634,categorical__Country_Indonesia,0.08969747
+635,categorical__City_Muskogee,0.08918123
+636,categorical__City_Cuajimalpa,0.08533131
+637,categorical__City_Jodhpur,0.08443437
+638,categorical__City_Dreux,0.08428569
+639,categorical__City_Mbuji-mayi,0.0842768
+640,categorical__City_Thousand Oaks,0.08406065
+641,categorical__City_Los Angeles,0.08388735
+642,categorical__City_Jieshou,0.08359116
+643,categorical__City_Antiguo Cuscatlán,0.08320047
+644,categorical__City_Pretoria,0.08301255
+645,categorical__City_Victoria,0.08245953
+646,categorical__Country_Ecuador,0.08240241
+647,categorical__City_Tulsa,0.08212745
+648,categorical__City_Accra,0.08171976
+649,categorical__State_Värmland,0.081692286
+650,categorical__City_Bamako,0.08121955
+651,categorical__City_Boulogne-Billancourt,0.08066482
+652,categorical__City_Saint Petersburg,0.0804862
+653,categorical__State_Guantánamo,0.08031112
+654,categorical__State_Western Australia,0.07824917
+655,categorical__State_Uttar Pradesh,0.07718904
+656,categorical__City_Normal,0.076995544
+657,categorical__City_Chenzhou,0.07449482
+658,categorical__City_Karlstad,0.07329344
+659,categorical__City_Abidjan,0.07188446
+660,categorical__Country_Philippines,0.070329
+661,categorical__City_Hamamatsu,0.06937773
+662,categorical__City_Mexico City,0.06891054
+663,categorical__City_Guyancourt,0.0688063
+664,categorical__City_Wakefield,0.06822183
+665,categorical__City_Southaven,0.067686506
+666,categorical__City_Caloundra,0.06649489
+667,categorical__City_Bridgetown,0.064135544
+668,categorical__State_Chisinau,0.063531265
+669,categorical__City_Fulda,0.063210495
+670,categorical__City_Bergen,0.06291365
+671,categorical__City_Gallarate,0.06280913
+672,categorical__City_Cherkasy,0.0623587
+673,categorical__City_Townsville,0.062288713
+674,categorical__City_Asansol,0.062269095
+675,categorical__Region_Central Asia,0.06215027
+676,categorical__State_Brandenburg,0.06199838
+677,categorical__State_East Flanders,0.061794717
+678,categorical__City_Chester,0.06159878
+679,categorical__City_Cagliari,0.058879457
+680,categorical__State_Campeche,0.05775538
+681,categorical__City_Cairns,0.057461593
+682,categorical__City_Amsterdam,0.056099128
+683,categorical__State_Stockholm,0.05325567
+684,categorical__City_Mackay,0.05258063
+685,categorical__City_Barddhaman,0.052517027
+686,categorical__City_Wheeling,0.051121727
+687,categorical__City_Renton,0.050946422
+688,categorical__City_Toledo,0.05067446
+689,categorical__City_Hamilton,0.049693637
+690,categorical__City_Naples,0.049545143
+691,categorical__City_Mississauga,0.049249843
+692,categorical__City_Arraiján,0.048913427
+693,categorical__Country_Saudi Arabia,0.048421446
+694,categorical__City_Kawasaki,0.04805555
+695,categorical__State_Rhode Island,0.04693899
+696,categorical__City_Hialeah,0.04693251
+697,categorical__City_Stockholm,0.046136353
+698,categorical__City_Perth Amboy,0.04484893
+699,categorical__City_Libourne,0.043949798
+700,categorical__City_Hanover,0.0438941
+701,categorical__State_Liaoning,0.043743633
+702,categorical__City_José Bonifácio,0.04352159
+703,categorical__State_Kinshasa,0.04338348
+704,categorical__City_Huelva,0.0425373
+705,categorical__Country_Iran,0.042060986
+706,categorical__City_Chicago,0.04201727
+707,categorical__City_Charlotte,0.041998856
+708,categorical__City_Gastonia,0.04196056
+709,categorical__State_Baghdad,0.041402325
+710,categorical__City_Alphen aan den Rijn,0.04116181
+711,categorical__State_Maharashtra,0.040766105
+712,categorical__City_Kahramanmaras,0.040590182
+713,categorical__State_North Holland,0.039266896
+714,categorical__Country_India,0.039145812
+715,categorical__State_Tuscany,0.03883759
+716,categorical__City_Jizzakh,0.038755704
+717,categorical__City_Laredo,0.03831072
+718,categorical__State_Francisco Morazán,0.03822938
+719,categorical__City_Bekasi,0.03692468
+720,categorical__City_Binjai,0.03635993
+721,categorical__City_Omaha,0.03635892
+722,numeric__Is Weekend,0.03608962
+723,categorical__State_Overijssel,0.035373807
+724,categorical__State_Izmir,0.035026412
+725,categorical__State_Rio Grande do Sul,0.032061994
+726,categorical__State_New South Wales,0.031138076
+727,categorical__Country_Nicaragua,0.031056177
+728,categorical__City_Bogor,0.030886684
+729,categorical__State_Shanghai,0.030503191
+730,categorical__State_Porto,0.029502176
+731,categorical__State_Yaracuy,0.027171535
+732,categorical__City_Siping,0.027149918
+733,categorical__State_West Bengal,0.02610557
+734,categorical__City_Barquisimeto,0.02575022
+735,categorical__City_Tampa,0.025700666
+736,categorical__City_Malang,0.024837133
+737,categorical__City_Celaya,0.023943322
+738,categorical__State_Punjab,0.02364434
+739,categorical__City_Choluteca,0.022562208
+740,categorical__City_Superior,0.022385845
+741,categorical__City_Presidente Dutra,0.022006636
+742,categorical__State_Bulawayo,0.021120876
+743,categorical__City_Querétaro,0.021012064
+744,categorical__City_Escuintla,0.020841362
+745,categorical__State_Ankara,0.020757996
+746,categorical__City_Shanghai,0.020567382
+747,categorical__City_Berck,0.020224664
+748,categorical__City_Melbourne,0.019734792
+749,categorical__City_Sunnyvale,0.018516555
+750,categorical__City_Ratingen,0.017706547
+751,categorical__City_Duisburg,0.01749502
+752,categorical__City_Suzhou,0.017426128
+753,categorical__City_Bedford,0.01716412
+754,categorical__City_Vigo,0.016629376
+755,categorical__City_Caracas,0.016021732
+756,categorical__State_Jiangsu,0.015880803
+757,categorical__City_Metz,0.015490633
+758,categorical__City_Choloma,0.015378546
+759,categorical__Discount Category_No Discount,0.014836137
+760,categorical__State_Bangkok,0.014514626
+761,categorical__City_Gongzhuling,0.0141549995
+762,categorical__City_Belo Horizonte,0.013768001
+763,categorical__City_Wuhan,0.013720082
+764,categorical__City_Istanbul,0.0122216195
+765,categorical__City_Bognor Regis,0.011337968
+766,categorical__State_Pays de la Loire,0.011328948
+767,categorical__City_La Ceiba,0.009981663
+768,categorical__City_Philadelphia,0.00759991
+769,categorical__State_Guizhou,0.007050576
+770,categorical__City_Beijing,0.0070081647
+771,categorical__City_Guadalajara,0.006554597
+772,categorical__Country_Dominican Republic,0.0060950383
+773,categorical__State_Hovedstaden,0.005484951
+774,categorical__City_Laval,0.004760091
+775,categorical__City_Samsun,0.00431517
+776,categorical__City_Antananarivo,0.0038469376
+777,categorical__City_Nanchong,0.0032847524
+778,categorical__City_San Miguelito,0.0022319518
+779,categorical__City_Thornton,0.0010291921
+780,categorical__City_Canberra,0.00039828187
+781,categorical__City_Angeles City,0.0
+782,categorical__City_Angarsk,0.0
+783,categorical__City_Andradina,0.0
+784,categorical__City_Andover,0.0
+785,categorical__City_Andijon,0.0
+786,categorical__City_Ancona,0.0
+787,categorical__City_Caraguatatuba,0.0
+788,categorical__City_Apartadó,0.0
+789,categorical__City_Aoba-ku,0.0
+790,categorical__City_Anápolis,0.0
+791,categorical__City_Anyang,0.0
+792,categorical__City_Antwerp,0.0
+793,categorical__City_Antsiranana,0.0
+794,categorical__City_Antony,0.0
+795,categorical__City_Antofagasta,0.0
+796,categorical__City_Antipolo,0.0
+797,categorical__City_Cedar Rapids,0.0
+798,categorical__City_Cedar Hill,0.0
+799,categorical__City_Caçador,0.0
+800,categorical__City_Caxias do Sul,0.0
+801,categorical__City_Caucaia,0.0
+802,categorical__City_Catia La Mar,0.0
+803,categorical__City_Cartago,0.0
+804,categorical__City_Chaohu,0.0
+805,categorical__City_Changwon,0.0
+806,categorical__City_Changshu,0.0
+807,categorical__City_Chandler,0.0
+808,categorical__City_Chandigarh,0.0
+809,categorical__City_Champaign,0.0
+810,categorical__City_Chalus,0.0
+811,categorical__City_Chalinze,0.0
+812,categorical__City_Chaguanas,0.0
+813,categorical__City_Ceyhan,0.0
+814,categorical__City_Chemnitz,0.0
+815,categorical__City_Anantapur,0.0
+816,categorical__City_Cheltenham,0.0
+817,categorical__City_Chelmsford,0.0
+818,categorical__City_Chelles,0.0
+819,categorical__City_Chaville,0.0
+820,categorical__City_Chaumont,0.0
+821,categorical__City_Chattanooga,0.0
+822,categorical__City_Chatou,0.0
+823,categorical__City_Chatham,0.0
+824,categorical__City_Chartres,0.0
+825,categorical__City_Charlottesville,0.0
+826,categorical__City_Charleroi,0.0
+827,categorical__City_Chapel Hill,0.0
+828,categorical__City_Chapecó,0.0
+829,categorical__City_Chiclana de la Frontera,0.0
+830,categorical__City_Chaozhou,0.0
+831,categorical__City_Cheyenne,0.0
+832,categorical__City_Chevilly-Larue,0.0
+833,categorical__City_Chetumal,0.0
+834,categorical__City_Cheshunt,0.0
+835,categorical__City_Chesapeake,0.0
+836,categorical__City_Chernihiv,0.0
+837,categorical__City_Cherbourg-Octeville,0.0
+838,categorical__City_Chennai,0.0
+839,categorical__City_Chengdu,0.0
+840,categorical__City_Chincha Alta,0.0
+841,categorical__City_Chelyabinsk,0.0
+842,categorical__City_Chimbote,0.0
+843,categorical__City_Chimaltenango,0.0
+844,categorical__City_Chilpancingo,0.0
+845,categorical__City_Chillán,0.0
+846,categorical__City_Chilly-Mazarin,0.0
+847,categorical__City_Chililabombwe,0.0
+848,categorical__City_Chigasaki,0.0
+849,categorical__City_Chifeng,0.0
+850,categorical__City_Chieti,0.0
+851,categorical__City_Chico,0.0
+852,categorical__City_Chiclayo,0.0
+853,categorical__City_Chuncheon,0.0
+854,categorical__City_Chula Vista,0.0
+855,categorical__City_Anshan,0.0
+856,categorical__City_Arapongas,0.0
+857,categorical__City_Arapiraca,0.0
+858,categorical__City_Arak,0.0
+859,categorical__City_Araguaína,0.0
+860,categorical__City_Choisy-le-Roi,0.0
+861,categorical__City_Chittagong,0.0
+862,categorical__City_Chisinau,0.0
+863,categorical__City_Chipata,0.0
+864,categorical__City_Chioggia,0.0
+865,categorical__City_Chingola,0.0
+866,categorical__City_Clermont-Ferrand,0.0
+867,categorical__City_Clarksville,0.0
+868,categorical__City_Clamart,0.0
+869,categorical__City_Chimoio,0.0
+870,categorical__City_Chongqing,0.0
+871,categorical__City_Cholula,0.0
+872,categorical__City_Cholet,0.0
+873,categorical__City_Arzgir,0.0
+874,categorical__City_Arvada,0.0
+875,categorical__City_Arusha,0.0
+876,categorical__City_Artemisa,0.0
+877,categorical__City_Arras,0.0
+878,categorical__City_Arnsberg,0.0
+879,categorical__City_Arnhem,0.0
+880,categorical__City_Armidale,0.0
+881,categorical__City_Armenia,0.0
+882,categorical__City_Anshun,0.0
+883,categorical__City_Clacton-on-Sea,0.0
+884,categorical__City_Ciénaga,0.0
+885,categorical__City_Cizre,0.0
+886,categorical__City_Civitavecchia,0.0
+887,categorical__City_Citrus Heights,0.0
+888,categorical__City_Cirebon,0.0
+889,categorical__City_Cipolletti,0.0
+890,categorical__City_Cinisello Balsamo,0.0
+891,categorical__City_Cincinnati,0.0
+892,categorical__City_Cienfuegos,0.0
+893,categorical__City_Ciego de Ávila,0.0
+894,categorical__City_Cidade Ocidental,0.0
+895,categorical__City_Coimbatore,0.0
+896,categorical__City_Cochabamba,0.0
+897,categorical__City_Chorzow,0.0
+898,categorical__City_Coatzacoalcos,0.0
+899,categorical__City_Coari,0.0
+900,categorical__City_Coachella,0.0
+901,categorical__City_Coacalco,0.0
+902,categorical__City_Clydach,0.0
+903,categorical__City_Cluj-Napoca,0.0
+904,categorical__City_Clovis,0.0
+905,categorical__City_Clifton,0.0
+906,categorical__City_Clichy-sous-Bois,0.0
+907,categorical__City_Clichy,0.0
+908,categorical__City_Cleveland,0.0
+909,categorical__City_Comodoro Rivadavia,0.0
+910,categorical__City_Como,0.0
+911,categorical__City_Commerce City,0.0
+912,categorical__City_Colón,0.0
+913,categorical__City_Colorado Springs,0.0
+914,categorical__City_Colomiers,0.0
+915,categorical__City_Colombo,0.0
+916,categorical__City_Colombes,0.0
+917,categorical__City_Colmar,0.0
+918,categorical__City_College Station,0.0
+919,categorical__City_Colima,0.0
+920,categorical__City_Coimbra,0.0
+921,categorical__City_Coppell,0.0
+922,categorical__City_Copiapó,0.0
+923,categorical__City_Copenhagen,0.0
+924,categorical__City_Coon Rapids,0.0
+925,categorical__City_Conway,0.0
+926,categorical__City_Contramaestre,0.0
+927,categorical__City_Contagem,0.0
+928,categorical__City_Constantine,0.0
+929,categorical__City_Constanta,0.0
+930,categorical__City_Consolación del Sur,0.0
+931,categorical__City_Conselheiro Lafaiete,0.0
+932,categorical__City_Conroe,0.0
+933,categorical__City_Conflans-Sainte-Honorine,0.0
+934,categorical__City_Concord,0.0
+935,categorical__City_Concepción del Uruguay,0.0
+936,categorical__City_Concarneau,0.0
+937,categorical__City_Cottage Grove,0.0
+938,categorical__City_Cotonou,0.0
+939,categorical__City_Cotia,0.0
+940,categorical__City_Costa Mesa,0.0
+941,categorical__City_Cosmópolis,0.0
+942,categorical__City_Coslada,0.0
+943,categorical__City_Corum,0.0
+944,categorical__City_Corrientes,0.0
+945,categorical__City_Corpus Christi,0.0
+946,categorical__City_Cormeilles-en-Parisis,0.0
+947,categorical__City_Corlu,0.0
+948,categorical__City_Coral Gables,0.0
+949,categorical__City_Crewe,0.0
+950,categorical__City_Cremona,0.0
+951,categorical__City_Creil,0.0
+952,categorical__City_Crawley,0.0
+953,categorical__City_Crato,0.0
+954,categorical__City_Cranston,0.0
+955,categorical__City_Craiova,0.0
+956,categorical__City_Coyoacán,0.0
+957,categorical__City_Coxs B?z?r,0.0
+958,categorical__City_Covington,0.0
+959,categorical__City_Coventry,0.0
+960,categorical__City_Cournon-d'Auvergne,0.0
+961,categorical__City_Courbevoie,0.0
+962,categorical__City_Coulommiers,0.0
+963,categorical__City_Coudekerque-Branche,0.0
+964,categorical__City_Cottbus,0.0
+965,categorical__City_Cuttack,0.0
+966,categorical__City_Curitiba,0.0
+967,categorical__City_Cuneo,0.0
+968,categorical__City_Cumaná,0.0
+969,categorical__City_Culiacán,0.0
+970,categorical__City_Cuiabá,0.0
+971,categorical__City_Cuernavaca,0.0
+972,categorical__City_Cubuk,0.0
+973,categorical__City_Cuautitlán,0.0
+974,categorical__City_Cruzeiro do Sul,0.0
+975,categorical__City_Cruz das Almas,0.0
+976,categorical__City_Crotone,0.0
+977,categorical__City_Criciúma,0.0
+978,categorical__City_Daloa,0.0
+979,categorical__City_Dalian,0.0
+980,categorical__City_Dakar,0.0
+981,categorical__City_Daejeon,0.0
+982,categorical__City_Daegu,0.0
+983,categorical__City_Dabrowa Gornicza,0.0
+984,categorical__City_Cúcuta,0.0
+985,categorical__City_Cúa,0.0
+986,categorical__City_Córdoba,0.0
+987,categorical__City_Cártama,0.0
+988,categorical__City_Cárdenas,0.0
+989,categorical__City_Cuyahoga Falls,0.0
+990,categorical__City_Cuxhaven,0.0
+991,categorical__City_Davis,0.0
+992,categorical__City_David,0.0
+993,categorical__City_Datong,0.0
+994,categorical__City_Darton,0.0
+995,categorical__City_Dartmouth,0.0
+996,categorical__City_Darmstadt,0.0
+997,categorical__City_Darlington,0.0
+998,categorical__City_Darbhanga,0.0
+999,categorical__City_Dar es Salaam,0.0
+1000,categorical__City_Dar Chioukh,0.0
+1001,categorical__City_Daqing,0.0
+1002,categorical__City_Danville,0.0
+1003,categorical__City_Danbury,0.0
+1004,categorical__City_Damaturu,0.0
+1005,categorical__City_Damanhur,0.0
+1006,categorical__City_Den Helder,0.0
+1007,categorical__City_Deltona,0.0
+1008,categorical__City_Delray Beach,0.0
+1009,categorical__City_Delmenhorst,0.0
+1010,categorical__City_Delicias,0.0
+1011,categorical__City_Delgado,0.0
+1012,categorical__City_Delft,0.0
+1013,categorical__City_Dehra Dun,0.0
+1014,categorical__City_Deer Park,0.0
+1015,categorical__City_Decatur,0.0
+1016,categorical__City_Dearborn Heights,0.0
+1017,categorical__City_Dearborn,0.0
+1018,categorical__City_Daytona Beach,0.0
+1019,categorical__City_Dayr az Zawr,0.0
+1020,categorical__City_Dax,0.0
+1021,categorical__City_Dewsbury,0.0
+1022,categorical__City_Deva,0.0
+1023,categorical__City_Deuil-la-Barre,0.0
+1024,categorical__City_Des Plaines,0.0
+1025,categorical__City_Des Moines,0.0
+1026,categorical__City_Derby,0.0
+1027,categorical__City_Derbent,0.0
+1028,categorical__City_Depok,0.0
+1029,categorical__City_Denver,0.0
+1030,categorical__City_Denpasar,0.0
+1031,categorical__City_Denizli,0.0
+1032,categorical__City_Denain,0.0
+1033,categorical__City_Doha,0.0
+1034,categorical__City_Doetinchem,0.0
+1035,categorical__City_Dnipropetrovs'k,0.0
+1036,categorical__City_Dniprodzerzhyns'k,0.0
+1037,categorical__City_Djougou,0.0
+1038,categorical__City_Diyarbakir,0.0
+1039,categorical__City_Disuq,0.0
+1040,categorical__City_Dire Dawa,0.0
+1041,categorical__City_Dinslaken,0.0
+1042,categorical__City_Dijon,0.0
+1043,categorical__City_Digne-les-Bains,0.0
+1044,categorical__City_Dieppe,0.0
+1045,categorical__City_Diadema,0.0
+1046,categorical__City_Dhule,0.0
+1047,categorical__City_Dover,0.0
+1048,categorical__City_Dourados,0.0
+1049,categorical__City_Douarnenez,0.0
+1050,categorical__City_Douai,0.0
+1051,categorical__City_Dos Quebradas,0.0
+1052,categorical__City_Dortmund,0.0
+1053,categorical__City_Dorsten,0.0
+1054,categorical__City_Dormagen,0.0
+1055,categorical__City_Dordrecht,0.0
+1056,categorical__City_Donghai,0.0
+1057,categorical__City_Dongguan,0.0
+1058,categorical__City_Doncaster,0.0
+1059,categorical__City_Domont,0.0
+1060,categorical__City_Dole,0.0
+1061,categorical__City_Dundee,0.0
+1062,categorical__City_Dumai,0.0
+1063,categorical__City_Duitama,0.0
+1064,categorical__City_Dudley,0.0
+1065,categorical__City_Dubuque,0.0
+1066,categorical__City_Dubbo,0.0
+1067,categorical__City_Drogobych,0.0
+1068,categorical__City_Drobeta-Turnu Severin,0.0
+1069,categorical__City_Dresden,0.0
+1070,categorical__City_Draper,0.0
+1071,categorical__City_Drancy,0.0
+1072,categorical__City_Drammen,0.0
+1073,categorical__City_Draguignan,0.0
+1074,categorical__City_Eastbourne,0.0
+1075,categorical__City_East Point,0.0
+1076,categorical__City_East Orange,0.0
+1077,categorical__City_East Kilbride,0.0
+1078,categorical__City_Eagan,0.0
+1079,categorical__City_Dzhezkazgan,0.0
+1080,categorical__City_Duzce,0.0
+1081,categorical__City_Durham,0.0
+1082,categorical__City_Durgapur,0.0
+1083,categorical__City_Durg,0.0
+1084,categorical__City_Durban,0.0
+1085,categorical__City_Duque de Caxias,0.0
+1086,categorical__City_Dunstable,0.0
+1087,categorical__City_Dunedin,0.0
+1088,categorical__City_El Cajon,0.0
+1089,categorical__City_Ekibastuz,0.0
+1090,categorical__City_Eindhoven,0.0
+1091,categorical__City_Eggenstein-Leopoldshafen,0.0
+1092,categorical__City_Edogawa-ku,0.0
+1093,categorical__City_Edmonton,0.0
+1094,categorical__City_Edmonds,0.0
+1095,categorical__City_Edmond,0.0
+1096,categorical__City_Edirne,0.0
+1097,categorical__City_Edinburgh,0.0
+1098,categorical__City_Edinburg,0.0
+1099,categorical__City_Envigado,0.0
+1100,categorical__City_Edea,0.0
+1101,categorical__City_Echuca,0.0
+1102,categorical__City_Echirolles,0.0
+1103,categorical__City_Ebolowa,0.0
+1104,categorical__City_Eau Claire,0.0
+1105,categorical__City_Encinitas,0.0
+1106,categorical__City_Emmen,0.0
+1107,categorical__City_Emden,0.0
+1108,categorical__City_Elyria,0.0
+1109,categorical__City_Bhiwandi,0.0
+1110,categorical__City_Bhilwara,0.0
+1111,categorical__City_Bhilai,0.0
+1112,categorical__City_Bhavnagar,0.0
+1113,categorical__City_Bengbu,0.0
+1114,categorical__City_Bene Beraq,0.0
+1115,categorical__City_Bharatpur,0.0
+1116,categorical__City_Bezons,0.0
+1117,categorical__City_Beykoz,0.0
+1118,categorical__City_Beverly,0.0
+1119,categorical__City_Betim,0.0
+1120,categorical__City_Bethlehem,0.0
+1121,categorical__City_Birigui,0.0
+1122,categorical__City_Binzhou,0.0
+1123,categorical__City_Elmhurst,0.0
+1124,categorical__City_Elkhart,0.0
+1125,categorical__City_Elda,0.0
+1126,categorical__City_Elbasan,0.0
+1127,categorical__City_Elazig,0.0
+1128,categorical__City_El Tigre,0.0
+1129,categorical__City_El Progreso,0.0
+1130,categorical__City_El Prat de Llobregat,0.0
+1131,categorical__City_El Paso,0.0
+1132,categorical__City_El Limón,0.0
+1133,categorical__City_El Ejido,0.0
+1134,categorical__City_Esbjerg,0.0
+1135,categorical__City_Erzurum,0.0
+1136,categorical__City_Ermont,0.0
+1137,categorical__City_Erlangen,0.0
+1138,categorical__City_Erfurt,0.0
+1139,categorical__City_Erftstadt,0.0
+1140,categorical__City_Erechim,0.0
+1141,categorical__City_Eragny,0.0
+1142,categorical__City_Epworth,0.0
+1143,categorical__City_Epinal,0.0
+1144,categorical__City_Facatativá,0.0
+1145,categorical__City_Enugu,0.0
+1146,categorical__City_Ensenada,0.0
+1147,categorical__City_Enschede,0.0
+1148,categorical__City_Ennigerloh,0.0
+1149,categorical__City_Englewood,0.0
+1150,categorical__City_Everett,0.0
+1151,categorical__City_Evanston,0.0
+1152,categorical__City_Euskirchen,0.0
+1153,categorical__City_Eunápolis,0.0
+1154,categorical__City_Etimesgut,0.0
+1155,categorical__City_Etawah,0.0
+1156,categorical__City_Estepona,0.0
+1157,categorical__City_Estelí,0.0
+1158,categorical__City_Essen,0.0
+1159,categorical__City_Esquina,0.0
+1160,categorical__City_Fengcheng,0.0
+1161,categorical__City_Eskisehir,0.0
+1162,categorical__City_Esenyurt,0.0
+1163,categorical__City_Escondido,0.0
+1164,categorical__City_Fatehpur,0.0
+1165,categorical__City_Fasa,0.0
+1166,categorical__City_Farroupilha,0.0
+1167,categorical__City_Farnborough,0.0
+1168,categorical__City_Faridabad,0.0
+1169,categorical__City_Fargo,0.0
+1170,categorical__City_Fano,0.0
+1171,categorical__City_Falconara Marittima,0.0
+1172,categorical__City_Faenza,0.0
+1173,categorical__City_Faches-Thumesnil,0.0
+1174,categorical__City_Foligno,0.0
+1175,categorical__City_Ezhou,0.0
+1176,categorical__City_Exeter,0.0
+1177,categorical__City_Evry,0.0
+1178,categorical__City_Evreux,0.0
+1179,categorical__City_Flers,0.0
+1180,categorical__City_Flensburg,0.0
+1181,categorical__City_Fiumicino,0.0
+1182,categorical__City_Firozabad,0.0
+1183,categorical__City_Firminy,0.0
+1184,categorical__City_Fianarantsoa,0.0
+1185,categorical__City_Ferrara,0.0
+1186,categorical__City_Ferndown,0.0
+1187,categorical__City_Fernando de la Mora,0.0
+1188,categorical__City_Franca,0.0
+1189,categorical__City_Felahiye,0.0
+1190,categorical__City_Feira de Santana,0.0
+1191,categorical__City_Feira,0.0
+1192,categorical__City_Fayetteville,0.0
+1193,categorical__City_Fort Worth,0.0
+1194,categorical__City_Fort Portal,0.0
+1195,categorical__City_Fort Lauderdale,0.0
+1196,categorical__City_Fort Collins,0.0
+1197,categorical__City_Forster,0.0
+1198,categorical__City_Forbach,0.0
+1199,categorical__City_Fontenay-sous-Bois,0.0
+1200,categorical__City_Fontenay-le-Comte,0.0
+1201,categorical__City_Fontenay-aux-Roses,0.0
+1202,categorical__City_Fontainebleau,0.0
+1203,categorical__City_Fontaine,0.0
+1204,categorical__City_Frisco,0.0
+1205,categorical__City_Foggia,0.0
+1206,categorical__City_Floridablanca,0.0
+1207,categorical__City_Floriano,0.0
+1208,categorical__City_Florencia,0.0
+1209,categorical__City_Fresnes,0.0
+1210,categorical__City_Fremont,0.0
+1211,categorical__City_Freiburg,0.0
+1212,categorical__City_Freeport,0.0
+1213,categorical__City_Frederiksberg,0.0
+1214,categorical__City_Franklin,0.0
+1215,categorical__City_Frankfurt,0.0
+1216,categorical__City_Frankfort,0.0
+1217,categorical__City_Franco da Rocha,0.0
+1218,categorical__City_Francisco Morato,0.0
+1219,categorical__City_Francisco Beltrão,0.0
+1220,categorical__City_Gaithersburg,0.0
+1221,categorical__City_Foumban,0.0
+1222,categorical__City_Foshan,0.0
+1223,categorical__City_Fortaleza,0.0
+1224,categorical__City_Fort-de-France,0.0
+1225,categorical__City_Funtua,0.0
+1226,categorical__City_Funabashi,0.0
+1227,categorical__City_Fukuyama,0.0
+1228,categorical__City_Fukui,0.0
+1229,categorical__City_Fujisawa,0.0
+1230,categorical__City_Fuenlabrada,0.0
+1231,categorical__City_Fuengirola,0.0
+1232,categorical__City_Frontignan,0.0
+1233,categorical__City_Frontera,0.0
+1234,categorical__City_Garoua,0.0
+1235,categorical__City_Friedrichshafen,0.0
+1236,categorical__City_Friedberg,0.0
+1237,categorical__City_Fresno,0.0
+1238,categorical__City_Fresnillo de González Echeverría,0.0
+1239,categorical__City_Garches,0.0
+1240,categorical__City_Garbsen,0.0
+1241,categorical__City_Garanhuns,0.0
+1242,categorical__City_Gaoyou,0.0
+1243,categorical__City_Gaomi,0.0
+1244,categorical__City_Ganganagar,0.0
+1245,categorical__City_Gandia,0.0
+1246,categorical__City_Galway,0.0
+1247,categorical__City_Galati,0.0
+1248,categorical__City_Gagny,0.0
+1249,categorical__City_Gagnoa,0.0
+1250,categorical__City_Fuzhou,0.0
+1251,categorical__City_Fushun,0.0
+1252,categorical__City_Gdynia,0.0
+1253,categorical__City_Gdansk,0.0
+1254,categorical__City_Gaziemir,0.0
+1255,categorical__City_Gaziantep,0.0
+1256,categorical__City_Gaya,0.0
+1257,categorical__City_Gawler,0.0
+1258,categorical__City_Gatineau,0.0
+1259,categorical__City_Gateshead,0.0
+1260,categorical__City_Gaspar,0.0
+1261,categorical__City_Garza García,0.0
+1262,categorical__City_Gillingham,0.0
+1263,categorical__City_Garland,0.0
+1264,categorical__City_Garforth,0.0
+1265,categorical__City_Garden City,0.0
+1266,categorical__City_Gardanne,0.0
+1267,categorical__City_Ghaziabad,0.0
+1268,categorical__City_Geraldton,0.0
+1269,categorical__City_Gera,0.0
+1270,categorical__City_Georgetown,0.0
+1271,categorical__City_George,0.0
+1272,categorical__City_Genoa,0.0
+1273,categorical__City_Gennevilliers,0.0
+1274,categorical__City_Genk,0.0
+1275,categorical__City_Geneva,0.0
+1276,categorical__City_General Escobedo,0.0
+1277,categorical__City_Goiânia,0.0
+1278,categorical__City_Gela,0.0
+1279,categorical__City_Geelong,0.0
+1280,categorical__City_Gebze,0.0
+1281,categorical__City_Glendale,0.0
+1282,categorical__City_Gladstone,0.0
+1283,categorical__City_Gladbeck,0.0
+1284,categorical__City_Giyani,0.0
+1285,categorical__City_Givors,0.0
+1286,categorical__City_Giurgiu,0.0
+1287,categorical__City_Gitarama,0.0
+1288,categorical__City_Gisborne,0.0
+1289,categorical__City_Girón,0.0
+1290,categorical__City_Girona,0.0
+1291,categorical__City_Girga,0.0
+1292,categorical__City_Gradignan,0.0
+1293,categorical__City_Gilbert,0.0
+1294,categorical__City_Gien,0.0
+1295,categorical__City_Gothenburg,0.0
+1296,categorical__City_Gosport,0.0
+1297,categorical__City_Gorzow Wielkopolski,0.0
+1298,categorical__City_Gorgan,0.0
+1299,categorical__City_Gorakhpur,0.0
+1300,categorical__City_Gonesse,0.0
+1301,categorical__City_Gonaïves,0.0
+1302,categorical__City_Gonabad,0.0
+1303,categorical__City_Gombe,0.0
+1304,categorical__City_Goldsboro,0.0
+1305,categorical__City_Gold Coast,0.0
+1306,categorical__City_Greensboro,0.0
+1307,categorical__City_Gloucester,0.0
+1308,categorical__City_Gliwice,0.0
+1309,categorical__City_Glenview,0.0
+1310,categorical__City_Great Falls,0.0
+1311,categorical__City_Graz,0.0
+1312,categorical__City_Gravesend,0.0
+1313,categorical__City_Gravataí,0.0
+1314,categorical__City_Grasse,0.0
+1315,categorical__City_Grapevine,0.0
+1316,categorical__City_Granollers,0.0
+1317,categorical__City_Grand Rapids,0.0
+1318,categorical__City_Grand Prairie,0.0
+1319,categorical__City_Grand Island,0.0
+1320,categorical__City_Granada,0.0
+1321,categorical__City_Grajaú,0.0
+1322,categorical__City_Guanajuato,0.0
+1323,categorical__City_Goyang,0.0
+1324,categorical__City_Goussainville,0.0
+1325,categorical__City_Goulburn,0.0
+1326,categorical__City_Grove City,0.0
+1327,categorical__City_Grosseto,0.0
+1328,categorical__City_Groningen,0.0
+1329,categorical__City_Gronau,0.0
+1330,categorical__City_Grigny,0.0
+1331,categorical__City_Griffith,0.0
+1332,categorical__City_Grevenbroich,0.0
+1333,categorical__City_Gresham,0.0
+1334,categorical__City_Grenoble,0.0
+1335,categorical__City_Greifswald,0.0
+1336,categorical__City_Greenwood,0.0
+1337,categorical__City_Greenville,0.0
+1338,categorical__City_Guaymas,0.0
+1339,categorical__City_Green Bay,0.0
+1340,categorical__City_Greeley,0.0
+1341,categorical__City_Great Yarmouth,0.0
+1342,categorical__City_Guatemala City,0.0
+1343,categorical__City_Guasave,0.0
+1344,categorical__City_Guarulhos,0.0
+1345,categorical__City_Guarujá,0.0
+1346,categorical__City_Guaratinguetá,0.0
+1347,categorical__City_Guarapuava,0.0
+1348,categorical__City_Guarapari,0.0
+1349,categorical__City_Guangshui,0.0
+1350,categorical__City_Guanare,0.0
+1351,categorical__City_Guanambi,0.0
+1352,categorical__City_Gurupi,0.0
+1353,categorical__City_Guamúchil,0.0
+1354,categorical__City_Guacara,0.0
+1355,categorical__City_Gulfport,0.0
+1356,categorical__City_Gulbarga,0.0
+1357,categorical__City_Gujrat,0.0
+1358,categorical__City_Gujranwala,0.0
+1359,categorical__City_Guiyang,0.0
+1360,categorical__City_Guilin,0.0
+1361,categorical__City_Guildford,0.0
+1362,categorical__City_Guidonia Montecelio,0.0
+1363,categorical__City_Guelph,0.0
+1364,categorical__City_Guelmim,0.0
+1365,categorical__City_Gubkin,0.0
+1366,categorical__City_Hagerstown,0.0
+1367,categorical__City_Guayana,0.0
+1368,categorical__City_Guatire,0.0
+1369,categorical__City_Hackensack,0.0
+1370,categorical__City_Hachinohe,0.0
+1371,categorical__City_Haarlem,0.0
+1372,categorical__City_Günzburg,0.0
+1373,categorical__City_Gómez Palacio,0.0
+1374,categorical__City_Gyula,0.0
+1375,categorical__City_Gyor,0.0
+1376,categorical__City_Gwalior,0.0
+1377,categorical__City_Guzmán,0.0
+1378,categorical__City_Guwahati,0.0
+1379,categorical__City_Gusau,0.0
+1380,categorical__City_Ambattur,0.0
+1381,categorical__City_Guntur,0.0
+1382,categorical__City_Gummersbach,0.0
+1383,categorical__City_Gulu,0.0
+1384,categorical__City_Hamar,0.0
+1385,categorical__City_Hamadan,0.0
+1386,categorical__City_Haltom City,0.0
+1387,categorical__City_Halmstad,0.0
+1388,categorical__City_Halluin,0.0
+1389,categorical__City_Halifax,0.0
+1390,categorical__City_Hailin,0.0
+1391,categorical__City_Haikou,0.0
+1392,categorical__City_Haifa,0.0
+1393,categorical__City_Haguenau,0.0
+1394,categorical__City_Hagen,0.0
+1395,categorical__City_Hadera,0.0
+1396,categorical__City_Hargeysa,0.0
+1397,categorical__City_Hardenberg,0.0
+1398,categorical__City_Harbin,0.0
+1399,categorical__City_Harare,0.0
+1400,categorical__City_Haninge,0.0
+1401,categorical__City_Hangzhou,0.0
+1402,categorical__City_Hangu,0.0
+1403,categorical__City_Amiens,0.0
+1404,categorical__City_Amersfoort,0.0
+1405,categorical__City_Americana,0.0
+1406,categorical__City_Ambon,0.0
+1407,categorical__City_Harlow,0.0
+1408,categorical__City_Harlingen,0.0
+1409,categorical__City_Amatitlán,0.0
+1410,categorical__City_Amasya,0.0
+1411,categorical__City_Anqing,0.0
+1412,categorical__City_Annonay,0.0
+1413,categorical__City_Annaba,0.0
+1414,categorical__City_Ann Arbor,0.0
+1415,categorical__City_Anjo,0.0
+1416,categorical__City_Anglet,0.0
+1417,categorical__City_Handan,0.0
+1418,categorical__City_Handa,0.0
+1419,categorical__City_Hamme,0.0
+1420,categorical__City_Hamm,0.0
+1421,categorical__City_Helmond,0.0
+1422,categorical__City_Helena,0.0
+1423,categorical__City_Heidelberg,0.0
+1424,categorical__City_Heerlen,0.0
+1425,categorical__City_Hechuan,0.0
+1426,categorical__City_Hebi,0.0
+1427,categorical__City_Hazebrouck,0.0
+1428,categorical__City_Hayange,0.0
+1429,categorical__City_Hattingen,0.0
+1430,categorical__City_Hattiesburg,0.0
+1431,categorical__City_Hastings,0.0
+1432,categorical__City_Hasselt,0.0
+1433,categorical__City_Hartlepool,0.0
+1434,categorical__City_Harrogate,0.0
+1435,categorical__City_Harrisonburg,0.0
+1436,categorical__City_Heze,0.0
+1437,categorical__City_Heyuan,0.0
+1438,categorical__City_Herten,0.0
+1439,categorical__City_Heroica Zitácuaro,0.0
+1440,categorical__City_Herne,0.0
+1441,categorical__City_Hermosillo,0.0
+1442,categorical__City_Herford,0.0
+1443,categorical__City_Hereford,0.0
+1444,categorical__City_Hengyang,0.0
+1445,categorical__City_Hendersonville,0.0
+1446,categorical__City_Henderson,0.0
+1447,categorical__City_Hempstead,0.0
+1448,categorical__City_Hemel Hempstead,0.0
+1449,categorical__City_Helsinki,0.0
+1450,categorical__City_Helsingborg,0.0
+1451,categorical__City_Hisar,0.0
+1452,categorical__City_Huddersfield,0.0
+1453,categorical__City_Hubli,0.0
+1454,categorical__City_Hinckley,0.0
+1455,categorical__City_Himeji,0.0
+1456,categorical__City_Hilversum,0.0
+1457,categorical__City_Hillsboro,0.0
+1458,categorical__City_Hildesheim,0.0
+1459,categorical__City_Hilden,0.0
+1460,categorical__City_Highland Park,0.0
+1461,categorical__City_High Wycombe,0.0
+1462,categorical__City_Hidalgo,0.0
+1463,categorical__City_Hickory,0.0
+1464,categorical__City_Houilles,0.0
+1465,categorical__City_Ibirité,0.0
+1466,categorical__City_Ibaraki,0.0
+1467,categorical__City_Ibagué,0.0
+1468,categorical__City_Hot Springs,0.0
+1469,categorical__City_Horlivka,0.0
+1470,categorical__City_Hoover,0.0
+1471,categorical__City_Homyel',0.0
+1472,categorical__City_Homs,0.0
+1473,categorical__City_Homestead,0.0
+1474,categorical__City_Hollywood,0.0
+1475,categorical__City_Holland,0.0
+1476,categorical__City_Holguín,0.0
+1477,categorical__City_Hohhot,0.0
+1478,categorical__City_Hod HaSharon,0.0
+1479,categorical__City_Hobart,0.0
+1480,categorical__City_Huddinge,0.0
+1481,categorical__City_Imola,0.0
+1482,categorical__City_Ilorin,0.0
+1483,categorical__City_Ilopango,0.0
+1484,categorical__City_Huaraz,0.0
+1485,categorical__City_Huangshan,0.0
+1486,categorical__City_Huancayo,0.0
+1487,categorical__City_Huambo,0.0
+1488,categorical__City_Huaiyin,0.0
+1489,categorical__City_Huainan,0.0
+1490,categorical__City_Huaibei,0.0
+1491,categorical__City_Huadian,0.0
+1492,categorical__City_Hrodna,0.0
+1493,categorical__City_Hradec Kralove,0.0
+1494,categorical__City_Hove,0.0
+1495,categorical__City_Ibiúna,0.0
+1496,categorical__City_Ipswich,0.0
+1497,categorical__City_Ipoh,0.0
+1498,categorical__City_Ipiales,0.0
+1499,categorical__City_Ibadan,0.0
+1500,categorical__City_Iasi,0.0
+1501,categorical__City_Hyderabad,0.0
+1502,categorical__City_Huzhou,0.0
+1503,categorical__City_Huyton,0.0
+1504,categorical__City_Hurghada,0.0
+1505,categorical__City_Huntington Beach,0.0
+1506,categorical__City_Huizhou,0.0
+1507,categorical__City_Huixquilucan,0.0
+1508,categorical__City_Huehuetenango,0.0
+1509,categorical__City_Issy-les-Moulineaux,0.0
+1510,categorical__City_Issoire,0.0
+1511,categorical__City_Isparta,0.0
+1512,categorical__City_Iskenderun,0.0
+1513,categorical__City_Ilo,0.0
+1514,categorical__City_Illkirch-Graffenstaden,0.0
+1515,categorical__City_Ilhéus,0.0
+1516,categorical__City_Ilesha,0.0
+1517,categorical__City_Ikot Ekpene,0.0
+1518,categorical__City_Ijuí,0.0
+1519,categorical__City_Igurusi,0.0
+1520,categorical__City_Iguala,0.0
+1521,categorical__City_Igdir,0.0
+1522,categorical__City_Igarassu,0.0
+1523,categorical__City_Idfu,0.0
+1524,categorical__City_Ichalkaranji,0.0
+1525,categorical__City_Ivry-sur-Seine,0.0
+1526,categorical__City_Ivanovo,0.0
+1527,categorical__City_Ivano-Frankivs'k,0.0
+1528,categorical__City_Ituiutaba,0.0
+1529,categorical__City_Ipatinga,0.0
+1530,categorical__City_Iowa City,0.0
+1531,categorical__City_Invercargill,0.0
+1532,categorical__City_Innsbruck,0.0
+1533,categorical__City_Ingolstadt,0.0
+1534,categorical__City_Inegol,0.0
+1535,categorical__City_Indore,0.0
+1536,categorical__City_Independence,0.0
+1537,categorical__City_Indaiatuba,0.0
+1538,categorical__City_Indaial,0.0
+1539,categorical__City_Imphal,0.0
+1540,categorical__City_Jamestown,0.0
+1541,categorical__City_Jambi,0.0
+1542,categorical__City_Jalna,0.0
+1543,categorical__City_Jalalabad,0.0
+1544,categorical__City_Iserlohn,0.0
+1545,categorical__City_Irving,0.0
+1546,categorical__City_Irun,0.0
+1547,categorical__City_Irkutsk,0.0
+1548,categorical__City_Iringa,0.0
+1549,categorical__City_Irbid,0.0
+1550,categorical__City_Irapuato,0.0
+1551,categorical__City_Iranshahr,0.0
+1552,categorical__City_Iquitos,0.0
+1553,categorical__City_Iquique,0.0
+1554,categorical__City_Ixtapaluca,0.0
+1555,categorical__City_Jerez de la Frontera,0.0
+1556,categorical__City_Jequié,0.0
+1557,categorical__City_Jena,0.0
+1558,categorical__City_Jember,0.0
+1559,categorical__City_Itu,0.0
+1560,categorical__City_Itaúna,0.0
+1561,categorical__City_Itapevi,0.0
+1562,categorical__City_Itapetininga,0.0
+1563,categorical__City_Itapecuru Mirim,0.0
+1564,categorical__City_Itapecerica da Serra,0.0
+1565,categorical__City_Itamaraju,0.0
+1566,categorical__City_Itajaí,0.0
+1567,categorical__City_Itaituba,0.0
+1568,categorical__City_Istres,0.0
+1569,categorical__City_Jamnagar,0.0
+1570,categorical__City_Jammu,0.0
+1571,categorical__City_Jingmen,0.0
+1572,categorical__City_Jingdezhen,0.0
+1573,categorical__City_Jinan,0.0
+1574,categorical__City_Jilin,0.0
+1575,categorical__City_Jaipur,0.0
+1576,categorical__City_Jacobina,0.0
+1577,categorical__City_Jacareí,0.0
+1578,categorical__City_Jaboticabal,0.0
+1579,categorical__City_Jabalpur,0.0
+1580,categorical__City_Izúcar de Matamoros,0.0
+1581,categorical__City_Ji-Paraná,0.0
+1582,categorical__City_Jhansi,0.0
+1583,categorical__City_Jerusalem,0.0
+1584,categorical__City_Jos,0.0
+1585,categorical__City_Joinville,0.0
+1586,categorical__City_Jefferson City,0.0
+1587,categorical__City_Jeddah,0.0
+1588,categorical__City_Jaú,0.0
+1589,categorical__City_Jayapura,0.0
+1590,categorical__City_Jaworzno,0.0
+1591,categorical__City_Javanrud,0.0
+1592,categorical__City_Jataí,0.0
+1593,categorical__City_Jastrzebie Zdroj,0.0
+1594,categorical__City_Jamundí,0.0
+1595,categorical__City_Jinja,0.0
+1596,categorical__City_Jining,0.0
+1597,categorical__City_Jinhua,0.0
+1598,categorical__City_Kafr ash Shaykh,0.0
+1599,categorical__City_Kafr ad Dawwar,0.0
+1600,categorical__City_Kaduna,0.0
+1601,categorical__City_Kadoma,0.0
+1602,categorical__City_Kabwe,0.0
+1603,categorical__City_Jiaxing,0.0
+1604,categorical__City_Jiaozuo,0.0
+1605,categorical__City_Jiangyou,0.0
+1606,categorical__City_Jiangyan,0.0
+1607,categorical__City_Berne,0.0
+1608,categorical__City_Berlin,0.0
+1609,categorical__City_Bergisch Gladbach,0.0
+1610,categorical__City_Bergheim,0.0
+1611,categorical__City_Beipiao,0.0
+1612,categorical__City_Bergamo,0.0
+1613,categorical__City_Berdychiv,0.0
+1614,categorical__City_Berdyans'k,0.0
+1615,categorical__City_Benxi,0.0
+1616,categorical__City_Benoni,0.0
+1617,categorical__City_Benin City,0.0
+1618,categorical__City_Bialystok,0.0
+1619,categorical__City_Bhubaneswar,0.0
+1620,categorical__City_Bhopal,0.0
+1621,categorical__City_Jiangmen,0.0
+1622,categorical__City_Jiangdu,0.0
+1623,categorical__City_Jiamusi,0.0
+1624,categorical__City_Juazeiro,0.0
+1625,categorical__City_João Pessoa,0.0
+1626,categorical__City_Kananga,0.0
+1627,categorical__City_Kampala,0.0
+1628,categorical__City_Kamina,0.0
+1629,categorical__City_Kamarhati,0.0
+1630,categorical__City_Kalyan,0.0
+1631,categorical__City_Johnson City,0.0
+1632,categorical__City_Johannesburg,0.0
+1633,categorical__City_Jizan,0.0
+1634,categorical__City_Jixi,0.0
+1635,categorical__City_Jiutepec,0.0
+1636,categorical__City_Jiutai,0.0
+1637,categorical__City_Jinjiang,0.0
+1638,categorical__City_Kaifeng,0.0
+1639,categorical__City_Kasama,0.0
+1640,categorical__City_Kartal,0.0
+1641,categorical__City_Kars,0.0
+1642,categorical__City_Karnal,0.0
+1643,categorical__City_Kabul,0.0
+1644,categorical__City_K'ut'aisi,0.0
+1645,categorical__City_Jurema,0.0
+1646,categorical__City_Jupiter,0.0
+1647,categorical__City_Junín,0.0
+1648,categorical__City_Jundiaí,0.0
+1649,categorical__City_Juliaca,0.0
+1650,categorical__City_Juiz de Fora,0.0
+1651,categorical__City_Kandi,0.0
+1652,categorical__City_Kandahar,0.0
+1653,categorical__City_Kawagoe,0.0
+1654,categorical__City_Kaunas,0.0
+1655,categorical__City_Katsushika-ku,0.0
+1656,categorical__City_Kalush,0.0
+1657,categorical__City_Kalundborg,0.0
+1658,categorical__City_Kaluga,0.0
+1659,categorical__City_Kalisz,0.0
+1660,categorical__City_Kaliningrad,0.0
+1661,categorical__City_Kalemie,0.0
+1662,categorical__City_Kakinada,0.0
+1663,categorical__City_Kaiyuan,0.0
+1664,categorical__City_Kaiserslautern,0.0
+1665,categorical__City_Kashira,0.0
+1666,categorical__City_Kashan,0.0
+1667,categorical__City_Kharkiv,0.0
+1668,categorical__City_Kettering,0.0
+1669,categorical__City_Kerpen,0.0
+1670,categorical__City_Kermanshah,0.0
+1671,categorical__City_Karlsruhe,0.0
+1672,categorical__City_Karliova,0.0
+1673,categorical__City_Karimnagar,0.0
+1674,categorical__City_Karbala',0.0
+1675,categorical__City_Karaman,0.0
+1676,categorical__City_Kara,0.0
+1677,categorical__City_Kankan,0.0
+1678,categorical__City_Kazerun,0.0
+1679,categorical__City_Kayseri,0.0
+1680,categorical__City_Kikwit,0.0
+1681,categorical__City_Kigoma,0.0
+1682,categorical__City_Kigali,0.0
+1683,categorical__City_Kiel,0.0
+1684,categorical__City_Kidderminster,0.0
+1685,categorical__City_Katsina,0.0
+1686,categorical__City_Katowice,0.0
+1687,categorical__City_Kathmandu,0.0
+1688,categorical__City_Kasugai,0.0
+1689,categorical__City_Kastamonu,0.0
+1690,categorical__City_Kassel,0.0
+1691,categorical__City_Kassala,0.0
+1692,categorical__City_Kaspiysk,0.0
+1693,categorical__City_Khemisset,0.0
+1694,categorical__City_Khasavyurt,0.0
+1695,categorical__City_Kitchener,0.0
+1696,categorical__City_Kita-ku,0.0
+1697,categorical__City_Kisumu,0.0
+1698,categorical__City_Kissimmee,0.0
+1699,categorical__City_Kismaayo,0.0
+1700,categorical__City_Keren,0.0
+1701,categorical__City_Kenner,0.0
+1702,categorical__City_Kenitra,0.0
+1703,categorical__City_Kendari,0.0
+1704,categorical__City_Keller,0.0
+1705,categorical__City_Kediri,0.0
+1706,categorical__City_Kindia,0.0
+1707,categorical__City_Kilwinning,0.0
+1708,categorical__City_Kilis,0.0
+1709,categorical__City_Kopeysk,0.0
+1710,categorical__City_Konya,0.0
+1711,categorical__City_Kolwezi,0.0
+1712,categorical__City_Kollam,0.0
+1713,categorical__City_Kolhapur,0.0
+1714,categorical__City_Khulna,0.0
+1715,categorical__City_Khouribga,0.0
+1716,categorical__City_Khorramshahr,0.0
+1717,categorical__City_Khorramabad,0.0
+1718,categorical__City_Khomeynishahr,0.0
+1719,categorical__City_Khmel'nyts'kyy,0.0
+1720,categorical__City_Kherson,0.0
+1721,categorical__City_Khenifra,0.0
+1722,categorical__City_Klagenfurt,0.0
+1723,categorical__City_Kiziltepe,0.0
+1724,categorical__City_Kitwe,0.0
+1725,categorical__City_Kremenchuk,0.0
+1726,categorical__City_Krasnyy Luch,0.0
+1727,categorical__City_Kozhikode,0.0
+1728,categorical__City_Kozan,0.0
+1729,categorical__City_Kisangani,0.0
+1730,categorical__City_Kirsehir,0.0
+1731,categorical__City_Kirovohrad,0.0
+1732,categorical__City_Kirkwood,0.0
+1733,categorical__City_Kingswood,0.0
+1734,categorical__City_Kingston,0.0
+1735,categorical__City_Kindu,0.0
+1736,categorical__City_Korhogo,0.0
+1737,categorical__City_Korce,0.0
+1738,categorical__City_Korba,0.0
+1739,categorical__City_Kupang,0.0
+1740,categorical__City_Kumba,0.0
+1741,categorical__City_Kumasi,0.0
+1742,categorical__City_Kumanovo,0.0
+1743,categorical__City_Kulti,0.0
+1744,categorical__City_Kokshetau,0.0
+1745,categorical__City_Koidu,0.0
+1746,categorical__City_Koforidua,0.0
+1747,categorical__City_Kochi,0.0
+1748,categorical__City_Kocaeli,0.0
+1749,categorical__City_Koblenz,0.0
+1750,categorical__City_Knoxville,0.0
+1751,categorical__City_Klaipeda,0.0
+1752,categorical__City_Krugersdorp,0.0
+1753,categorical__City_Kristiansand,0.0
+1754,categorical__City_La Paz,0.0
+1755,categorical__City_La Mesa,0.0
+1756,categorical__City_La Crosse,0.0
+1757,categorical__City_La Crau,0.0
+1758,categorical__City_La Ciotat,0.0
+1759,categorical__City_La Chorrera,0.0
+1760,categorical__City_Kowloon,0.0
+1761,categorical__City_Koumra,0.0
+1762,categorical__City_Kotka,0.0
+1763,categorical__City_Kota Kinabalu,0.0
+1764,categorical__City_Kota,0.0
+1765,categorical__City_Koshigaya,0.0
+1766,categorical__City_Kortrijk,0.0
+1767,categorical__City_Kure,0.0
+1768,categorical__City_Kurashiki,0.0
+1769,categorical__City_Lagos,0.0
+1770,categorical__City_Laghouat,0.0
+1771,categorical__City_La Vega,0.0
+1772,categorical__City_La Teste-de-Buch,0.0
+1773,categorical__City_La Spezia,0.0
+1774,categorical__City_Kulob,0.0
+1775,categorical__City_Kukatpalli,0.0
+1776,categorical__City_Kuito,0.0
+1777,categorical__City_Kuching,0.0
+1778,categorical__City_Kuantan,0.0
+1779,categorical__City_Kuala Terengganu,0.0
+1780,categorical__City_Kryvyy Rih,0.0
+1781,categorical__City_La Plata,0.0
+1782,categorical__City_La Pintana,0.0
+1783,categorical__City_Landskrona,0.0
+1784,categorical__City_Landerneau,0.0
+1785,categorical__City_Lancaster,0.0
+1786,categorical__City_Lambaré,0.0
+1787,categorical__City_Lakewood,0.0
+1788,categorical__City_Lakeville,0.0
+1789,categorical__City_La Chapelle-sur-Erdre,0.0
+1790,categorical__City_La Celle-Saint-Cloud,0.0
+1791,categorical__City_La Baule-Escoublac,0.0
+1792,categorical__City_L'viv,0.0
+1793,categorical__City_Kwinana,0.0
+1794,categorical__City_Kutahya,0.0
+1795,categorical__City_Laiyang,0.0
+1796,categorical__City_Laguna Niguel,0.0
+1797,categorical__City_Las Pinas,0.0
+1798,categorical__City_Las Piedras,0.0
+1799,categorical__City_Las Cruces,0.0
+1800,categorical__City_Larache,0.0
+1801,categorical__City_La Seyne-sur-Mer,0.0
+1802,categorical__City_La Romana,0.0
+1803,categorical__City_La Rochelle,0.0
+1804,categorical__City_La Roche-sur-Yon,0.0
+1805,categorical__City_La Quinta,0.0
+1806,categorical__City_La Porte,0.0
+1807,categorical__City_Langfang,0.0
+1808,categorical__City_Langenfeld,0.0
+1809,categorical__City_Langen,0.0
+1810,categorical__City_Lanester,0.0
+1811,categorical__City_Le Creusot,0.0
+1812,categorical__City_Le Chesnay,0.0
+1813,categorical__City_Le Cannet,0.0
+1814,categorical__City_Le Bouscat,0.0
+1815,categorical__City_Le Blanc-Mesnil,0.0
+1816,categorical__City_Lawton,0.0
+1817,categorical__City_Lakeland,0.0
+1818,categorical__City_Lake Elsinore,0.0
+1819,categorical__City_Lake Charles,0.0
+1820,categorical__City_Lajeado,0.0
+1821,categorical__City_Latur,0.0
+1822,categorical__City_Lattes,0.0
+1823,categorical__City_Latina,0.0
+1824,categorical__City_Las Vegas,0.0
+1825,categorical__City_Las Tunas,0.0
+1826,categorical__City_Lençóis Paulista,0.0
+1827,categorical__City_Lens,0.0
+1828,categorical__City_Leipzig,0.0
+1829,categorical__City_Leicester,0.0
+1830,categorical__City_Lehi,0.0
+1831,categorical__City_Legnano,0.0
+1832,categorical__City_Leeuwarden,0.0
+1833,categorical__City_Laon,0.0
+1834,categorical__City_Laohekou,0.0
+1835,categorical__City_Lanzhou,0.0
+1836,categorical__City_Lanxi,0.0
+1837,categorical__City_Le Pontet,0.0
+1838,categorical__City_Le Plessis-Robinson,0.0
+1839,categorical__City_Le Petit-Quevilly,0.0
+1840,categorical__City_Le Mans,0.0
+1841,categorical__City_Le Havre,0.0
+1842,categorical__City_Levin,0.0
+1843,categorical__City_Leverkusen,0.0
+1844,categorical__City_Leuven,0.0
+1845,categorical__City_Letchworth,0.0
+1846,categorical__City_Leshan,0.0
+1847,categorical__City_Les Ulis,0.0
+1848,categorical__City_Lawrence,0.0
+1849,categorical__City_Lausanne,0.0
+1850,categorical__City_Laurel,0.0
+1851,categorical__City_Launceston,0.0
+1852,categorical__City_Les Clayes-sous-Bois,0.0
+1853,categorical__City_Leominster,0.0
+1854,categorical__City_Leoben,0.0
+1855,categorical__City_Lima,0.0
+1856,categorical__City_Lille,0.0
+1857,categorical__City_Likasi,0.0
+1858,categorical__City_Lida,0.0
+1859,categorical__City_Lichinga,0.0
+1860,categorical__City_Licheng,0.0
+1861,categorical__City_Libreville,0.0
+1862,categorical__City_Leeds,0.0
+1863,categorical__City_Lebanon,0.0
+1864,categorical__City_League City,0.0
+1865,categorical__City_Le Pré-Saint-Gervais,0.0
+1866,categorical__City_Lianzhou,0.0
+1867,categorical__City_Lianyuan,0.0
+1868,categorical__City_Lewiston,0.0
+1869,categorical__City_Linz,0.0
+1870,categorical__City_Lins,0.0
+1871,categorical__City_Linhares,0.0
+1872,categorical__City_Linhai,0.0
+1873,categorical__City_Lingolsheim,0.0
+1874,categorical__City_Lindenhurst,0.0
+1875,categorical__City_Les Pennes-Mirabeau,0.0
+1876,categorical__City_Les Pavillons-sous-Bois,0.0
+1877,categorical__City_Les Mureaux,0.0
+1878,categorical__City_Les Lilas,0.0
+1879,categorical__City_Les Herbiers,0.0
+1880,categorical__City_Limoeiro do Norte,0.0
+1881,categorical__City_Limeira,0.0
+1882,categorical__City_Limbe,0.0
+1883,categorical__City_Limay,0.0
+1884,categorical__City_Logan,0.0
+1885,categorical__City_Lodz,0.0
+1886,categorical__City_Lodi,0.0
+1887,categorical__City_Ljubljana,0.0
+1888,categorical__City_Livry-Gargan,0.0
+1889,categorical__City_Livingstone,0.0
+1890,categorical__City_Livingston,0.0
+1891,categorical__City_Liberec,0.0
+1892,categorical__City_Liaoyuan,0.0
+1893,categorical__City_Liaoyang,0.0
+1894,categorical__City_Liaocheng,0.0
+1895,categorical__City_Lisieux,0.0
+1896,categorical__City_Lisichansk,0.0
+1897,categorical__City_Lisbon,0.0
+1898,categorical__City_Lippstadt,0.0
+1899,categorical__City_Lorca,0.0
+1900,categorical__City_Lorain,0.0
+1901,categorical__City_Lora del Río,0.0
+1902,categorical__City_Loos,0.0
+1903,categorical__City_Lons-le-Saunier,0.0
+1904,categorical__City_Longview,0.0
+1905,categorical__City_Longueuil,0.0
+1906,categorical__City_Linden,0.0
+1907,categorical__City_Lincoln Park,0.0
+1908,categorical__City_Lincoln,0.0
+1909,categorical__City_Linares,0.0
+1910,categorical__City_Limoges,0.0
+1911,categorical__City_Lomme,0.0
+1912,categorical__City_Lome,0.0
+1913,categorical__City_Lokossa,0.0
+1914,categorical__City_Lohne,0.0
+1915,categorical__City_Loveland,0.0
+1916,categorical__City_Louviers,0.0
+1917,categorical__City_Loures,0.0
+1918,categorical__City_Loughborough,0.0
+1919,categorical__City_Littleton,0.0
+1920,categorical__City_Littlehampton,0.0
+1921,categorical__City_Little Rock,0.0
+1922,categorical__City_Lormont,0.0
+1923,categorical__City_Lorient,0.0
+1924,categorical__City_Lorena,0.0
+1925,categorical__City_Lugoj,0.0
+1926,categorical__City_Lugo,0.0
+1927,categorical__City_Ludwigshafen am Rhein,0.0
+1928,categorical__City_Ludwigsfelde,0.0
+1929,categorical__City_Ludwigsburg,0.0
+1930,categorical__City_Ludhiana,0.0
+1931,categorical__City_Lucknow,0.0
+1932,categorical__City_Longmont,0.0
+1933,categorical__City_Longjumeau,0.0
+1934,categorical__City_Long Beach,0.0
+1935,categorical__City_London,0.0
+1936,categorical__City_Lubbock,0.0
+1937,categorical__City_Lubango,0.0
+1938,categorical__City_Luanshya,0.0
+1939,categorical__City_Lowestoft,0.0
+1940,categorical__City_Macon,0.0
+1941,categorical__City_Macheng,0.0
+1942,categorical__City_Maceió,0.0
+1943,categorical__City_Macapá,0.0
+1944,categorical__City_Mabopane,0.0
+1945,categorical__City_Maastricht,0.0
+1946,categorical__City_Loudi,0.0
+1947,categorical__City_Loubomo,0.0
+1948,categorical__City_Los Ángeles,0.0
+1949,categorical__City_Los Patios,0.0
+1950,categorical__City_Luoyang,0.0
+1951,categorical__City_Luohe,0.0
+1952,categorical__City_Lunel,0.0
+1953,categorical__City_Lund,0.0
+1954,categorical__City_Luhans'k,0.0
+1955,categorical__City_Makati,0.0
+1956,categorical__City_Majadahonda,0.0
+1957,categorical__City_Maisons-Laffitte,0.0
+1958,categorical__City_Maisons-Alfort,0.0
+1959,categorical__City_Mainz,0.0
+1960,categorical__City_Maiduguri,0.0
+1961,categorical__City_Maidstone,0.0
+1962,categorical__City_Lucerne,0.0
+1963,categorical__City_Lubumbashi,0.0
+1964,categorical__City_Lublin,0.0
+1965,categorical__City_Magdeburg,0.0
+1966,categorical__City_Madurai,0.0
+1967,categorical__City_Madison,0.0
+1968,categorical__City_Madero,0.0
+1969,categorical__City_Manado,0.0
+1970,categorical__City_Man,0.0
+1971,categorical__City_Mamak,0.0
+1972,categorical__City_Maltepe,0.0
+1973,categorical__City_Mallawi,0.0
+1974,categorical__City_Malegaon,0.0
+1975,categorical__City_Lyon,0.0
+1976,categorical__City_Luts'k,0.0
+1977,categorical__City_Lusaka,0.0
+1978,categorical__City_Malambo,0.0
+1979,categorical__City_Malakoff,0.0
+1980,categorical__City_Makurdi,0.0
+1981,categorical__City_Makhachkala,0.0
+1982,categorical__City_Makeni,0.0
+1983,categorical__City_Manukau City,0.0
+1984,categorical__City_Mantes-la-Ville,0.0
+1985,categorical__City_Mantes-la-Jolie,0.0
+1986,categorical__City_Manteca,0.0
+1987,categorical__City_Mansfield,0.0
+1988,categorical__City_Manresa,0.0
+1989,categorical__City_Mannheim,0.0
+1990,categorical__City_Mahajanga,0.0
+1991,categorical__City_Magnitogorsk,0.0
+1992,categorical__City_Manhattan,0.0
+1993,categorical__City_Mangalore,0.0
+1994,categorical__City_Manfredonia,0.0
+1995,categorical__City_Mandurah,0.0
+1996,categorical__City_Manaus,0.0
+1997,categorical__City_Marikina,0.0
+1998,categorical__City_Marignane,0.0
+1999,categorical__City_Marietta,0.0
+2000,categorical__City_Margate,0.0
+2001,categorical__City_Mardin,0.0
+2002,categorical__City_Mardan,0.0
+2003,categorical__City_Marbella,0.0
+2004,categorical__City_Malayer,0.0
+2005,categorical__City_Malatya,0.0
+2006,categorical__City_Malanje,0.0
+2007,categorical__City_Maracaibo,0.0
+2008,categorical__City_Maple Grove,0.0
+2009,categorical__City_Manzini,0.0
+2010,categorical__City_Mary,0.0
+2011,categorical__City_Martigues,0.0
+2012,categorical__City_Marseille,0.0
+2013,categorical__City_Marsala,0.0
+2014,categorical__City_Marsabit,0.0
+2015,categorical__City_Marsa Matruh,0.0
+2016,categorical__City_Marrakech,0.0
+2017,categorical__City_Manizales,0.0
+2018,categorical__City_Manisa,0.0
+2019,categorical__City_Marl,0.0
+2020,categorical__City_Markham,0.0
+2021,categorical__City_Mariupol',0.0
+2022,categorical__City_Marion,0.0
+2023,categorical__City_Maringá,0.0
+2024,categorical__City_Marina di Carrara,0.0
+2025,categorical__City_Mathura,0.0
+2026,categorical__City_Matehuala,0.0
+2027,categorical__City_Mataram,0.0
+2028,categorical__City_Allen,0.0
+2029,categorical__City_Allauch,0.0
+2030,categorical__City_Allahabad,0.0
+2031,categorical__City_Alkmaar,0.0
+2032,categorical__City_Marano di Napoli,0.0
+2033,categorical__City_Maradi,0.0
+2034,categorical__City_Maracay,0.0
+2035,categorical__City_Masjed Soleyman,0.0
+2036,categorical__City_Maseru,0.0
+2037,categorical__City_Masaya,0.0
+2038,categorical__City_Marysville,0.0
+2039,categorical__City_Maryborough,0.0
+2040,categorical__City_Amman,0.0
+2041,categorical__City_Matanzas,0.0
+2042,categorical__City_Matadi,0.0
+2043,categorical__City_Masterton,0.0
+2044,categorical__City_Massy,0.0
+2045,categorical__City_Massa,0.0
+2046,categorical__City_Maroua,0.0
+2047,categorical__City_Marly-le-Roi,0.0
+2048,categorical__City_Marlborough,0.0
+2049,categorical__City_Mau,0.0
+2050,categorical__City_Maturín,0.0
+2051,categorical__City_Matsumoto,0.0
+2052,categorical__City_Matsudo,0.0
+2053,categorical__City_Matsubara,0.0
+2054,categorical__City_Matola,0.0
+2055,categorical__City_Mbeya,0.0
+2056,categorical__City_Mbandaka,0.0
+2057,categorical__City_Mazyr,0.0
+2058,categorical__City_Maxixe,0.0
+2059,categorical__City_Mauá,0.0
+2060,categorical__City_Mauguio,0.0
+2061,categorical__City_Maubeuge,0.0
+2062,categorical__City_Aligudarz,0.0
+2063,categorical__City_Ananindeua,0.0
+2064,categorical__City_Anaheim,0.0
+2065,categorical__City_An Nasiriyah,0.0
+2066,categorical__City_Amstelveen,0.0
+2067,categorical__City_Amritsar,0.0
+2068,categorical__City_Amravati,0.0
+2069,categorical__City_Amol,0.0
+2070,categorical__City_Melchor Ocampo,0.0
+2071,categorical__City_Meknes,0.0
+2072,categorical__City_Mejicanos,0.0
+2073,categorical__City_Meizhou,0.0
+2074,categorical__City_Medina,0.0
+2075,categorical__City_Medford,0.0
+2076,categorical__City_Mason,0.0
+2077,categorical__City_Medea,0.0
+2078,categorical__City_Medan,0.0
+2079,categorical__City_Beni Mellal,0.0
+2080,categorical__City_Benguela,0.0
+2081,categorical__City_Bengkulu,0.0
+2082,categorical__City_Benghazi,0.0
+2083,categorical__City_Bauchi,0.0
+2084,categorical__City_Battipaglia,0.0
+2085,categorical__City_Bello,0.0
+2086,categorical__City_Bellingham,0.0
+2087,categorical__City_Bellevue,0.0
+2088,categorical__City_Belleville,0.0
+2089,categorical__City_Bellary,0.0
+2090,categorical__City_Belgorod,0.0
+2091,categorical__City_Bertoua,0.0
+2092,categorical__City_Berrechid,0.0
+2093,categorical__City_Mechelen,0.0
+2094,categorical__City_Mecca,0.0
+2095,categorical__City_Meaux,0.0
+2096,categorical__City_Mbinga,0.0
+2097,categorical__City_Messina,0.0
+2098,categorical__City_Messaad,0.0
+2099,categorical__City_Mesquite,0.0
+2100,categorical__City_Mersin,0.0
+2101,categorical__City_Meridian,0.0
+2102,categorical__City_Meriden,0.0
+2103,categorical__City_Mentougou,0.0
+2104,categorical__City_Mentor,0.0
+2105,categorical__City_Menton,0.0
+2106,categorical__City_Menemen,0.0
+2107,categorical__City_Mendoza,0.0
+2108,categorical__City_Menden,0.0
+2109,categorical__City_Melun,0.0
+2110,categorical__City_Melilla,0.0
+2111,categorical__City_Mijas,0.0
+2112,categorical__City_Miguel Hidalgo,0.0
+2113,categorical__City_Midyat,0.0
+2114,categorical__City_Middletown,0.0
+2115,categorical__City_Miass,0.0
+2116,categorical__City_Mianyang,0.0
+2117,categorical__City_Moca,0.0
+2118,categorical__City_Mobile,0.0
+2119,categorical__City_Moa,0.0
+2120,categorical__City_Mezitli,0.0
+2121,categorical__City_Meyzieu,0.0
+2122,categorical__City_Mexicali,0.0
+2123,categorical__City_Meudon,0.0
+2124,categorical__City_Metepec,0.0
+2125,categorical__City_Mishawaka,0.0
+2126,categorical__City_Mirzapur,0.0
+2127,categorical__City_Miramas,0.0
+2128,categorical__City_Miramar,0.0
+2129,categorical__City_Minuf,0.0
+2130,categorical__City_Minneapolis,0.0
+2131,categorical__City_Minna,0.0
+2132,categorical__City_Monroe,0.0
+2133,categorical__City_Monclova,0.0
+2134,categorical__City_Milpa Alta,0.0
+2135,categorical__City_Millau,0.0
+2136,categorical__City_Milford,0.0
+2137,categorical__City_Mildura,0.0
+2138,categorical__City_Mogi das Cruzes,0.0
+2139,categorical__City_Mogadishu,0.0
+2140,categorical__City_Modesto,0.0
+2141,categorical__City_Modena,0.0
+2142,categorical__City_Mococa,0.0
+2143,categorical__City_Montfermeil,0.0
+2144,categorical__City_Montevideo,0.0
+2145,categorical__City_Montesson,0.0
+2146,categorical__City_Montes Claros,0.0
+2147,categorical__City_Mixco,0.0
+2148,categorical__City_Mitry-Mory,0.0
+2149,categorical__City_Missouri City,0.0
+2150,categorical__City_Mission Viejo,0.0
+2151,categorical__City_Montceau-les-Mines,0.0
+2152,categorical__City_Montbrison,0.0
+2153,categorical__City_Montauban,0.0
+2154,categorical__City_Montargis,0.0
+2155,categorical__City_Mont-de-Marsan,0.0
+2156,categorical__City_Mont-Saint-Aignan,0.0
+2157,categorical__City_Mons-en-Baroeul,0.0
+2158,categorical__City_Morley,0.0
+2159,categorical__City_Morgan Hill,0.0
+2160,categorical__City_Moreno Valley,0.0
+2161,categorical__City_Moissy-Cramayel,0.0
+2162,categorical__City_Mohammedia,0.0
+2163,categorical__City_Montreuil,0.0
+2164,categorical__City_Montpellier,0.0
+2165,categorical__City_Montmorency,0.0
+2166,categorical__City_Montigny-le-Bretonneux,0.0
+2167,categorical__City_Montgomery,0.0
+2168,categorical__City_Montgeron,0.0
+2169,categorical__City_Mtwara,0.0
+2170,categorical__City_Mouscron,0.0
+2171,categorical__City_Mount Vernon,0.0
+2172,categorical__City_Mount Pleasant,0.0
+2173,categorical__City_Mount Isa,0.0
+2174,categorical__City_Montenegro,0.0
+2175,categorical__City_Montecatini Terme,0.0
+2176,categorical__City_Montebello,0.0
+2177,categorical__City_Mossoró,0.0
+2178,categorical__City_Mosquera,0.0
+2179,categorical__City_Moshi,0.0
+2180,categorical__City_Morón,0.0
+2181,categorical__City_Morristown,0.0
+2182,categorical__City_Morogoro,0.0
+2183,categorical__City_Musoma,0.0
+2184,categorical__City_Murrieta,0.0
+2185,categorical__City_Murray Bridge,0.0
+2186,categorical__City_Murray,0.0
+2187,categorical__City_Murfreesboro,0.0
+2188,categorical__City_Mopti,0.0
+2189,categorical__City_Moorhead,0.0
+2190,categorical__City_Monza,0.0
+2191,categorical__City_Montréal,0.0
+2192,categorical__City_Multan,0.0
+2193,categorical__City_Mulhouse,0.0
+2194,categorical__City_Mufulira,0.0
+2195,categorical__City_Mudanjiang,0.0
+2196,categorical__City_Mubi,0.0
+2197,categorical__City_Nakhon Ratchasima,0.0
+2198,categorical__City_Najafabad,0.0
+2199,categorical__City_Nairobi,0.0
+2200,categorical__City_Naihati,0.0
+2201,categorical__City_Nagpur,0.0
+2202,categorical__City_Nagercoil,0.0
+2203,categorical__City_Moulins,0.0
+2204,categorical__City_Mougins,0.0
+2205,categorical__City_Mosul,0.0
+2206,categorical__City_Mostaganem,0.0
+2207,categorical__City_Mâcon,0.0
+2208,categorical__City_Mysore,0.0
+2209,categorical__City_Myslowice,0.0
+2210,categorical__City_Mykolayiv,0.0
+2211,categorical__City_Mwanza,0.0
+2212,categorical__City_Muzaffarpur,0.0
+2213,categorical__City_Mutare,0.0
+2214,categorical__City_Napier,0.0
+2215,categorical__City_Naperville,0.0
+2216,categorical__City_Nanyang,0.0
+2217,categorical__City_Nantong,0.0
+2218,categorical__City_Nanterre,0.0
+2219,categorical__City_Muret,0.0
+2220,categorical__City_Murcia,0.0
+2221,categorical__City_Munster,0.0
+2222,categorical__City_Nanchang,0.0
+2223,categorical__City_Nampula,0.0
+2224,categorical__City_Namibe,0.0
+2225,categorical__City_Namangan,0.0
+2226,categorical__City_Nal'chik,0.0
+2227,categorical__City_Nellore,0.0
+2228,categorical__City_Neiva,0.0
+2229,categorical__City_Neijiang,0.0
+2230,categorical__City_Necochea,0.0
+2231,categorical__City_Ndola,0.0
+2232,categorical__City_Nazilli,0.0
+2233,categorical__City_Navegantes,0.0
+2234,categorical__City_Nagasaki,0.0
+2235,categorical__City_Nacka,0.0
+2236,categorical__City_Mérida,0.0
+2237,categorical__City_Natal,0.0
+2238,categorical__City_Nasik,0.0
+2239,categorical__City_Nashua,0.0
+2240,categorical__City_Narsingdi,0.0
+2241,categorical__City_Narbonne,0.0
+2242,categorical__City_New Rochelle,0.0
+2243,categorical__City_New Plymouth,0.0
+2244,categorical__City_New Delhi,0.0
+2245,categorical__City_New Brunswick,0.0
+2246,categorical__City_New Bedford,0.0
+2247,categorical__City_New Albany,0.0
+2248,categorical__City_Nevsehir,0.0
+2249,categorical__City_Nanning,0.0
+2250,categorical__City_Nancy,0.0
+2251,categorical__City_Arles,0.0
+2252,categorical__City_Arkhangelsk,0.0
+2253,categorical__City_Ariquemes,0.0
+2254,categorical__City_Neu-Ulm,0.0
+2255,categorical__City_Nelson,0.0
+2256,categorical__City_Nikopol',0.0
+2257,categorical__City_Nijmegen,0.0
+2258,categorical__City_Nigde,0.0
+2259,categorical__City_Niamey,0.0
+2260,categorical__City_Niagara Falls,0.0
+2261,categorical__City_Naumburg,0.0
+2262,categorical__City_Natitingou,0.0
+2263,categorical__City_Neunkirchen,0.0
+2264,categorical__City_Neuilly-sur-Seine,0.0
+2265,categorical__City_Neuilly-Plaisance,0.0
+2266,categorical__City_Neubrandenburg,0.0
+2267,categorical__City_Arad,0.0
+2268,categorical__City_Aracati,0.0
+2269,categorical__City_Aracaju,0.0
+2270,categorical__City_Apucarana,0.0
+2271,categorical__City_Ardahan,0.0
+2272,categorical__City_Ardabil,0.0
+2273,categorical__City_Arcoverde,0.0
+2274,categorical__City_Araçatuba,0.0
+2275,categorical__City_Araranguá,0.0
+2276,categorical__City_Apeldoorn,0.0
+2277,categorical__City_Apatzingán de la Constitución,0.0
+2278,categorical__City_Nguigmi,0.0
+2279,categorical__City_Ngaoundere,0.0
+2280,categorical__City_Neyshabur,0.0
+2281,categorical__City_Newport News,0.0
+2282,categorical__City_Newcastle upon Tyne,0.0
+2283,categorical__City_Newark,0.0
+2284,categorical__City_Norderstedt,0.0
+2285,categorical__City_Noisy-le-Grand,0.0
+2286,categorical__City_Nogent-sur-Oise,0.0
+2287,categorical__City_Noda,0.0
+2288,categorical__City_Nkongsamba,0.0
+2289,categorical__City_Nizhyn,0.0
+2290,categorical__City_Nizamabad,0.0
+2291,categorical__City_Neuquén,0.0
+2292,categorical__City_Nitra,0.0
+2293,categorical__City_Niterói,0.0
+2294,categorical__City_Nishinomiya,0.0
+2295,categorical__City_Niort,0.0
+2296,categorical__City_Ninghai,0.0
+2297,categorical__City_Nueva Gerona,0.0
+2298,categorical__City_Nowra,0.0
+2299,categorical__City_Novo Gama,0.0
+2300,categorical__City_Novo Cruzeiro,0.0
+2301,categorical__City_Novara,0.0
+2302,categorical__City_Nova Serrana,0.0
+2303,categorical__City_Nouakchott,0.0
+2304,categorical__City_Nottingham,0.0
+2305,categorical__City_Norwich,0.0
+2306,categorical__City_Northwich,0.0
+2307,categorical__City_Northampton,0.0
+2308,categorical__City_North York,0.0
+2309,categorical__City_North Miami,0.0
+2310,categorical__City_North Las Vegas,0.0
+2311,categorical__City_North Charleston,0.0
+2312,categorical__City_Norman,0.0
+2313,categorical__City_Odivelas,0.0
+2314,categorical__City_Odessa,0.0
+2315,categorical__City_Odense,0.0
+2316,categorical__City_Ocotlán,0.0
+2317,categorical__City_Oceanside,0.0
+2318,categorical__City_Ocaña,0.0
+2319,categorical__City_Oberhausen,0.0
+2320,categorical__City_Oakville,0.0
+2321,categorical__City_Oakland,0.0
+2322,categorical__City_Nzerekore,0.0
+2323,categorical__City_Nysa,0.0
+2324,categorical__City_Nuremberg,0.0
+2325,categorical__City_Nuneaton,0.0
+2326,categorical__City_Opole,0.0
+2327,categorical__City_Oosterhout,0.0
+2328,categorical__City_Ontario,0.0
+2329,categorical__City_Onitsha,0.0
+2330,categorical__City_Olympia,0.0
+2331,categorical__City_Olomouc,0.0
+2332,categorical__City_Olivet,0.0
+2333,categorical__City_Oleksandriya,0.0
+2334,categorical__City_Oldham,0.0
+2335,categorical__City_Oldenburg,0.0
+2336,categorical__City_Olathe,0.0
+2337,categorical__City_Oktyabr'skiy,0.0
+2338,categorical__City_Offenburg,0.0
+2339,categorical__City_Offenbach,0.0
+2340,categorical__City_Oshawa,0.0
+2341,categorical__City_Osh,0.0
+2342,categorical__City_Osasco,0.0
+2343,categorical__City_Oruro,0.0
+2344,categorical__City_Orsha,0.0
+2345,categorical__City_Bejaia,0.0
+2346,categorical__City_Beirut,0.0
+2347,categorical__City_Beira,0.0
+2348,categorical__City_Barretos,0.0
+2349,categorical__City_Barreirinhas,0.0
+2350,categorical__City_Barreiras,0.0
+2351,categorical__City_Behshahr,0.0
+2352,categorical__City_Behbahan,0.0
+2353,categorical__City_Bechar,0.0
+2354,categorical__City_Bebington,0.0
+2355,categorical__City_Beauvais,0.0
+2356,categorical__City_Beaune,0.0
+2357,categorical__City_Beaumont,0.0
+2358,categorical__City_Benidorm,0.0
+2359,categorical__City_Orsay,0.0
+2360,categorical__City_Orlando,0.0
+2361,categorical__City_Orland Park,0.0
+2362,categorical__City_Oriximiná,0.0
+2363,categorical__City_Orihuela,0.0
+2364,categorical__City_Orem,0.0
+2365,categorical__City_Ordu,0.0
+2366,categorical__City_Orange,0.0
+2367,categorical__City_Oran,0.0
+2368,categorical__City_Oradea,0.0
+2369,categorical__City_Owo,0.0
+2370,categorical__City_Owensboro,0.0
+2371,categorical__City_Overland Park,0.0
+2372,categorical__City_Outreau,0.0
+2373,categorical__City_Oullins,0.0
+2374,categorical__City_Ouidah,0.0
+2375,categorical__City_Ottawa,0.0
+2376,categorical__City_Oss,0.0
+2377,categorical__City_Palmira,0.0
+2378,categorical__City_Osorno,0.0
+2379,categorical__City_Osny,0.0
+2380,categorical__City_Osmaniye,0.0
+2381,categorical__City_Osijek,0.0
+2382,categorical__City_Palma Soriano,0.0
+2383,categorical__City_Palm Coast,0.0
+2384,categorical__City_Palhoça,0.0
+2385,categorical__City_Palermo,0.0
+2386,categorical__City_Palencia,0.0
+2387,categorical__City_Palembang,0.0
+2388,categorical__City_Palatine,0.0
+2389,categorical__City_Palaiseau,0.0
+2390,categorical__City_Paita,0.0
+2391,categorical__City_Paisley,0.0
+2392,categorical__City_Parbhani,0.0
+2393,categorical__City_Oyonnax,0.0
+2394,categorical__City_Oyama,0.0
+2395,categorical__City_Oxnard,0.0
+2396,categorical__City_Oxford,0.0
+2397,categorical__City_Paracatu,0.0
+2398,categorical__City_Papakura,0.0
+2399,categorical__City_Pantin,0.0
+2400,categorical__City_Panipat,0.0
+2401,categorical__City_Panihati,0.0
+2402,categorical__City_Panevezys,0.0
+2403,categorical__City_Panama City,0.0
+2404,categorical__City_Pamplona,0.0
+2405,categorical__City_Pamiers,0.0
+2406,categorical__City_Palu,0.0
+2407,categorical__City_Palo Negro,0.0
+2408,categorical__City_Paterson,0.0
+2409,categorical__City_Palmerston North,0.0
+2410,categorical__City_Palmerston,0.0
+2411,categorical__City_Palmares,0.0
+2412,categorical__City_Palma de Mallorca,0.0
+2413,categorical__City_Passau,0.0
+2414,categorical__City_Passaic,0.0
+2415,categorical__City_Pasig,0.0
+2416,categorical__City_Pasco,0.0
+2417,categorical__City_Pasadena,0.0
+2418,categorical__City_Parma,0.0
+2419,categorical__City_Parla,0.0
+2420,categorical__City_Parker,0.0
+2421,categorical__City_Park Ridge,0.0
+2422,categorical__City_Parintins,0.0
+2423,categorical__City_Paraparaumu,0.0
+2424,categorical__City_Paraná,0.0
+2425,categorical__City_Paranaguá,0.0
+2426,categorical__City_Parakou,0.0
+2427,categorical__City_Pekanbaru,0.0
+2428,categorical__City_Peer,0.0
+2429,categorical__City_Pearland,0.0
+2430,categorical__City_Pavlodar,0.0
+2431,categorical__City_Paulista,0.0
+2432,categorical__City_Pau,0.0
+2433,categorical__City_Patrocínio,0.0
+2434,categorical__City_Pato Branco,0.0
+2435,categorical__City_Patiala,0.0
+2436,categorical__City_Pemba,0.0
+2437,categorical__City_Pematangsiantar,0.0
+2438,categorical__City_Pasto,0.0
+2439,categorical__City_Passos,0.0
+2440,categorical__City_Passo Fundo,0.0
+2441,categorical__City_Pescara,0.0
+2442,categorical__City_Pesaro,0.0
+2443,categorical__City_Perugia,0.0
+2444,categorical__City_Perpignan,0.0
+2445,categorical__City_Pernik,0.0
+2446,categorical__City_Pereira,0.0
+2447,categorical__City_Albacete,0.0
+2448,categorical__City_Alanya,0.0
+2449,categorical__City_Al Muharraq,0.0
+2450,categorical__City_Pestovo,0.0
+2451,categorical__City_Pessac,0.0
+2452,categorical__City_Peshawar,0.0
+2453,categorical__City_Al Minya,0.0
+2454,categorical__City_Amarillo,0.0
+2455,categorical__City_Amadora,0.0
+2456,categorical__City_Altoona,0.0
+2457,categorical__City_Altamira,0.0
+2458,categorical__City_Almelo,0.0
+2459,categorical__City_Almaty,0.0
+2460,categorical__City_Allentown,0.0
+2461,categorical__City_Peoria,0.0
+2462,categorical__City_Pensacola,0.0
+2463,categorical__City_Penedo,0.0
+2464,categorical__City_Pila,0.0
+2465,categorical__City_Pietermaritzburg,0.0
+2466,categorical__City_Pierrefitte-sur-Seine,0.0
+2467,categorical__City_Piedras Negras,0.0
+2468,categorical__City_Piedecuesta,0.0
+2469,categorical__City_Pico Rivera,0.0
+2470,categorical__City_Pickering,0.0
+2471,categorical__City_Piatra-Neamt,0.0
+2472,categorical__City_Phnom Penh,0.0
+2473,categorical__City_Petrópolis,0.0
+2474,categorical__City_Peterborough,0.0
+2475,categorical__City_Petare,0.0
+2476,categorical__City_Piura,0.0
+2477,categorical__City_Pitesti,0.0
+2478,categorical__City_Pitalito,0.0
+2479,categorical__City_Pistoia,0.0
+2480,categorical__City_Pisa,0.0
+2481,categorical__City_Pirapora,0.0
+2482,categorical__City_Piotrkow Trybunalski,0.0
+2483,categorical__City_Pinsk,0.0
+2484,categorical__City_Pinheiro,0.0
+2485,categorical__City_Pingxiang,0.0
+2486,categorical__City_Pingnan,0.0
+2487,categorical__City_Pingdingshan,0.0
+2488,categorical__City_Pine Bluff,0.0
+2489,categorical__City_Pindamonhangaba,0.0
+2490,categorical__City_Pilar,0.0
+2491,categorical__City_Poitiers,0.0
+2492,categorical__City_Poissy,0.0
+2493,categorical__City_Podgorica,0.0
+2494,categorical__City_Pocatello,0.0
+2495,categorical__City_Portici,0.0
+2496,categorical__City_Plzen,0.0
+2497,categorical__City_Plymouth,0.0
+2498,categorical__City_Plovdiv,0.0
+2499,categorical__City_Ploiesti,0.0
+2500,categorical__City_Ploemeur,0.0
+2501,categorical__City_Pleven,0.0
+2502,categorical__City_Pleasant Grove,0.0
+2503,categorical__City_Plantation,0.0
+2504,categorical__City_Plano,0.0
+2505,categorical__City_Plaisir,0.0
+2506,categorical__City_Plainfield,0.0
+2507,categorical__City_Pontoise,0.0
+2508,categorical__City_Pontianak,0.0
+2509,categorical__City_Pozzuoli,0.0
+2510,categorical__City_Poznan,0.0
+2511,categorical__City_Pontes e Lacerda,0.0
+2512,categorical__City_Ponteareas,0.0
+2513,categorical__City_Ponte Nova,0.0
+2514,categorical__City_Pontault-Combault,0.0
+2515,categorical__City_Pompano Beach,0.0
+2516,categorical__City_Pomona,0.0
+2517,categorical__City_Pomezia,0.0
+2518,categorical__City_Poltava,0.0
+2519,categorical__City_Polatsk,0.0
+2520,categorical__City_Polatli,0.0
+2521,categorical__City_Portmore,0.0
+2522,categorical__City_Portland,0.0
+2523,categorical__City_Puducherry,0.0
+2524,categorical__City_Pucallpa,0.0
+2525,categorical__City_Portage,0.0
+2526,categorical__City_Port Saint Lucie,0.0
+2527,categorical__City_Port Said,0.0
+2528,categorical__City_Port Orange,0.0
+2529,categorical__City_Port Moresby,0.0
+2530,categorical__City_Port Elizabeth,0.0
+2531,categorical__City_Port Arthur,0.0
+2532,categorical__City_Porlamar,0.0
+2533,categorical__City_Porirua,0.0
+2534,categorical__City_Poole,0.0
+2535,categorical__City_Poços de Caldas,0.0
+2536,categorical__City_Qarshi,0.0
+2537,categorical__City_Qaraghandy,0.0
+2538,categorical__City_Puyang,0.0
+2539,categorical__City_Poza Rica de Hidalgo,0.0
+2540,categorical__City_Pouso Alegre,0.0
+2541,categorical__City_Potosí,0.0
+2542,categorical__City_Potenza,0.0
+2543,categorical__City_Potchefstroom,0.0
+2544,categorical__City_Posadas,0.0
+2545,categorical__City_Portsmouth,0.0
+2546,categorical__City_Portoviejo,0.0
+2547,categorical__City_Porto-Novo,0.0
+2548,categorical__City_Porto Alegre,0.0
+2549,categorical__City_Porto,0.0
+2550,categorical__City_Quetta,0.0
+2551,categorical__City_Quelimane,0.0
+2552,categorical__City_Quebec,0.0
+2553,categorical__City_Queanbeyan,0.0
+2554,categorical__City_Provo,0.0
+2555,categorical__City_Providence,0.0
+2556,categorical__City_Progreso,0.0
+2557,categorical__City_Probolinggo,0.0
+2558,categorical__City_Preston,0.0
+2559,categorical__City_Presidencia Roque Sáenz Peña,0.0
+2560,categorical__City_Prato,0.0
+2561,categorical__City_Praia Grande,0.0
+2562,categorical__City_Ramat Aviv,0.0
+2563,categorical__City_Rajshahi,0.0
+2564,categorical__City_Raipur,0.0
+2565,categorical__City_Rafsanjan,0.0
+2566,categorical__City_Puteaux,0.0
+2567,categorical__City_Purwokerto,0.0
+2568,categorical__City_Punta Arenas,0.0
+2569,categorical__City_Puno,0.0
+2570,categorical__City_Puertollano,0.0
+2571,categorical__City_Puerto Vallarta,0.0
+2572,categorical__City_Puerto Padre,0.0
+2573,categorical__City_Puerto Montt,0.0
+2574,categorical__City_Puerto La Cruz,0.0
+2575,categorical__City_Puente Alto,0.0
+2576,categorical__City_Pueblo,0.0
+2577,categorical__City_Ravenna,0.0
+2578,categorical__City_Ratlam,0.0
+2579,categorical__City_Rasht,0.0
+2580,categorical__City_Ras al Khaymah,0.0
+2581,categorical__City_Quchan,0.0
+2582,categorical__City_Quartu Sant'Elena,0.0
+2583,categorical__City_Quanzhou,0.0
+2584,categorical__City_Qostanay,0.0
+2585,categorical__City_Qom,0.0
+2586,categorical__City_Qitaihe,0.0
+2587,categorical__City_Qiqihar,0.0
+2588,categorical__City_Qingdao,0.0
+2589,categorical__City_Qidong,0.0
+2590,categorical__City_Qena,0.0
+2591,categorical__City_Qazvin,0.0
+2592,categorical__City_Remscheid,0.0
+2593,categorical__City_Reims,0.0
+2594,categorical__City_Rehovot,0.0
+2595,categorical__City_Registro,0.0
+2596,categorical__City_Regina,0.0
+2597,categorical__City_Radom,0.0
+2598,categorical__City_Rach Gia,0.0
+2599,categorical__City_Rabat,0.0
+2600,categorical__City_Quixadá,0.0
+2601,categorical__City_Quincy,0.0
+2602,categorical__City_Quimper,0.0
+2603,categorical__City_Quevedo,0.0
+2604,categorical__City_Quetzaltenango,0.0
+2605,categorical__City_Reading,0.0
+2606,categorical__City_Rawalpindi,0.0
+2607,categorical__City_Richardson,0.0
+2608,categorical__City_Riberalta,0.0
+2609,categorical__City_Ad Diwaniyah,0.0
+2610,categorical__City_Rhondda,0.0
+2611,categorical__City_Rapid City,0.0
+2612,categorical__City_Randfontein,0.0
+2613,categorical__City_Randers,0.0
+2614,categorical__City_Rancho Cucamonga,0.0
+2615,categorical__City_Ranchi,0.0
+2616,categorical__City_Rancagua,0.0
+2617,categorical__City_Ramnicu Valcea,0.0
+2618,categorical__City_Rambouillet,0.0
+2619,categorical__City_Ramat Gan,0.0
+2620,categorical__City_Reno,0.0
+2621,categorical__City_Rennes,0.0
+2622,categorical__City_Roanne,0.0
+2623,categorical__City_Rizhao,0.0
+2624,categorical__City_Rize,0.0
+2625,categorical__City_Riyadh,0.0
+2626,categorical__City_Rivne,0.0
+2627,categorical__City_Reggio nell'Emilia,0.0
+2628,categorical__City_Regensburg,0.0
+2629,categorical__City_Redwood City,0.0
+2630,categorical__City_Redmond,0.0
+2631,categorical__City_Redlands,0.0
+2632,categorical__City_Redditch,0.0
+2633,categorical__Country_Swaziland,0.0
+2634,categorical__City_Recife,0.0
+2635,categorical__City_Rijeka,0.0
+2636,categorical__City_Richmond Hill,0.0
+2637,categorical__City_Rome,0.0
+2638,categorical__City_Roman,0.0
+2639,categorical__City_Rolândia,0.0
+2640,categorical__City_Roissy-en-Brie,0.0
+2641,categorical__City_Rohtak,0.0
+2642,categorical__City_Rheine,0.0
+2643,categorical__City_Reynosa,0.0
+2644,categorical__City_Revere,0.0
+2645,categorical__City_Reutlingen,0.0
+2646,categorical__City_Reus,0.0
+2647,categorical__City_Resistencia,0.0
+2648,categorical__City_Resende,0.0
+2649,categorical__City_Appleton,0.0
+2650,categorical__City_Renqiu,0.0
+2651,categorical__City_Rochefort,0.0
+2652,categorical__City_Rochdale,0.0
+2653,categorical__City_Rottingdean,0.0
+2654,categorical__City_Rotterdam,0.0
+2655,categorical__City_Rotorua,0.0
+2656,categorical__City_Rotherham,0.0
+2657,categorical__City_Roswell,0.0
+2658,categorical__City_Rivera,0.0
+2659,categorical__City_Ris-Orangis,0.0
+2660,categorical__City_Riom,0.0
+2661,categorical__City_Rio Rancho,0.0
+2662,categorical__City_Rio Grande,0.0
+2663,categorical__City_Rio Branco,0.0
+2664,categorical__City_Rimini,0.0
+2665,categorical__City_Ronchin,0.0
+2666,categorical__City_Romeoville,0.0
+2667,categorical__City_Sabadell,0.0
+2668,categorical__City_Saanich,0.0
+2669,categorical__City_Río Bravo,0.0
+2670,categorical__City_Rybinsk,0.0
+2671,categorical__City_Rustenburg,0.0
+2672,categorical__City_Rogers,0.0
+2673,categorical__City_Roeselare,0.0
+2674,categorical__City_Roermond,0.0
+2675,categorical__City_Rockville,0.0
+2676,categorical__City_Rockhampton,0.0
+2677,categorical__City_Bayonne,0.0
+2678,categorical__Country_Sudan,0.0
+2679,categorical__City_Bayamo,0.0
+2680,categorical__City_Avondale,0.0
+2681,categorical__City_Barbacena,0.0
+2682,categorical__City_Barasat,0.0
+2683,categorical__City_Batna,0.0
+2684,categorical__City_Batman,0.0
+2685,categorical__City_Bath,0.0
+2686,categorical__City_Bata,0.0
+2687,categorical__City_Bastia,0.0
+2688,categorical__City_Basra,0.0
+2689,categorical__City_Basingstoke,0.0
+2690,categorical__City_Basildon,0.0
+2691,categorical__City_Belfort,0.0
+2692,categorical__City_Acuña,0.0
+2693,categorical__City_Rockford,0.0
+2694,categorical__City_Rock Hill,0.0
+2695,categorical__City_Rochester Hills,0.0
+2696,categorical__City_Roubaix,0.0
+2697,categorical__Country_Zimbabwe,0.0
+2698,categorical__City_Saint Peters,0.0
+2699,categorical__City_Saint Paul,0.0
+2700,categorical__City_Saint Louis,0.0
+2701,categorical__City_Saint Charles,0.0
+2702,categorical__City_Saida,0.0
+2703,categorical__City_Rostock,0.0
+2704,categorical__City_Rosenheim,0.0
+2705,categorical__City_Rosario,0.0
+2706,categorical__City_Roosendaal,0.0
+2707,categorical__City_Roodepoort,0.0
+2708,categorical__City_Rondonópolis,0.0
+2709,categorical__City_Sabzevar,0.0
+2710,categorical__City_Sabanalarga,0.0
+2711,categorical__City_Saint-Malo,0.0
+2712,categorical__City_Saint-Louis,0.0
+2713,categorical__City_Saint-Laurent,0.0
+2714,categorical__City_Saint-Herblain,0.0
+2715,categorical__City_Saint-Gratien,0.0
+2716,categorical__City_Runcorn,0.0
+2717,categorical__City_Rugby,0.0
+2718,categorical__City_Rueil-Malmaison,0.0
+2719,categorical__City_Ruda Slaska,0.0
+2720,categorical__City_Rubí,0.0
+2721,categorical__City_Royal Oak,0.0
+2722,categorical__City_Rovigo,0.0
+2723,categorical__City_Round Rock,0.0
+2724,categorical__City_Saint-Brieuc,0.0
+2725,categorical__City_Saint-Avold,0.0
+2726,categorical__City_Salina Cruz,0.0
+2727,categorical__City_Salihli,0.0
+2728,categorical__City_Salem,0.0
+2729,categorical__City_Sale,0.0
+2730,categorical__City_Salavat,0.0
+2731,categorical__City_Salamanca,0.0
+2732,categorical__City_Sahuayo de José María Morelos,0.0
+2733,categorical__City_Saharanpur,0.0
+2734,categorical__City_Saginaw,0.0
+2735,categorical__City_Sagamihara,0.0
+2736,categorical__City_Saga,0.0
+2737,categorical__City_Safi,0.0
+2738,categorical__City_Sacramento,0.0
+2739,categorical__City_Saint-Ouen,0.0
+2740,categorical__City_Saint-Nazaire,0.0
+2741,categorical__City_Saint-Michel-sur-Orge,0.0
+2742,categorical__City_San Angelo,0.0
+2743,categorical__City_San Andrés Tuxtla,0.0
+2744,categorical__Country_Yemen,0.0
+2745,categorical__City_Samobor,0.0
+2746,categorical__City_Samarra',0.0
+2747,categorical__City_Samarinda,0.0
+2748,categorical__City_Saint-Germain-en-Laye,0.0
+2749,categorical__City_Saint-Genis-Laval,0.0
+2750,categorical__City_Saint-Dizier,0.0
+2751,categorical__City_Saint-Denis,0.0
+2752,categorical__City_Saint-Cyr-sur-Loire,0.0
+2753,categorical__City_Saint-Cloud,0.0
+2754,categorical__City_Saint-Chamond,0.0
+2755,categorical__City_Salt Lake City,0.0
+2756,categorical__City_Sallanches,0.0
+2757,categorical__City_Salinas,0.0
+2758,categorical__Country_Venezuela,0.0
+2759,categorical__City_San Jose,0.0
+2760,categorical__City_San Francisco del Rincón,0.0
+2761,categorical__City_San Francisco de Macorís,0.0
+2762,categorical__City_Sakaka,0.0
+2763,categorical__City_Sakai,0.0
+2764,categorical__City_Saint-Quentin,0.0
+2765,categorical__City_Saint-Priest,0.0
+2766,categorical__City_Saint-Pol-sur-Mer,0.0
+2767,categorical__City_Saint-Pierre-des-Corps,0.0
+2768,categorical__City_San Carlos del Zulia,0.0
+2769,categorical__City_San Bernardo,0.0
+2770,categorical__City_San Bernardino,0.0
+2771,categorical__Country_Uruguay,0.0
+2772,categorical__City_San Nicolás de los Arroyos,0.0
+2773,categorical__Country_United Arab Emirates,0.0
+2774,categorical__City_San Mateo,0.0
+2775,categorical__City_San Martín,0.0
+2776,categorical__City_San Marcos,0.0
+2777,categorical__City_San Luis Río Colorado,0.0
+2778,categorical__City_Samalut,0.0
+2779,categorical__City_Salzburg,0.0
+2780,categorical__City_Asahikawa,0.0
+2781,categorical__City_Salto,0.0
+2782,categorical__City_Saltillo,0.0
+2783,categorical__City_Salta,0.0
+2784,categorical__City_San Juan de la Maguana,0.0
+2785,categorical__City_San Juan,0.0
+2786,categorical__City_San José de las Lajas,0.0
+2787,categorical__City_San José de Guanipa,0.0
+2788,categorical__City_Sangli,0.0
+2789,categorical__City_Sanford,0.0
+2790,categorical__City_Sandy Springs,0.0
+2791,categorical__City_Sandakan,0.0
+2792,categorical__City_Sancti Spíritus,0.0
+2793,categorical__City_Sanary-sur-Mer,0.0
+2794,categorical__City_San Fernando del Valle de Catamarca,0.0
+2795,categorical__City_San Fernando,0.0
+2796,categorical__City_San Cristóbal de Las Casas,0.0
+2797,categorical__City_San Cristóbal,0.0
+2798,categorical__City_San Clemente,0.0
+2799,categorical__City_San Pedro,0.0
+2800,categorical__City_San Pablo de las Salinas,0.0
+2801,categorical__City_Santana de Parnaíba,0.0
+2802,categorical__City_Santa Rosa,0.0
+2803,categorical__City_Santa Marta,0.0
+2804,categorical__City_Santa Maria,0.0
+2805,categorical__City_Santa Fe,0.0
+2806,categorical__City_Santa Cruz do Sul,0.0
+2807,categorical__City_Santa Cruz de Barahona,0.0
+2808,categorical__City_San Luis Potosí,0.0
+2809,categorical__City_San Luis Obispo,0.0
+2810,categorical__City_San Luis,0.0
+2811,categorical__City_San Lorenzo,0.0
+2812,categorical__City_San Justo,0.0
+2813,categorical__City_San Juan del Río,0.0
+2814,categorical__City_Sannois,0.0
+2815,categorical__City_Sanming,0.0
+2816,categorical__City_Sanliurfa,0.0
+2817,categorical__City_Sarajevo,0.0
+2818,categorical__City_Saqqez,0.0
+2819,categorical__City_Sapucaia do Sul,0.0
+2820,categorical__City_Sapele,0.0
+2821,categorical__City_Sanya,0.0
+2822,categorical__City_Santos,0.0
+2823,categorical__City_Santo Domingo de los Colorados,0.0
+2824,categorical__City_Aalst,0.0
+2825,categorical__City_Sanandaj,0.0
+2826,categorical__City_San Severo,0.0
+2827,categorical__City_San Sebastian,0.0
+2828,categorical__City_San Salvador de Jujuy,0.0
+2829,categorical__City_San Rafael,0.0
+2830,categorical__City_Santarém,0.0
+2831,categorical__City_Santander,0.0
+2832,categorical__City_Sceaux,0.0
+2833,categorical__City_Savona,0.0
+2834,categorical__City_Saveh,0.0
+2835,categorical__City_Saumur,0.0
+2836,categorical__City_Satu Mare,0.0
+2837,categorical__City_Satna,0.0
+2838,categorical__City_Sassari,0.0
+2839,categorical__City_Santa Clara,0.0
+2840,categorical__City_Santa Catarina,0.0
+2841,categorical__City_Santa Barbara,0.0
+2842,categorical__City_Sant Boi de Llobregat,0.0
+2843,categorical__City_Sargodha,0.0
+2844,categorical__City_Sarcelles,0.0
+2845,categorical__City_Seremban,0.0
+2846,categorical__City_Seraing,0.0
+2847,categorical__City_Aalen,0.0
+2848,categorical__City_Senlis,0.0
+2849,categorical__City_Senhor do Bonfim,0.0
+2850,categorical__City_Semnan,0.0
+2851,categorical__City_Segovia,0.0
+2852,categorical__City_Santiago del Estero,0.0
+2853,categorical__City_Santiago de los Caballeros,0.0
+2854,categorical__City_Acarigua,0.0
+2855,categorical__City_Santiago de Compostela,0.0
+2856,categorical__City_Schweinfurt,0.0
+2857,categorical__City_Apple Valley,0.0
+2858,categorical__City_Schiffweiler,0.0
+2859,categorical__City_Schiedam,0.0
+2860,categorical__City_Shanwei,0.0
+2861,categorical__City_Shantou,0.0
+2862,categorical__City_Shangzhi,0.0
+2863,categorical__City_Shangyu,0.0
+2864,categorical__City_Apopka,0.0
+2865,categorical__City_Shahriar,0.0
+2866,categorical__City_Shahreza,0.0
+2867,categorical__City_Shah Alam,0.0
+2868,categorical__City_Shagamu,0.0
+2869,categorical__City_Sartrouville,0.0
+2870,categorical__City_Sarreguemines,0.0
+2871,categorical__City_Sarkand,0.0
+2872,categorical__City_Settat,0.0
+2873,categorical__City_Sesto San Giovanni,0.0
+2874,categorical__City_Serra,0.0
+2875,categorical__City_Seropédica,0.0
+2876,categorical__City_Shouguang,0.0
+2877,categorical__City_Shkoder,0.0
+2878,categorical__City_Shizuishan,0.0
+2879,categorical__City_Shiraz,0.0
+2880,categorical__City_Shimonoseki,0.0
+2881,categorical__City_Shimoga,0.0
+2882,categorical__City_Shijiazhuang,0.0
+2883,categorical__City_Shihezi,0.0
+2884,categorical__City_Shenzhen,0.0
+2885,categorical__City_Bartlett,0.0
+2886,categorical__City_Barry,0.0
+2887,categorical__City_Barrie,0.0
+2888,categorical__City_Blackpool,0.0
+2889,categorical__City_Bandundu,0.0
+2890,categorical__City_Barranquilla,0.0
+2891,categorical__City_Barranca,0.0
+2892,categorical__City_Barra do Piraí,0.0
+2893,categorical__City_Barra Mansa,0.0
+2894,categorical__City_Blackburn,0.0
+2895,categorical__City_Barnsley,0.0
+2896,categorical__City_Barletta,0.0
+2897,categorical__City_Be'er Sheva,0.0
+2898,categorical__City_Baytown,0.0
+2899,categorical__City_Bayreuth,0.0
+2900,categorical__City_Schwerin,0.0
+2901,categorical__City_Sheffield,0.0
+2902,categorical__City_Sheboygan,0.0
+2903,categorical__City_Shashi,0.0
+2904,categorical__City_Shaoxing,0.0
+2905,categorical__City_Siirt,0.0
+2906,categorical__City_Sierra Vista,0.0
+2907,categorical__City_Siena,0.0
+2908,categorical__City_Siedlce,0.0
+2909,categorical__City_Sidi Qacem,0.0
+2910,categorical__City_Sibiu,0.0
+2911,categorical__City_Siauliai,0.0
+2912,categorical__City_Sialkot,0.0
+2913,categorical__City_Sevran,0.0
+2914,categorical__City_Bitonto,0.0
+2915,categorical__City_Bitola,0.0
+2916,categorical__City_Shulan,0.0
+2917,categorical__City_Shuangyashan,0.0
+2918,categorical__City_Shuangcheng,0.0
+2919,categorical__City_Shrewsbury,0.0
+2920,categorical__City_Bhatpara,0.0
+2921,categorical__City_Skokie,0.0
+2922,categorical__City_Skikda,0.0
+2923,categorical__City_Six-Fours-les-Plages,0.0
+2924,categorical__City_Sivas,0.0
+2925,categorical__City_Aksaray,0.0
+2926,categorical__City_Akola,0.0
+2927,categorical__City_Akhmim,0.0
+2928,categorical__City_Akhisar,0.0
+2929,categorical__City_Ajmer,0.0
+2930,categorical__City_Shenyang,0.0
+2931,categorical__City_Shelton,0.0
+2932,categorical__City_Simões Filho,0.0
+2933,categorical__City_Silopi,0.0
+2934,categorical__City_Silivri,0.0
+2935,categorical__City_Silao,0.0
+2936,categorical__City_Alcobendas,0.0
+2937,categorical__City_Albury,0.0
+2938,categorical__City_Albuquerque,0.0
+2939,categorical__City_Albi,0.0
+2940,categorical__City_Sittard,0.0
+2941,categorical__City_Bhatinda,0.0
+2942,categorical__City_Sioux Falls,0.0
+2943,categorical__City_Sinop,0.0
+2944,categorical__City_Sindelfingen,0.0
+2945,categorical__City_Shushtar,0.0
+2946,categorical__City_Shumen,0.0
+2947,categorical__City_Soacha,0.0
+2948,categorical__City_Smyrna,0.0
+2949,categorical__City_Slupsk,0.0
+2950,categorical__City_Slough,0.0
+2951,categorical__City_Solihull,0.0
+2952,categorical__City_Soledad Díez Gutiérrez,0.0
+2953,categorical__City_Soledad,0.0
+2954,categorical__City_Solapur,0.0
+2955,categorical__City_Sokoto,0.0
+2956,categorical__City_Sokode,0.0
+2957,categorical__City_Soissons,0.0
+2958,categorical__City_Sohag,0.0
+2959,categorical__City_Sogamoso,0.0
+2960,categorical__City_Bishkek,0.0
+2961,categorical__City_Ajman,0.0
+2962,categorical__City_Alicante,0.0
+2963,categorical__City_Algiers,0.0
+2964,categorical__City_Alfortville,0.0
+2965,categorical__City_Alexandria,0.0
+2966,categorical__City_Alessandria,0.0
+2967,categorical__City_Soweto,0.0
+2968,categorical__City_Southend-on-Sea,0.0
+2969,categorical__City_Bisceglie,0.0
+2970,categorical__City_Southampton,0.0
+2971,categorical__City_South Shields,0.0
+2972,categorical__City_South Bend,0.0
+2973,categorical__City_Sousa,0.0
+2974,categorical__City_Sosnowiec,0.0
+2975,categorical__City_Sorocaba,0.0
+2976,categorical__City_Sorgues,0.0
+2977,categorical__City_Sincan,0.0
+2978,categorical__City_Sonneberg,0.0
+2979,categorical__City_Sonderborg,0.0
+2980,categorical__City_Soma,0.0
+2981,categorical__City_Solna,0.0
+2982,categorical__City_Stakhanov,0.0
+2983,categorical__City_Stains,0.0
+2984,categorical__City_Stafford,0.0
+2985,categorical__City_Stadtlohn,0.0
+2986,categorical__City_St. John's,0.0
+2987,categorical__City_St. Gallen,0.0
+2988,categorical__City_St. Catharines,0.0
+2989,categorical__City_Srinagar,0.0
+2990,categorical__City_Springs,0.0
+2991,categorical__City_Spokane,0.0
+2992,categorical__City_Split,0.0
+2993,categorical__City_Spijkenisse,0.0
+2994,categorical__City_Sparks,0.0
+2995,categorical__City_Spanish Town,0.0
+2996,categorical__City_Soyapango,0.0
+2997,categorical__City_Stuttgart,0.0
+2998,categorical__City_Strasbourg,0.0
+2999,categorical__City_Stralsund,0.0
+3000,categorical__City_Stourbridge,0.0
+3001,categorical__City_Stoke-on-Trent,0.0
+3002,categorical__City_Stockton-on-Tees,0.0
+3003,categorical__City_Stockton,0.0
+3004,categorical__City_Stockport,0.0
+3005,categorical__City_Birobidzhan,0.0
+3006,categorical__City_Birkenhead,0.0
+3007,categorical__City_Sterlitamak,0.0
+3008,categorical__City_Sterling Heights,0.0
+3009,categorical__City_Stellenbosch,0.0
+3010,categorical__City_Stavanger,0.0
+3011,categorical__City_Stara Zagora,0.0
+3012,categorical__City_Stanger,0.0
+3013,categorical__City_Birjand,0.0
+3014,categorical__City_Sunbury,0.0
+3015,categorical__City_Sumy,0.0
+3016,categorical__City_Summerville,0.0
+3017,categorical__City_Sumaré,0.0
+3018,categorical__City_Boksburg,0.0
+3019,categorical__City_Suizhou,0.0
+3020,categorical__City_São Vicente,0.0
+3021,categorical__City_São Pedro da Aldeia,0.0
+3022,categorical__City_São Paulo,0.0
+3023,categorical__City_Suining,0.0
+3024,categorical__City_Suihua,0.0
+3025,categorical__City_Suffolk,0.0
+3026,categorical__City_Sucy-en-Brie,0.0
+3027,categorical__City_Sucre,0.0
+3028,categorical__City_Suceava,0.0
+3029,categorical__City_São Benedito,0.0
+3030,categorical__City_Sylhet,0.0
+3031,categorical__City_Bokaro,0.0
+3032,categorical__City_Swindon,0.0
+3033,categorical__City_Swansea,0.0
+3034,categorical__City_Boise,0.0
+3035,categorical__City_Suwon,0.0
+3036,categorical__City_Talavera de la Reina,0.0
+3037,categorical__City_Talara,0.0
+3038,categorical__City_Takestan,0.0
+3039,categorical__City_Takatsuki,0.0
+3040,categorical__City_Surubim,0.0
+3041,categorical__City_Surrey,0.0
+3042,categorical__City_Surat,0.0
+3043,categorical__City_Surakarta,0.0
+3044,categorical__City_Bogotá,0.0
+3045,categorical__City_Taiping,0.0
+3046,categorical__City_Taipei,0.0
+3047,categorical__City_Tahta,0.0
+3048,categorical__City_Taboão da Serra,0.0
+3049,categorical__City_Tabora,0.0
+3050,categorical__City_Sète,0.0
+3051,categorical__City_Boghni,0.0
+3052,categorical__City_Tangier,0.0
+3053,categorical__City_Tanggu,0.0
+3054,categorical__City_Tangerang,0.0
+3055,categorical__City_Tanga,0.0
+3056,categorical__City_São Miguel dos Campos,0.0
+3057,categorical__City_São Luís,0.0
+3058,categorical__City_São Leopoldo,0.0
+3059,categorical__City_São José dos Campos,0.0
+3060,categorical__City_São Bernardo do Campo,0.0
+3061,categorical__City_Tallahassee,0.0
+3062,categorical__City_Tallaght,0.0
+3063,categorical__City_Talence,0.0
+3064,categorical__City_Taldyqorghan,0.0
+3065,categorical__City_Talcahuano,0.0
+3066,categorical__City_Taupo,0.0
+3067,categorical__City_Taunton,0.0
+3068,categorical__City_Taubaté,0.0
+3069,categorical__City_Tatuí,0.0
+3070,categorical__City_Tasikmalaya,0.0
+3071,categorical__City_Tartu,0.0
+3072,categorical__City_Takamatsu,0.0
+3073,categorical__City_Taizz,0.0
+3074,categorical__City_Taizhou,0.0
+3075,categorical__City_Taiyuan,0.0
+3076,categorical__City_Taixing,0.0
+3077,categorical__City_Taranto,0.0
+3078,categorical__City_Tapachula,0.0
+3079,categorical__City_Tanta,0.0
+3080,categorical__City_Temecula,0.0
+3081,categorical__City_Tembisa,0.0
+3082,categorical__City_Tel Aviv,0.0
+3083,categorical__City_Tekirdag,0.0
+3084,categorical__City_Tehuacán,0.0
+3085,categorical__City_Tehran,0.0
+3086,categorical__City_Tegal,0.0
+3087,categorical__City_Tamworth,0.0
+3088,categorical__City_Tampico,0.0
+3089,categorical__City_Bochum,0.0
+3090,categorical__City_Tamarac,0.0
+3091,categorical__City_Tallinn,0.0
+3092,categorical__City_Tawau,0.0
+3093,categorical__City_Taverny,0.0
+3094,categorical__City_Tauranga,0.0
+3095,categorical__City_Teziutlán,0.0
+3096,categorical__City_Texas City,0.0
+3097,categorical__City_Texarkana,0.0
+3098,categorical__City_Tetouan,0.0
+3099,categorical__City_Tete,0.0
+3100,categorical__City_Ternopil',0.0
+3101,categorical__City_Termez,0.0
+3102,categorical__City_Teresópolis,0.0
+3103,categorical__City_Tartagal,0.0
+3104,categorical__City_Tarsus,0.0
+3105,categorical__City_Tarnow,0.0
+3106,categorical__City_Targu Mures,0.0
+3107,categorical__City_Targu Jiu,0.0
+3108,categorical__City_Bilaspur,0.0
+3109,categorical__City_Temirtau,0.0
+3110,categorical__City_Tigard,0.0
+3111,categorical__City_Bikaner,0.0
+3112,categorical__City_Tianguá,0.0
+3113,categorical__City_Bobigny,0.0
+3114,categorical__City_Boa Vista,0.0
+3115,categorical__City_Thonon-les-Bains,0.0
+3116,categorical__City_Thomasville,0.0
+3117,categorical__City_Thiruvananthapuram,0.0
+3118,categorical__City_Boa Esperança,0.0
+3119,categorical__City_Tbilisi,0.0
+3120,categorical__City_Taza,0.0
+3121,categorical__City_Taytay,0.0
+3122,categorical__City_Taylor,0.0
+3123,categorical__City_The Colony,0.0
+3124,categorical__City_Thanjavur,0.0
+3125,categorical__City_Tlemcen,0.0
+3126,categorical__City_Bo,0.0
+3127,categorical__City_Bloomington,0.0
+3128,categorical__City_Tivoli,0.0
+3129,categorical__City_Tiruppur,0.0
+3130,categorical__City_Tirupati,0.0
+3131,categorical__City_Tirunelveli,0.0
+3132,categorical__City_Tipitapa,0.0
+3133,categorical__City_Teresina,0.0
+3134,categorical__City_Teramo,0.0
+3135,categorical__City_Blois,0.0
+3136,categorical__City_Tengzhou,0.0
+3137,categorical__City_Tempe,0.0
+3138,categorical__City_Tijuana,0.0
+3139,categorical__City_Torcy,0.0
+3140,categorical__City_Torbat-e Heydariyeh,0.0
+3141,categorical__City_Torbali,0.0
+3142,categorical__City_Toowoomba,0.0
+3143,categorical__City_Tongzhou,0.0
+3144,categorical__City_Tongling,0.0
+3145,categorical__City_Tongliao,0.0
+3146,categorical__City_Tongi,0.0
+3147,categorical__City_Tongchuan,0.0
+3148,categorical__City_Thionville,0.0
+3149,categorical__City_Thika,0.0
+3150,categorical__City_Boscoreale,0.0
+3151,categorical__City_Thiais,0.0
+3152,categorical__City_The Hague,0.0
+3153,categorical__City_Toamasina,0.0
+3154,categorical__City_Toyohashi,0.0
+3155,categorical__City_Borujerd,0.0
+3156,categorical__City_Tournefeuille,0.0
+3157,categorical__City_Tournai,0.0
+3158,categorical__City_Tourcoing,0.0
+3159,categorical__City_Toulouse,0.0
+3160,categorical__City_Toulon,0.0
+3161,categorical__City_Toul,0.0
+3162,categorical__City_Tottori,0.0
+3163,categorical__City_Tinley Park,0.0
+3164,categorical__City_Tinaquillo,0.0
+3165,categorical__City_Timisoara,0.0
+3166,categorical__City_Timaru,0.0
+3167,categorical__City_Tilburg,0.0
+3168,categorical__City_Torquay,0.0
+3169,categorical__City_Troy,0.0
+3170,categorical__City_Troisdorf,0.0
+3171,categorical__City_Trinidad,0.0
+3172,categorical__City_Trieste,0.0
+3173,categorical__City_Bordeaux,0.0
+3174,categorical__City_Treviso,0.0
+3175,categorical__City_Trenton,0.0
+3176,categorical__City_Trento,0.0
+3177,categorical__City_Tremblay-en-France,0.0
+3178,categorical__City_Toluca,0.0
+3179,categorical__City_Toliara,0.0
+3180,categorical__City_Borazjan,0.0
+3181,categorical__City_Tokyo,0.0
+3182,categorical__City_Tokat,0.0
+3183,categorical__City_Tuxtla Gutiérrez,0.0
+3184,categorical__City_Tuscaloosa,0.0
+3185,categorical__City_Turmero,0.0
+3186,categorical__City_Turkmenabat,0.0
+3187,categorical__City_Turin,0.0
+3188,categorical__City_Turgutlu,0.0
+3189,categorical__City_Tupã,0.0
+3190,categorical__City_Tunis,0.0
+3191,categorical__City_Tumkur,0.0
+3192,categorical__City_Bonneuil-sur-Marne,0.0
+3193,categorical__City_Tulle,0.0
+3194,categorical__City_Bonn,0.0
+3195,categorical__City_Torrevieja,0.0
+3196,categorical__City_Torremolinos,0.0
+3197,categorical__City_Torre del Greco,0.0
+3198,categorical__City_Torrance,0.0
+3199,categorical__City_Ulan Bator,0.0
+3200,categorical__City_Ujjain,0.0
+3201,categorical__City_Uithoorn,0.0
+3202,categorical__City_Ugep,0.0
+3203,categorical__City_Ufa,0.0
+3204,categorical__City_Ueda,0.0
+3205,categorical__City_Udaipur,0.0
+3206,categorical__City_Uberlândia,0.0
+3207,categorical__City_Uberaba,0.0
+3208,categorical__City_Ube,0.0
+3209,categorical__City_Tyler,0.0
+3210,categorical__City_Traralgon,0.0
+3211,categorical__City_Trappes,0.0
+3212,categorical__City_Trapani,0.0
+3213,categorical__City_Trani,0.0
+3214,categorical__City_Trabzon,0.0
+3215,categorical__City_Uskudar,0.0
+3216,categorical__City_Usak,0.0
+3217,categorical__City_Uruguaiana,0.0
+3218,categorical__City_Urbandale,0.0
+3219,categorical__City_Uppsala,0.0
+3220,categorical__City_Upplands Väsby,0.0
+3221,categorical__City_Upper Hutt,0.0
+3222,categorical__City_Unna,0.0
+3223,categorical__City_Umtata,0.0
+3224,categorical__City_Umraniye,0.0
+3225,categorical__City_Uman',0.0
+3226,categorical__City_Tucson,0.0
+3227,categorical__City_Tsukuba,0.0
+3228,categorical__City_Trujillo,0.0
+3229,categorical__City_Troyes,0.0
+3230,categorical__City_Valenzuela,0.0
+3231,categorical__City_Valenciennes,0.0
+3232,categorical__City_Valence,0.0
+3233,categorical__City_Valdemoro,0.0
+3234,categorical__City_Bonao,0.0
+3235,categorical__City_Vacaville,0.0
+3236,categorical__City_Vacaria,0.0
+3237,categorical__City_Uvira,0.0
+3238,categorical__City_Uvinza,0.0
+3239,categorical__City_Uvarovo,0.0
+3240,categorical__City_Tychy,0.0
+3241,categorical__City_Twin Falls,0.0
+3242,categorical__City_Tuzla,0.0
+3243,categorical__City_Usti nad Labem,0.0
+3244,categorical__City_Usol'ye-Sibirskoye,0.0
+3245,categorical__City_Vantaa,0.0
+3246,categorical__City_Vannes,0.0
+3247,categorical__City_Vanderbijlpark,0.0
+3248,categorical__City_Vancouver,0.0
+3249,categorical__City_Vanadzor,0.0
+3250,categorical__City_Van,0.0
+3251,categorical__City_Valparaíso de Goiás,0.0
+3252,categorical__City_Valparaíso,0.0
+3253,categorical__City_Valles,0.0
+3254,categorical__City_Vallejo,0.0
+3255,categorical__City_Valledupar,0.0
+3256,categorical__City_Ulundi,0.0
+3257,categorical__City_Ulsan,0.0
+3258,categorical__City_Vallauris,0.0
+3259,categorical__City_Valladolid,0.0
+3260,categorical__City_Valinhos,0.0
+3261,categorical__City_Verdun,0.0
+3262,categorical__City_Veracruz,0.0
+3263,categorical__City_Venlo,0.0
+3264,categorical__City_Venice,0.0
+3265,categorical__City_Vence,0.0
+3266,categorical__City_Velsen,0.0
+3267,categorical__City_Velletri,0.0
+3268,categorical__City_Velbert,0.0
+3269,categorical__City_Veenendaal,0.0
+3270,categorical__City_Vaulx-en-Velin,0.0
+3271,categorical__City_Utrecht,0.0
+3272,categorical__City_Utica,0.0
+3273,categorical__City_Varanasi,0.0
+3274,categorical__City_Varamin,0.0
+3275,categorical__City_Vanves,0.0
+3276,categorical__City_Vigneux-sur-Seine,0.0
+3277,categorical__City_Vigevano,0.0
+3278,categorical__City_Viersen,0.0
+3279,categorical__City_Bistrita,0.0
+3280,categorical__City_Victoria Falls,0.0
+3281,categorical__City_Bissau,0.0
+3282,categorical__City_Vichy,0.0
+3283,categorical__City_Vicenza,0.0
+3284,categorical__City_Vespasiano,0.0
+3285,categorical__City_Vesoul,0.0
+3286,categorical__City_Verviers,0.0
+3287,categorical__City_Valle de La Pascua,0.0
+3288,categorical__City_Valle Hermoso,0.0
+3289,categorical__City_Verona,0.0
+3290,categorical__City_Vereeniging,0.0
+3291,categorical__City_Villenave-d'Ornon,0.0
+3292,categorical__City_Villemomble,0.0
+3293,categorical__City_Villefontaine,0.0
+3294,categorical__City_Villavicencio,0.0
+3295,categorical__City_Villahermosa,0.0
+3296,categorical__City_Agadir,0.0
+3297,categorical__City_Afyon,0.0
+3298,categorical__City_Afragola,0.0
+3299,categorical__City_Aew?l-li,0.0
+3300,categorical__City_Adiyaman,0.0
+3301,categorical__City_Adelaide,0.0
+3302,categorical__City_Vassouras,0.0
+3303,categorical__City_Varna,0.0
+3304,categorical__City_Vijayawada,0.0
+3305,categorical__City_Bolívar,0.0
+3306,categorical__City_Vignola,0.0
+3307,categorical__City_Al Hillah,0.0
+3308,categorical__City_Al Fayyum,0.0
+3309,categorical__City_Al Amarah,0.0
+3310,categorical__City_Akure,0.0
+3311,categorical__City_Aksu,0.0
+3312,categorical__City_Villach,0.0
+3313,categorical__City_Villa Nueva,0.0
+3314,categorical__City_Villa Canales,0.0
+3315,categorical__City_Villa Alemana,0.0
+3316,categorical__City_Vilhena,0.0
+3317,categorical__City_Vila Nova de Gaia,0.0
+3318,categorical__City_Vertou,0.0
+3319,categorical__City_Versailles,0.0
+3320,categorical__City_Villeneuve-le-Roi,0.0
+3321,categorical__City_Villeneuve-d'Ascq,0.0
+3322,categorical__City_Villeneuve-Saint-Georges,0.0
+3323,categorical__City_Vinnytsya,0.0
+3324,categorical__City_Vineland,0.0
+3325,categorical__City_Vincennes,0.0
+3326,categorical__City_Vilnius,0.0
+3327,categorical__City_Villingen-Schwenningen,0.0
+3328,categorical__City_Villiers-sur-Marne,0.0
+3329,categorical__City_Villiers-le-Bel,0.0
+3330,categorical__City_Villeurbanne,0.0
+3331,categorical__City_Vryburg,0.0
+3332,categorical__City_Vratsa,0.0
+3333,categorical__City_Adana,0.0
+3334,categorical__City_Al Mahallah al Kubra,0.0
+3335,categorical__City_Al Khums,0.0
+3336,categorical__City_Al Hufuf,0.0
+3337,categorical__City_Al Hudaydah,0.0
+3338,categorical__City_Vladimir,0.0
+3339,categorical__City_Vlaardingen,0.0
+3340,categorical__City_Viña del Mar,0.0
+3341,categorical__City_Vitória de Santo Antão,0.0
+3342,categorical__City_Vitória da Conquista,0.0
+3343,categorical__City_Vitória,0.0
+3344,categorical__City_Vittoria,0.0
+3345,categorical__City_Vitry-sur-Seine,0.0
+3346,categorical__City_Vitrolles,0.0
+3347,categorical__City_Warsaw,0.0
+3348,categorical__City_Warrnambool,0.0
+3349,categorical__City_Viterbo,0.0
+3350,categorical__City_Visalia,0.0
+3351,categorical__City_Visakhapatnam,0.0
+3352,categorical__City_Virginia Beach,0.0
+3353,categorical__City_Viransehir,0.0
+3354,categorical__City_Bolzano,0.0
+3355,categorical__City_Waitakere,0.0
+3356,categorical__City_Waiblingen,0.0
+3357,categorical__City_Wagga Wagga,0.0
+3358,categorical__City_Wafangdian,0.0
+3359,categorical__City_Wadi as Sir,0.0
+3360,categorical__City_Wad Madani,0.0
+3361,categorical__City_Waco,0.0
+3362,categorical__City_Várzea Grande,0.0
+3363,categorical__City_Wels,0.0
+3364,categorical__City_Bari,0.0
+3365,categorical__City_Bareilly,0.0
+3366,categorical__City_Bolu,0.0
+3367,categorical__City_Balikesir,0.0
+3368,categorical__City_Baku,0.0
+3369,categorical__City_Bakersfield,0.0
+3370,categorical__City_Baranagar,0.0
+3371,categorical__City_Barakaldo,0.0
+3372,categorical__City_Bar-le-Duc,0.0
+3373,categorical__City_Baqubah,0.0
+3374,categorical__City_Baoding,0.0
+3375,categorical__City_Baní,0.0
+3376,categorical__City_Banska Bystrica,0.0
+3377,categorical__City_Basel,0.0
+3378,categorical__City_Baruta,0.0
+3379,categorical__City_Barueri,0.0
+3380,categorical__City_Wellington,0.0
+3381,categorical__City_Votuporanga,0.0
+3382,categorical__City_Voronezh,0.0
+3383,categorical__City_Volksrust,0.0
+3384,categorical__City_Voiron,0.0
+3385,categorical__City_Vlore,0.0
+3386,categorical__City_Watford,0.0
+3387,categorical__City_Bolton,0.0
+3388,categorical__City_Waterlooville,0.0
+3389,categorical__City_Waterloo,0.0
+3390,categorical__City_Waterbury,0.0
+3391,categorical__City_Bologna,0.0
+3392,categorical__City_Washington,0.0
+3393,categorical__City_Warwick,0.0
+3394,categorical__City_Whakatane,0.0
+3395,categorical__City_Bolingbrook,0.0
+3396,categorical__City_Warrington,0.0
+3397,categorical__City_Warri,0.0
+3398,categorical__City_Warangal,0.0
+3399,categorical__City_Walsall,0.0
+3400,categorical__City_Wallasey,0.0
+3401,categorical__City_West Palm Beach,0.0
+3402,categorical__City_West Jordan,0.0
+3403,categorical__City_West Bromwich,0.0
+3404,categorical__City_West Allis,0.0
+3405,categorical__City_Wenling,0.0
+3406,categorical__City_Wendeng,0.0
+3407,categorical__City_Winterthur,0.0
+3408,categorical__City_Winnipeg,0.0
+3409,categorical__City_Windsor,0.0
+3410,categorical__City_Windhoek,0.0
+3411,categorical__City_Wilson,0.0
+3412,categorical__City_Weimar,0.0
+3413,categorical__City_Weifang,0.0
+3414,categorical__City_Wausau,0.0
+3415,categorical__City_Waukesha,0.0
+3416,categorical__City_Wattrelos,0.0
+3417,categorical__City_Widnes,0.0
+3418,categorical__City_Wichita,0.0
+3419,categorical__City_Whyalla,0.0
+3420,categorical__City_Whittier,0.0
+3421,categorical__City_Whitby,0.0
+3422,categorical__City_Bragança Paulista,0.0
+3423,categorical__City_Wuhai,0.0
+3424,categorical__City_Wuchuan,0.0
+3425,categorical__City_Wuchang,0.0
+3426,categorical__City_Worthing,0.0
+3427,categorical__City_Worms,0.0
+3428,categorical__City_Wetter (Ruhr),0.0
+3429,categorical__City_Westonaria,0.0
+3430,categorical__City_Weston-super-Mare,0.0
+3431,categorical__City_Westminster,0.0
+3432,categorical__City_Westfield,0.0
+3433,categorical__City_Wolverhampton,0.0
+3434,categorical__City_Wollongong,0.0
+3435,categorical__City_Wolfsburg,0.0
+3436,categorical__City_Woking,0.0
+3437,categorical__City_Wodonga,0.0
+3438,categorical__City_Witten,0.0
+3439,categorical__City_Xintai,0.0
+3440,categorical__City_Xining,0.0
+3441,categorical__City_Xinghua,0.0
+3442,categorical__City_Xiaogan,0.0
+3443,categorical__City_Xianyang,0.0
+3444,categorical__City_Willich,0.0
+3445,categorical__City_Wilhelmshaven,0.0
+3446,categorical__City_Wigan,0.0
+3447,categorical__City_Wiesbaden,0.0
+3448,categorical__City_Wuzhou,0.0
+3449,categorical__City_Wuxi,0.0
+3450,categorical__City_Wuppertal,0.0
+3451,categorical__City_Bracknell,0.0
+3452,categorical__City_Yantai,0.0
+3453,categorical__City_Yanji,0.0
+3454,categorical__City_Yangjiang,0.0
+3455,categorical__City_Yancheng,0.0
+3456,categorical__City_Yanbu al Bahr,0.0
+3457,categorical__City_Yamoussoukro,0.0
+3458,categorical__City_Worcester,0.0
+3459,categorical__City_Woonsocket,0.0
+3460,categorical__City_Woodstock,0.0
+3461,categorical__City_Woodland,0.0
+3462,categorical__City_Woodbury,0.0
+3463,categorical__City_Xinyi,0.0
+3464,categorical__City_Xinxiang,0.0
+3465,categorical__City_Yonkers,0.0
+3466,categorical__City_Yongchuan,0.0
+3467,categorical__City_Yokkaichi,0.0
+3468,categorical__City_Yogyakarta,0.0
+3469,categorical__City_Yiyang,0.0
+3470,categorical__City_Yiwu,0.0
+3471,categorical__City_Yingcheng,0.0
+3472,categorical__City_Yichun,0.0
+3473,categorical__City_Yicheng,0.0
+3474,categorical__City_Xiantao,0.0
+3475,categorical__City_Xianning,0.0
+3476,categorical__City_Xiangtan,0.0
+3477,categorical__City_Xiamen,0.0
+3478,categorical__City_Xi'an,0.0
+3479,categorical__City_Yaounde,0.0
+3480,categorical__City_Yao,0.0
+3481,categorical__City_Zabrze,0.0
+3482,categorical__City_Zabol,0.0
+3483,categorical__City_Zaanstad,0.0
+3484,categorical__City_Yuyao,0.0
+3485,categorical__City_Yushu,0.0
+3486,categorical__City_Yuncheng,0.0
+3487,categorical__City_Yuma,0.0
+3488,categorical__City_Yalova,0.0
+3489,categorical__City_Yacuiba,0.0
+3490,categorical__City_Xuzhou,0.0
+3491,categorical__City_Xuanhua,0.0
+3492,categorical__City_Xinzhou,0.0
+3493,categorical__City_York,0.0
+3494,categorical__City_Yopal,0.0
+3495,categorical__City_Zhaoyuan,0.0
+3496,categorical__City_Zhaoqing,0.0
+3497,categorical__City_Zhanjiang,0.0
+3498,categorical__City_Zhangzhou,0.0
+3499,categorical__City_Zhangjiakou,0.0
+3500,categorical__City_Zenica,0.0
+3501,categorical__City_Zeist,0.0
+3502,categorical__City_Zaria,0.0
+3503,categorical__City_Zaporizhzhya,0.0
+3504,categorical__City_Yibin,0.0
+3505,categorical__City_Yerres,0.0
+3506,categorical__City_Yazd,0.0
+3507,categorical__City_Yaroslavl',0.0
+3508,categorical__City_Bozeman,0.0
+3509,categorical__City_Zahedan,0.0
+3510,categorical__City_Zagreb,0.0
+3511,categorical__City_Zunyi,0.0
+3512,categorical__City_Zlatoust,0.0
+3513,categorical__City_Zinder,0.0
+3514,categorical__City_Zilina,0.0
+3515,categorical__City_Zihuatanejo,0.0
+3516,categorical__City_Ziguinchor,0.0
+3517,categorical__City_Zigong,0.0
+3518,categorical__City_Zielona Gora,0.0
+3519,categorical__City_Zhytomyr,0.0
+3520,categorical__City_Yulin,0.0
+3521,categorical__City_Yueyang,0.0
+3522,categorical__City_Yuci,0.0
+3523,categorical__City_Yucaipa,0.0
+3524,categorical__City_Yuanjiang,0.0
+3525,categorical__City_Zhengzhou,0.0
+3526,categorical__State_Adamaoua,0.0
+3527,categorical__State_Ad Dawhah,0.0
+3528,categorical__State_Acre,0.0
+3529,categorical__State_Aceh,0.0
+3530,categorical__State_Abuja Capital Territory,0.0
+3531,categorical__State_Abruzzi,0.0
+3532,categorical__State_Abia,0.0
+3533,categorical__State_'Asir,0.0
+3534,categorical__State_'Amman,0.0
+3535,categorical__State_'Ajman,0.0
+3536,categorical__City_Zaozhuang,0.0
+3537,categorical__City_Zaoyang,0.0
+3538,categorical__City_Boynton Beach,0.0
+3539,categorical__City_Zamora,0.0
+3540,categorical__City_Zurich,0.0
+3541,categorical__State_Al Madinah,0.0
+3542,categorical__State_Al Jawf,0.0
+3543,categorical__State_Al Iskandariyah,0.0
+3544,categorical__State_Al Hudaydah,0.0
+3545,categorical__State_Al Gharbiyah,0.0
+3546,categorical__State_Al Fayyum,0.0
+3547,categorical__State_Al Buhayrah,0.0
+3548,categorical__State_Al Basrah,0.0
+3549,categorical__State_Al Bahr Al Ahmar,0.0
+3550,categorical__State_Akwa Ibom,0.0
+3551,categorical__City_Zhuzhou,0.0
+3552,categorical__City_Zhumadian,0.0
+3553,categorical__City_Zhuhai,0.0
+3554,categorical__City_Zhongxiang,0.0
+3555,categorical__City_Zhenjiang,0.0
+3556,categorical__State_Adamawa,0.0
+3557,categorical__State_Amazonas,0.0
+3558,categorical__State_Amasya,0.0
+3559,categorical__City_Bowling Green,0.0
+3560,categorical__State_Alsace,0.0
+3561,categorical__State_Almaty City,0.0
+3562,categorical__State_Almaty,0.0
+3563,categorical__State_Alibori,0.0
+3564,categorical__State_Alger,0.0
+3565,categorical__State_Alberta,0.0
+3566,categorical__City_Bournemouth,0.0
+3567,categorical__City_Águas Lindas de Goiás,0.0
+3568,categorical__City_eMbalenhle,0.0
+3569,categorical__City_Zwolle,0.0
+3570,categorical__City_Zwickau,0.0
+3571,categorical__City_Zwedru,0.0
+3572,categorical__State_Al Marqab,0.0
+3573,categorical__State_Anzoátegui,0.0
+3574,categorical__State_Antwerp,0.0
+3575,categorical__State_Antofagasta,0.0
+3576,categorical__City_Bourges,0.0
+3577,categorical__State_Antalya,0.0
+3578,categorical__State_Anseba,0.0
+3579,categorical__State_Annaba,0.0
+3580,categorical__City_Bourg-en-Bresse,0.0
+3581,categorical__State_Andijan,0.0
+3582,categorical__State_Aksaray,0.0
+3583,categorical__State_Aichi,0.0
+3584,categorical__State_Afyonkarahisar,0.0
+3585,categorical__State_Adiyaman,0.0
+3586,categorical__State_Adana,0.0
+3587,categorical__State_Amur,0.0
+3588,categorical__State_Arkansas,0.0
+3589,categorical__City_Boca Raton,0.0
+3590,categorical__State_Arica y Parinacota,0.0
+3591,categorical__State_Arges,0.0
+3592,categorical__State_Arequipa,0.0
+3593,categorical__State_Ardahan,0.0
+3594,categorical__State_Ardabil,0.0
+3595,categorical__State_Arbil,0.0
+3596,categorical__City_Bouake,0.0
+3597,categorical__State_Aragua,0.0
+3598,categorical__State_Alabama,0.0
+3599,categorical__State_Al Qadisiyah,0.0
+3600,categorical__State_Al Minya,0.0
+3601,categorical__State_Al Minufiyah,0.0
+3602,categorical__State_Aomori,0.0
+3603,categorical__State_Atakora,0.0
+3604,categorical__State_Atacama,0.0
+3605,categorical__State_Asyut,0.0
+3606,categorical__State_Aswan,0.0
+3607,categorical__State_Asunción,0.0
+3608,categorical__State_Asturias,0.0
+3609,categorical__State_Astrakhan',0.0
+3610,categorical__State_Astana,0.0
+3611,categorical__State_Assam,0.0
+3612,categorical__State_Ashgabat,0.0
+3613,categorical__State_Andhra Pradesh,0.0
+3614,categorical__State_Ancash,0.0
+3615,categorical__State_Anambra,0.0
+3616,categorical__State_Analamanga,0.0
+3617,categorical__City_Botshabelo,0.0
+3618,categorical__State_Bacau,0.0
+3619,categorical__State_Babil,0.0
+3620,categorical__State_Azuay,0.0
+3621,categorical__State_Aydin,0.0
+3622,categorical__State_Ayacucho,0.0
+3623,categorical__State_Aveiro,0.0
+3624,categorical__State_Auvergne,0.0
+3625,categorical__State_Australian Capital Territory,0.0
+3626,categorical__State_Arad,0.0
+3627,categorical__State_Ar Riyad,0.0
+3628,categorical__City_Botosani,0.0
+3629,categorical__State_Aqmola,0.0
+3630,categorical__City_Bossier City,0.0
+3631,categorical__State_Atlantique,0.0
+3632,categorical__State_Bani Suwayf,0.0
+3633,categorical__State_Bangui,0.0
+3634,categorical__City_Bridgeton,0.0
+3635,categorical__State_Banghazi,0.0
+3636,categorical__State_Bandundu,0.0
+3637,categorical__State_Banaadir,0.0
+3638,categorical__State_Bamako,0.0
+3639,categorical__State_Baluchistan,0.0
+3640,categorical__State_Balti,0.0
+3641,categorical__State_Balikesir,0.0
+3642,categorical__State_Ashanti,0.0
+3643,categorical__City_Bressuire,0.0
+3644,categorical__State_Arusha,0.0
+3645,categorical__State_Artibonite,0.0
+3646,categorical__State_Artemisa,0.0
+3647,categorical__State_Bahia,0.0
+3648,categorical__State_Bejaia,0.0
+3649,categorical__State_Beirut,0.0
+3650,categorical__State_Beijing,0.0
+3651,categorical__State_Bechar,0.0
+3652,categorical__State_Bay of Plenty,0.0
+3653,categorical__State_Bavaria,0.0
+3654,categorical__State_Bauchi,0.0
+3655,categorical__State_Batna,0.0
+3656,categorical__State_Batman,0.0
+3657,categorical__State_Basque Country,0.0
+3658,categorical__City_Brescia,0.0
+3659,categorical__State_Atsinanana,0.0
+3660,categorical__State_Atsimo-Andrefana,0.0
+3661,categorical__State_Atlántida,0.0
+3662,categorical__State_Atlántico,0.0
+3663,categorical__State_Banská Bystrica,0.0
+3664,categorical__State_Bistrita-Nasaud,0.0
+3665,categorical__State_Bissau,0.0
+3666,categorical__State_Bishkek,0.0
+3667,categorical__State_Biobio,0.0
+3668,categorical__State_Bingol,0.0
+3669,categorical__State_Bihor,0.0
+3670,categorical__State_Bihar,0.0
+3671,categorical__State_Bie,0.0
+3672,categorical__State_Bern,0.0
+3673,categorical__City_Brentwood,0.0
+3674,categorical__State_Bali,0.0
+3675,categorical__State_Balearic Islands,0.0
+3676,categorical__State_Baki,0.0
+3677,categorical__State_Baja California Sur,0.0
+3678,categorical__State_Baja California,0.0
+3679,categorical__State_Bekes,0.0
+3680,categorical__State_British Columbia,0.0
+3681,categorical__State_Brest,0.0
+3682,categorical__State_Bremen,0.0
+3683,categorical__State_Brasov,0.0
+3684,categorical__City_Bremerhaven,0.0
+3685,categorical__State_Braila,0.0
+3686,categorical__State_Boyacá,0.0
+3687,categorical__State_Botosani,0.0
+3688,categorical__State_Borno,0.0
+3689,categorical__State_Borgou,0.0
+3690,categorical__State_Basilicata,0.0
+3691,categorical__State_Bashkortostan,0.0
+3692,categorical__State_Basel-Stadt,0.0
+3693,categorical__State_Bas-Congo,0.0
+3694,categorical__State_Barahona,0.0
+3695,categorical__State_Bitola,0.0
+3696,categorical__State_Cabo Delgado,0.0
+3697,categorical__State_Buzau,0.0
+3698,categorical__State_Buskerud,0.0
+3699,categorical__State_Bushehr,0.0
+3700,categorical__State_Busan,0.0
+3701,categorical__State_Bursa,0.0
+3702,categorical__State_Burgundy,0.0
+3703,categorical__State_Burgas,0.0
+3704,categorical__State_Bur Sa'id,0.0
+3705,categorical__City_Breda,0.0
+3706,categorical__State_Benue,0.0
+3707,categorical__State_Beni,0.0
+3708,categorical__State_Benguela,0.0
+3709,categorical__State_Bengkulu,0.0
+3710,categorical__State_Belgorod,0.0
+3711,categorical__State_Brittany,0.0
+3712,categorical__State_Carinthia,0.0
+3713,categorical__State_Carabobo,0.0
+3714,categorical__State_Caquetá,0.0
+3715,categorical__City_Brasov,0.0
+3716,categorical__State_Cantabria,0.0
+3717,categorical__State_Canelones,0.0
+3718,categorical__State_Canakkale,0.0
+3719,categorical__City_Bom Jesus da Lapa,0.0
+3720,categorical__State_Campania,0.0
+3721,categorical__State_Camagüey,0.0
+3722,categorical__State_Bolívar,0.0
+3723,categorical__State_Bolu,0.0
+3724,categorical__State_Bolivar,0.0
+3725,categorical__State_Bogota,0.0
+3726,categorical__State_Boeny,0.0
+3727,categorical__State_Cajamarca,0.0
+3728,categorical__State_Chaguanas,0.0
+3729,categorical__State_Chaco,0.0
+3730,categorical__State_Ceuta,0.0
+3731,categorical__State_Cesar,0.0
+3732,categorical__State_Centre,0.0
+3733,categorical__State_Centrale,0.0
+3734,categorical__State_Central Luzon,0.0
+3735,categorical__State_Central Jutland,0.0
+3736,categorical__State_Central Equatoria,0.0
+3737,categorical__State_Central,0.0
+3738,categorical__State_Bujumbura-Mairie,0.0
+3739,categorical__State_Buenos Aires,0.0
+3740,categorical__State_Budapest,0.0
+3741,categorical__State_Bryansk,0.0
+3742,categorical__State_Brussels,0.0
+3743,categorical__State_Castile and León,0.0
+3744,categorical__State_Casanare,0.0
+3745,categorical__State_Chittagong,0.0
+3746,categorical__City_Brampton,0.0
+3747,categorical__State_Chiriquí,0.0
+3748,categorical__State_Chinandega,0.0
+3749,categorical__State_Chimaltenango,0.0
+3750,categorical__City_Braila,0.0
+3751,categorical__State_Chiba,0.0
+3752,categorical__State_Chiapas,0.0
+3753,categorical__State_Chhattisgarh,0.0
+3754,categorical__State_Callao,0.0
+3755,categorical__City_Brahmapur,0.0
+3756,categorical__State_Caldas,0.0
+3757,categorical__State_Calabarzon,0.0
+3758,categorical__State_Chandigarh,0.0
+3759,categorical__State_Champagne-Ardenne,0.0
+3760,categorical__State_Colón,0.0
+3761,categorical__State_Colima,0.0
+3762,categorical__State_Cojedes,0.0
+3763,categorical__State_Coimbra,0.0
+3764,categorical__State_Cochabamba,0.0
+3765,categorical__State_Coast,0.0
+3766,categorical__State_Coahuila,0.0
+3767,categorical__State_Cluj,0.0
+3768,categorical__State_Cienfuegos,0.0
+3769,categorical__State_Ceará,0.0
+3770,categorical__State_Catamarca,0.0
+3771,categorical__State_Castile-La Mancha,0.0
+3772,categorical__State_Chongqing,0.0
+3773,categorical__State_Choluteca,0.0
+3774,categorical__State_Daejeon,0.0
+3775,categorical__State_Daegu,0.0
+3776,categorical__State_Córdoba,0.0
+3777,categorical__State_Cuscatlán,0.0
+3778,categorical__State_Cundinamarca,0.0
+3779,categorical__State_Cross River,0.0
+3780,categorical__State_Corum,0.0
+3781,categorical__State_Cortés,0.0
+3782,categorical__State_Corsica,0.0
+3783,categorical__City_Bry-sur-Marne,0.0
+3784,categorical__State_Chernihiv,0.0
+3785,categorical__State_Cherkasy,0.0
+3786,categorical__State_Chelyabinsk,0.0
+3787,categorical__State_Chaouia-Ouardigha,0.0
+3788,categorical__State_Constanta,0.0
+3789,categorical__State_Connecticut,0.0
+3790,categorical__State_Distrito Capital,0.0
+3791,categorical__State_District of Columbia,0.0
+3792,categorical__State_Dire Dawa,0.0
+3793,categorical__State_Diffa,0.0
+3794,categorical__State_Diana,0.0
+3795,categorical__State_Dhi Qar,0.0
+3796,categorical__City_Brumado,0.0
+3797,categorical__City_Broomfield,0.0
+3798,categorical__City_Bafoussam,0.0
+3799,categorical__City_Baden-Baden,0.0
+3800,categorical__City_Badajoz,0.0
+3801,categorical__City_Bacoor,0.0
+3802,categorical__City_Bacolod City,0.0
+3803,categorical__City_Bandirma,0.0
+3804,categorical__City_Bandar-e Anzali,0.0
+3805,categorical__City_Bandar Abbas,0.0
+3806,categorical__City_Banda Aceh,0.0
+3807,categorical__City_Bamberg,0.0
+3808,categorical__City_Bron,0.0
+3809,categorical__City_Baltimore,0.0
+3810,categorical__City_Balti,0.0
+3811,categorical__City_Barika,0.0
+3812,categorical__State_Denizli,0.0
+3813,categorical__State_Delta,0.0
+3814,categorical__State_Ciego de Ávila,0.0
+3815,categorical__City_Broken Hill,0.0
+3816,categorical__State_Chuquisaca,0.0
+3817,categorical__State_Chubut,0.0
+3818,categorical__State_Dakar,0.0
+3819,categorical__State_Dagestan,0.0
+3820,categorical__State_Düzce,0.0
+3821,categorical__State_Durango,0.0
+3822,categorical__City_Broken Arrow,0.0
+3823,categorical__State_Duarte,0.0
+3824,categorical__State_Drenthe,0.0
+3825,categorical__State_Doukkala-Abda,0.0
+3826,categorical__State_Donga,0.0
+3827,categorical__State_Dolj,0.0
+3828,categorical__State_Cork,0.0
+3829,categorical__State_Cordillera,0.0
+3830,categorical__City_Brive-la-Gaillarde,0.0
+3831,categorical__State_Constantine,0.0
+3832,categorical__State_Diyala,0.0
+3833,categorical__State_Dix-Huit Montagnes,0.0
+3834,categorical__State_Esfahan,0.0
+3835,categorical__State_Escuintla,0.0
+3836,categorical__State_Erzurum,0.0
+3837,categorical__State_Equateur,0.0
+3838,categorical__State_Enugu,0.0
+3839,categorical__State_Entre Ríos,0.0
+3840,categorical__City_Briton Ferry,0.0
+3841,categorical__State_Emilia-Romagna,0.0
+3842,categorical__State_Elbasan,0.0
+3843,categorical__State_Elazig,0.0
+3844,categorical__City_Bristol,0.0
+3845,categorical__State_Dayr Az Zawr,0.0
+3846,categorical__State_Dar Es Salaam,0.0
+3847,categorical__State_Eastern,0.0
+3848,categorical__City_Boulogne-sur-Mer,0.0
+3849,categorical__State_Franche-Comté,0.0
+3850,categorical__City_Brindisi,0.0
+3851,categorical__State_Flemish Brabant,0.0
+3852,categorical__State_Federation of Bosnia and Herzegovina,0.0
+3853,categorical__City_Brighton,0.0
+3854,categorical__State_Fars,0.0
+3855,categorical__State_F.C.T.,0.0
+3856,categorical__State_Extreme-Nord,0.0
+3857,categorical__State_Extremadura,0.0
+3858,categorical__State_Dnipropetrovs'k,0.0
+3859,categorical__State_Djibouti,0.0
+3860,categorical__State_Djelfa,0.0
+3861,categorical__State_Diyarbakir,0.0
+3862,categorical__State_Espaillat,0.0
+3863,categorical__State_Eskisehir,0.0
+3864,categorical__State_Gaziantep,0.0
+3865,categorical__State_Gauteng,0.0
+3866,categorical__State_Gansu,0.0
+3867,categorical__State_Gangwon,0.0
+3868,categorical__State_Galway,0.0
+3869,categorical__State_Galati,0.0
+3870,categorical__City_Bur Sudan,0.0
+3871,categorical__State_Fukuoka,0.0
+3872,categorical__State_Fukui,0.0
+3873,categorical__State_Edo,0.0
+3874,categorical__State_Edirne,0.0
+3875,categorical__State_Ebonyi,0.0
+3876,categorical__State_Eastern Cape,0.0
+3877,categorical__State_Free State,0.0
+3878,categorical__City_Bundaberg,0.0
+3879,categorical__State_Grand Gedeh,0.0
+3880,categorical__City_Bunbury,0.0
+3881,categorical__State_Granada,0.0
+3882,categorical__State_Grad Zagreb,0.0
+3883,categorical__State_Gorj,0.0
+3884,categorical__State_Gombe,0.0
+3885,categorical__State_Golestan,0.0
+3886,categorical__State_Goiás,0.0
+3887,categorical__State_Giurgiu,0.0
+3888,categorical__State_Gisborne,0.0
+3889,categorical__State_Estuaire,0.0
+3890,categorical__State_Estelí,0.0
+3891,categorical__State_Est,0.0
+3892,categorical__State_Espírito Santo,0.0
+3893,categorical__State_Geneva,0.0
+3894,categorical__State_Gelderland,0.0
+3895,categorical__City_Bullhead City,0.0
+3896,categorical__City_Bulawayo,0.0
+3897,categorical__State_Guerrero,0.0
+3898,categorical__State_Guelmim-Es Semara,0.0
+3899,categorical__City_Bukavu,0.0
+3900,categorical__State_Guayas,0.0
+3901,categorical__City_Bujumbura,0.0
+3902,categorical__City_Buffalo Grove,0.0
+3903,categorical__State_Guangxi,0.0
+3904,categorical__State_Guangdong,0.0
+3905,categorical__State_Fujian,0.0
+3906,categorical__State_Fromager,0.0
+3907,categorical__State_Friuli-Venezia Giulia,0.0
+3908,categorical__State_Friesland,0.0
+3909,categorical__State_Greater Accra,0.0
+3910,categorical__State_Granma,0.0
+3911,categorical__State_Haryana,0.0
+3912,categorical__State_Harjumaa,0.0
+3913,categorical__State_Harare,0.0
+3914,categorical__City_Buffalo,0.0
+3915,categorical__State_Hamadan,0.0
+3916,categorical__State_Halland,0.0
+3917,categorical__State_Hajdu-Bihar,0.0
+3918,categorical__State_Hainaut,0.0
+3919,categorical__State_Hainan,0.0
+3920,categorical__State_Haifa,0.0
+3921,categorical__State_Gilan,0.0
+3922,categorical__State_Gharb-Chrarda-Béni Hssen,0.0
+3923,categorical__State_Gezira,0.0
+3924,categorical__City_Budapest,0.0
+3925,categorical__State_Gunma,0.0
+3926,categorical__State_Gulu,0.0
+3927,categorical__State_Homyel',0.0
+3928,categorical__State_Holguín,0.0
+3929,categorical__State_Hokkaido,0.0
+3930,categorical__State_Ho Chí Minh City,0.0
+3931,categorical__State_Hiroshima,0.0
+3932,categorical__State_Hims,0.0
+3933,categorical__State_Henan,0.0
+3934,categorical__State_Heilongjiang,0.0
+3935,categorical__State_Guanajuato,0.0
+3936,categorical__State_Groningen,0.0
+3937,categorical__State_Greater Poland,0.0
+3938,categorical__State_Haut-Sassandra,0.0
+3939,categorical__State_Hatay,0.0
+3940,categorical__State_Ica,0.0
+3941,categorical__State_Iasi,0.0
+3942,categorical__State_Hyogo,0.0
+3943,categorical__State_Hunedoara,0.0
+3944,categorical__State_Hunan,0.0
+3945,categorical__State_Huila,0.0
+3946,categorical__State_Huehuetenango,0.0
+3947,categorical__City_Bucheon,0.0
+3948,categorical__State_Huambo,0.0
+3949,categorical__State_Hrodna,0.0
+3950,categorical__State_Gyor,0.0
+3951,categorical__State_Gyeongsangnam,0.0
+3952,categorical__State_Gyeonggi,0.0
+3953,categorical__State_Guárico,0.0
+3954,categorical__State_Hong Kong,0.0
+3955,categorical__State_Isparta,0.0
+3956,categorical__State_Isla de la Juventud,0.0
+3957,categorical__State_Ishikawa,0.0
+3958,categorical__State_Irkutsk,0.0
+3959,categorical__State_Iringa,0.0
+3960,categorical__State_Irbid,0.0
+3961,categorical__State_Iowa,0.0
+3962,categorical__State_Inner Mongolia,0.0
+3963,categorical__State_Inhambane,0.0
+3964,categorical__City_Brantford,0.0
+3965,categorical__State_Hedmark,0.0
+3966,categorical__State_Hebei,0.0
+3967,categorical__State_Hawke's Bay,0.0
+3968,categorical__State_Haute-Matsiatra,0.0
+3969,categorical__State_Idaho,0.0
+3970,categorical__State_Jiangxi,0.0
+3971,categorical__City_Bryansk,0.0
+3972,categorical__City_Bryan,0.0
+3973,categorical__State_Jerusalem,0.0
+3974,categorical__State_Jeju,0.0
+3975,categorical__City_Bytom,0.0
+3976,categorical__State_Jammu and Kashmir,0.0
+3977,categorical__State_Jambi,0.0
+3978,categorical__State_Hradec Kralove,0.0
+3979,categorical__City_Buzau,0.0
+3980,categorical__State_Hormozgan,0.0
+3981,categorical__State_Hordaland,0.0
+3982,categorical__State_Istanbul,0.0
+3983,categorical__State_Kalimantan Selatan,0.0
+3984,categorical__State_Kalimantan Barat,0.0
+3985,categorical__State_Kahramanmaras,0.0
+3986,categorical__State_Kagawa,0.0
+3987,categorical__State_Kafr Ash Shaykh,0.0
+3988,categorical__State_Kaduna,0.0
+3989,categorical__State_Kabul,0.0
+3990,categorical__State_Kabarole,0.0
+3991,categorical__State_Kabardino-Balkariya,0.0
+3992,categorical__State_Junín,0.0
+3993,categorical__State_Jujuy,0.0
+3994,categorical__State_Imereti,0.0
+3995,categorical__City_Buyukcekmece,0.0
+3996,categorical__City_Butare,0.0
+3997,categorical__State_Igdir,0.0
+3998,categorical__City_Busto Arsizio,0.0
+3999,categorical__State_Kasai-Oriental,0.0
+4000,categorical__State_Kasai-Occidental,0.0
+4001,categorical__State_Kars,0.0
+4002,categorical__City_Busan,0.0
+4003,categorical__State_Karbala',0.0
+4004,categorical__State_Karaman,0.0
+4005,categorical__State_Kara,0.0
+4006,categorical__State_Kansas,0.0
+4007,categorical__State_Kano,0.0
+4008,categorical__State_Kankan,0.0
+4009,categorical__State_Kandahar,0.0
+4010,categorical__State_Jakarta,0.0
+4011,categorical__City_Bury,0.0
+4012,categorical__State_Ivanovo,0.0
+4013,categorical__State_Ivano-Frankivsk,0.0
+4014,categorical__State_Kalimantan Timur,0.0
+4015,categorical__State_Khmel'nyts'kyy,0.0
+4016,categorical__State_Kherson,0.0
+4017,categorical__State_Khatlon,0.0
+4018,categorical__State_Khartoum,0.0
+4019,categorical__State_Kharkiv,0.0
+4020,categorical__State_Kermanshah,0.0
+4021,categorical__State_Kerman,0.0
+4022,categorical__State_Kerala,0.0
+4023,categorical__State_Kentucky,0.0
+4024,categorical__State_Kayseri,0.0
+4025,categorical__State_Kayes,0.0
+4026,categorical__State_Jubbada Hoose,0.0
+4027,categorical__State_Jizzakh,0.0
+4028,categorical__State_Jizan,0.0
+4029,categorical__State_Jinja,0.0
+4030,categorical__State_Kassala,0.0
+4031,categorical__State_Klaipeda,0.0
+4032,categorical__State_Kiên Giang,0.0
+4033,categorical__State_Kirsehir,0.0
+4034,categorical__State_Kirovohrad,0.0
+4035,categorical__City_Bursa,0.0
+4036,categorical__State_Kindia,0.0
+4037,categorical__State_Kilis,0.0
+4038,categorical__State_Kilimanjaro,0.0
+4039,categorical__State_Kigoma,0.0
+4040,categorical__State_Kigali,0.0
+4041,categorical__City_Burnie,0.0
+4042,categorical__City_Burnaby,0.0
+4043,categorical__State_Kampala,0.0
+4044,categorical__State_Kaluga,0.0
+4045,categorical__State_Kaliningrad,0.0
+4046,categorical__State_Khomas,0.0
+4047,categorical__State_La Vega,0.0
+4048,categorical__State_La Romana,0.0
+4049,categorical__State_La Paz,0.0
+4050,categorical__State_La Pampa,0.0
+4051,categorical__State_La Libertad,0.0
+4052,categorical__State_L'viv,0.0
+4053,categorical__State_Kymenlaakso,0.0
+4054,categorical__State_Kwara,0.0
+4055,categorical__State_Kutahya,0.0
+4056,categorical__State_Kumanovo,0.0
+4057,categorical__State_Kaunas,0.0
+4058,categorical__State_Katsina,0.0
+4059,categorical__City_Burlington,0.0
+4060,categorical__State_Kastamonu,0.0
+4061,categorical__State_Kocaeli,0.0
+4062,categorical__State_Lima,0.0
+4063,categorical__State_Liguria,0.0
+4064,categorical__State_Liberec,0.0
+4065,categorical__City_Buriticupu,0.0
+4066,categorical__City_Burgos,0.0
+4067,categorical__State_Lesser Poland,0.0
+4068,categorical__State_Lebap,0.0
+4069,categorical__State_Lazio,0.0
+4070,categorical__State_Las Tunas,0.0
+4071,categorical__City_Balikpapan,0.0
+4072,categorical__City_Avion,0.0
+4073,categorical__City_Avignon,0.0
+4074,categorical__City_Avellino,0.0
+4075,categorical__City_Avellaneda,0.0
+4076,categorical__City_Avadi,0.0
+4077,categorical__City_Bajos de Haina,0.0
+4078,categorical__City_Baia Mare,0.0
+4079,categorical__City_Bahía Blanca,0.0
+4080,categorical__City_Bahawalpur,0.0
+4081,categorical__City_Bagnolet,0.0
+4082,categorical__City_Bagneux,0.0
+4083,categorical__City_Banjarmasin,0.0
+4084,categorical__City_Bangui,0.0
+4085,categorical__City_Bangor,0.0
+4086,categorical__State_Lara,0.0
+4087,categorical__State_Languedoc-Roussillon,0.0
+4088,categorical__State_Khyber Pakhtunkhwa,0.0
+4089,categorical__State_Khuzestan,0.0
+4090,categorical__State_Khulna,0.0
+4091,categorical__State_Lacs,0.0
+4092,categorical__State_Los Lagos,0.0
+4093,categorical__State_Lori,0.0
+4094,categorical__State_Loreto,0.0
+4095,categorical__State_Lorestan,0.0
+4096,categorical__City_Brisbane,0.0
+4097,categorical__State_Ljubljana,0.0
+4098,categorical__State_Liège,0.0
+4099,categorical__State_Littoral,0.0
+4100,categorical__State_Litoral,0.0
+4101,categorical__State_Kuala Lumpur,0.0
+4102,categorical__State_Korçë,0.0
+4103,categorical__State_Kordestan,0.0
+4104,categorical__State_Konya,0.0
+4105,categorical__City_Burbank,0.0
+4106,categorical__State_Maine,0.0
+4107,categorical__City_Calabozo,0.0
+4108,categorical__State_Magdalena,0.0
+4109,categorical__State_Magallanes y Antártica Chilena,0.0
+4110,categorical__City_Calabar,0.0
+4111,categorical__State_Madhya Pradesh,0.0
+4112,categorical__State_Lusaka,0.0
+4113,categorical__State_Luhans'k,0.0
+4114,categorical__State_Lucerne,0.0
+4115,categorical__State_Lubusz,0.0
+4116,categorical__State_Lublin,0.0
+4117,categorical__State_Lambayeque,0.0
+4118,categorical__State_Lagunes,0.0
+4119,categorical__State_Lagos,0.0
+4120,categorical__State_Laghouat,0.0
+4121,categorical__State_Los Rios,0.0
+4122,categorical__State_Maputo,0.0
+4123,categorical__State_Manzini,0.0
+4124,categorical__State_Manitoba,0.0
+4125,categorical__State_Manisa,0.0
+4126,categorical__State_Manipur,0.0
+4127,categorical__State_Maniema,0.0
+4128,categorical__State_Manicaland,0.0
+4129,categorical__State_Manica,0.0
+4130,categorical__State_Mandoul,0.0
+4131,categorical__State_Manawatu-Wanganui,0.0
+4132,categorical__State_Managua,0.0
+4133,categorical__State_Lisboa,0.0
+4134,categorical__State_Limpopo,0.0
+4135,categorical__State_Limousin,0.0
+4136,categorical__State_Limburg,0.0
+4137,categorical__State_Malanje,0.0
+4138,categorical__State_Makkah,0.0
+4139,categorical__State_Mashonaland West,0.0
+4140,categorical__State_Maseru,0.0
+4141,categorical__State_Masaya,0.0
+4142,categorical__State_Mary,0.0
+4143,categorical__State_Martinique,0.0
+4144,categorical__State_Marrakech-Tensift-El Haouz,0.0
+4145,categorical__State_Marlborough,0.0
+4146,categorical__State_Markazi,0.0
+4147,categorical__State_Maritime,0.0
+4148,categorical__State_Mardin,0.0
+4149,categorical__City_Cajamarca,0.0
+4150,categorical__State_Lower Saxony,0.0
+4151,categorical__State_Lower Normandy,0.0
+4152,categorical__State_Louisiana,0.0
+4153,categorical__State_Maradi,0.0
+4154,categorical__State_Mara,0.0
+4155,categorical__State_Meknès-Tafilalet,0.0
+4156,categorical__State_Mehedinti,0.0
+4157,categorical__State_Medea,0.0
+4158,categorical__State_Mecklenburg-Vorpommern,0.0
+4159,categorical__State_Mbeya,0.0
+4160,categorical__State_Maysan,0.0
+4161,categorical__State_Mayabeque,0.0
+4162,categorical__State_Matruh,0.0
+4163,categorical__State_Mato Grosso,0.0
+4164,categorical__State_Manabi,0.0
+4165,categorical__State_Maluku,0.0
+4166,categorical__State_Malatya,0.0
+4167,categorical__State_Massachusetts,0.0
+4168,categorical__State_Masovia,0.0
+4169,categorical__State_Monagas,0.0
+4170,categorical__City_Cainta,0.0
+4171,categorical__City_Cagua,0.0
+4172,categorical__State_Misiones,0.0
+4173,categorical__State_Miranda,0.0
+4174,categorical__State_Minnesota,0.0
+4175,categorical__State_Minas Gerais,0.0
+4176,categorical__State_Mie,0.0
+4177,categorical__State_Midi-Pyrénées,0.0
+4178,categorical__City_Cagnes-sur-Mer,0.0
+4179,categorical__State_Marche,0.0
+4180,categorical__City_Caen,0.0
+4181,categorical__State_Maramures,0.0
+4182,categorical__State_Mendoza,0.0
+4183,categorical__State_Melilla,0.0
+4184,categorical__State_Mures,0.0
+4185,categorical__State_Muharraq,0.0
+4186,categorical__State_Mtwara,0.0
+4187,categorical__State_Mpumalanga,0.0
+4188,categorical__State_Mostaganem,0.0
+4189,categorical__State_Moscow,0.0
+4190,categorical__State_Morogoro,0.0
+4191,categorical__State_Morelos,0.0
+4192,categorical__State_Moquegua,0.0
+4193,categorical__State_Mopti,0.0
+4194,categorical__State_Matanzas,0.0
+4195,categorical__City_Cadereyta,0.0
+4196,categorical__State_Matabeleland North,0.0
+4197,categorical__State_Monseñor Nouel,0.0
+4198,categorical__State_Mono,0.0
+4199,categorical__State_Navarra,0.0
+4200,categorical__City_Cachan,0.0
+4201,categorical__State_Nariño,0.0
+4202,categorical__State_Nangarhar,0.0
+4203,categorical__State_Nampula,0.0
+4204,categorical__State_Namibe,0.0
+4205,categorical__State_Namangan,0.0
+4206,categorical__State_Nakhon Ratchasima,0.0
+4207,categorical__State_Nairobi,0.0
+4208,categorical__State_Nagasaki,0.0
+4209,categorical__State_Meta,0.0
+4210,categorical__State_Mersin,0.0
+4211,categorical__State_Mykolayiv,0.0
+4212,categorical__State_Mwanza,0.0
+4213,categorical__State_Niari,0.0
+4214,categorical__State_Niamey,0.0
+4215,categorical__State_Newfoundland,0.0
+4216,categorical__City_Cabo de Santo Agostinho,0.0
+4217,categorical__State_New Mexico,0.0
+4218,categorical__State_New Jersey,0.0
+4219,categorical__State_New Hampshire,0.0
+4220,categorical__State_Nevsehir,0.0
+4221,categorical__State_Nevada,0.0
+4222,categorical__State_Neuquén,0.0
+4223,categorical__State_Montserrado,0.0
+4224,categorical__State_Montevideo,0.0
+4225,categorical__State_Montana,0.0
+4226,categorical__State_Neamt,0.0
+4227,categorical__State_Nayarit,0.0
+4228,categorical__City_Bucaramanga,0.0
+4229,categorical__City_Cabimas,0.0
+4230,categorical__State_North Dakota,0.0
+4231,categorical__State_North Brabant,0.0
+4232,categorical__State_Norte de Santander,0.0
+4233,categorical__State_Nord-Pas-de-Calais,0.0
+4234,categorical__State_Nord-Ouest,0.0
+4235,categorical__State_Nord,0.0
+4236,categorical__State_Nitra,0.0
+4237,categorical__State_Nagano,0.0
+4238,categorical__State_Mérida,0.0
+4239,categorical__State_Nigde,0.0
+4240,categorical__State_Niassa,0.0
+4241,categorical__State_Oaxaca,0.0
+4242,categorical__State_O'Higgins,0.0
+4243,categorical__State_Nzérékoré,0.0
+4244,categorical__State_Nyanza,0.0
+4245,categorical__State_Nusa Tenggara Timur,0.0
+4246,categorical__State_Nusa Tenggara Barat,0.0
+4247,categorical__State_Nuevo León,0.0
+4248,categorical__State_Nueva Esparta,0.0
+4249,categorical__State_Novgorod,0.0
+4250,categorical__State_Nova Scotia,0.0
+4251,categorical__State_Nouakchott,0.0
+4252,categorical__State_Nelson,0.0
+4253,categorical__State_Negeri Sembilan,0.0
+4254,categorical__State_Northern,0.0
+4255,categorical__State_North-West,0.0
+4256,categorical__State_Osaka,0.0
+4257,categorical__State_Oruro,0.0
+4258,categorical__State_Orientale,0.0
+4259,categorical__City_Campina Grande,0.0
+4260,categorical__State_Ordu,0.0
+4261,categorical__State_Oran,0.0
+4262,categorical__State_Opole,0.0
+4263,categorical__City_Campeche,0.0
+4264,categorical__State_Ondo,0.0
+4265,categorical__State_Olomouc,0.0
+4266,categorical__State_Oklahoma,0.0
+4267,categorical__State_Ningxia,0.0
+4268,categorical__State_Ninawa,0.0
+4269,categorical__State_Niger,0.0
+4270,categorical__City_Camocim,0.0
+4271,categorical__State_Ogun,0.0
+4272,categorical__State_Odisha,0.0
+4273,categorical__State_Parana,0.0
+4274,categorical__State_Papua,0.0
+4275,categorical__State_Panevezys,0.0
+4276,categorical__State_Pahang,0.0
+4277,categorical__State_Oyo,0.0
+4278,categorical__City_Bafra,0.0
+4279,categorical__City_Atsugacho,0.0
+4280,categorical__City_Atlixco,0.0
+4281,categorical__City_Atlanta,0.0
+4282,categorical__City_Athis-Mons,0.0
+4283,categorical__City_Athens,0.0
+4284,categorical__City_Babol,0.0
+4285,categorical__City_Açu,0.0
+4286,categorical__City_Azcapotzalco,0.0
+4287,categorical__City_Aylesbury,0.0
+4288,categorical__City_Aydin,0.0
+4289,categorical__City_Cambé,0.0
+4290,categorical__City_Balneário Camboriú,0.0
+4291,categorical__City_Balmazujvaros,0.0
+4292,categorical__City_Ballarat,0.0
+4293,categorical__City_Cambridge,0.0
+4294,categorical__State_Ouémé,0.0
+4295,categorical__State_Ouest,0.0
+4296,categorical__State_Otago,0.0
+4297,categorical__State_Northland,0.0
+4298,categorical__State_Northern Territory,0.0
+4299,categorical__City_Camaçari,0.0
+4300,categorical__State_Osjecko-Baranjska,0.0
+4301,categorical__State_Osh,0.0
+4302,categorical__State_Plateau,0.0
+4303,categorical__State_Piura,0.0
+4304,categorical__City_Camarillo,0.0
+4305,categorical__State_Pichincha,0.0
+4306,categorical__State_Piauí,0.0
+4307,categorical__State_Phnom Penh,0.0
+4308,categorical__State_Pernik,0.0
+4309,categorical__State_Pernambuco,0.0
+4310,categorical__State_Peravia,0.0
+4311,categorical__State_Okayama,0.0
+4312,categorical__State_Oita,0.0
+4313,categorical__City_Caloocan,0.0
+4314,categorical__State_Pavlodar,0.0
+4315,categorical__State_Pará,0.0
+4316,categorical__State_Provence-Alpes-Côte d'Azur,0.0
+4317,categorical__State_Primorsko-Goranska,0.0
+4318,categorical__State_Prahova,0.0
+4319,categorical__City_Callao,0.0
+4320,categorical__State_Potosí,0.0
+4321,categorical__State_Portuguesa,0.0
+4322,categorical__City_Calgary,0.0
+4323,categorical__State_Pomerania,0.0
+4324,categorical__State_Poltava,0.0
+4325,categorical__State_Podlaskie,0.0
+4326,categorical__State_Podgorica,0.0
+4327,categorical__State_Osun,0.0
+4328,categorical__State_Osmaniye,0.0
+4329,categorical__State_Pleven,0.0
+4330,categorical__State_Plateaux,0.0
+4331,categorical__State_Querétaro,0.0
+4332,categorical__State_Queensland,0.0
+4333,categorical__State_Quebec,0.0
+4334,categorical__State_Qostanay,0.0
+4335,categorical__State_Qom,0.0
+4336,categorical__State_Qinghai,0.0
+4337,categorical__State_Qina,0.0
+4338,categorical__State_Qazvin,0.0
+4339,categorical__State_Qashqadaryo,0.0
+4340,categorical__State_Qaraghandy,0.0
+4341,categorical__State_Pwani,0.0
+4342,categorical__State_Puno,0.0
+4343,categorical__State_Perak,0.0
+4344,categorical__City_Caldwell,0.0
+4345,categorical__State_Puducherry,0.0
+4346,categorical__State_Provincia de Buenos Aires,0.0
+4347,categorical__City_Calamba,0.0
+4348,categorical__State_Rio Grande do Norte,0.0
+4349,categorical__State_Riau,0.0
+4350,categorical__City_Burgas,0.0
+4351,categorical__City_Calais,0.0
+4352,categorical__State_Rhineland-Palatinate,0.0
+4353,categorical__State_Red Sea,0.0
+4354,categorical__State_Razavi Khorasan,0.0
+4355,categorical__State_Rajshahi,0.0
+4356,categorical__State_Rajasthan,0.0
+4357,categorical__State_Plzen,0.0
+4358,categorical__State_Plovdiv,0.0
+4359,categorical__State_Quindío,0.0
+4360,categorical__State_Quezaltenango,0.0
+4361,categorical__State_Saint Catherine,0.0
+4362,categorical__State_Saida,0.0
+4363,categorical__State_Saga,0.0
+4364,categorical__State_Sabah,0.0
+4365,categorical__State_Saarland,0.0
+4366,categorical__State_Río Negro,0.0
+4367,categorical__State_Ruvuma,0.0
+4368,categorical__State_Roraima,0.0
+4369,categorical__State_Rondônia,0.0
+4370,categorical__City_Capua,0.0
+4371,categorical__State_Rize,0.0
+4372,categorical__State_Rivne,0.0
+4373,categorical__City_Capelle aan den IJssel,0.0
+4374,categorical__State_Puebla,0.0
+4375,categorical__State_Risaralda,0.0
+4376,categorical__State_Rio de Janeiro,0.0
+4377,categorical__State_Sanliurfa,0.0
+4378,categorical__State_Sancti Spíritus,0.0
+4379,categorical__State_San Salvador,0.0
+4380,categorical__City_Cape Town,0.0
+4381,categorical__State_San Luis Potosí,0.0
+4382,categorical__State_San Luis,0.0
+4383,categorical__State_San Juan,0.0
+4384,categorical__State_San Fernando,0.0
+4385,categorical__State_San Cristóbal,0.0
+4386,categorical__State_Samsun,0.0
+4387,categorical__State_Salzburg,0.0
+4388,categorical__State_Salta,0.0
+4389,categorical__State_Ra's Al Khaymah,0.0
+4390,categorical__State_Quintana Roo,0.0
+4391,categorical__State_Saint-Louis,0.0
+4392,categorical__State_Saint Michael,0.0
+4393,categorical__State_Saxony-Anhalt,0.0
+4394,categorical__State_Saxony,0.0
+4395,categorical__State_Savanes,0.0
+4396,categorical__State_Satu Mare,0.0
+4397,categorical__State_Saskatchewan,0.0
+4398,categorical__State_Sardinia,0.0
+4399,categorical__State_Sarawak,0.0
+4400,categorical__City_Cape Coast,0.0
+4401,categorical__State_Santiago del Estero,0.0
+4402,categorical__State_Santiago de Cuba,0.0
+4403,categorical__State_Santiago,0.0
+4404,categorical__State_Santander,0.0
+4405,categorical__State_Rivers,0.0
+4406,categorical__State_Rivera,0.0
+4407,categorical__State_Santa Catarina,0.0
+4408,categorical__State_Sibiu,0.0
+4409,categorical__State_Shumen,0.0
+4410,categorical__State_Shkodër,0.0
+4411,categorical__City_Capannori,0.0
+4412,categorical__State_Shanxi,0.0
+4413,categorical__City_Canton,0.0
+4414,categorical__State_Shandong,0.0
+4415,categorical__State_Shaanxi,0.0
+4416,categorical__State_Sergipe,0.0
+4417,categorical__State_Seoul,0.0
+4418,categorical__State_Semnan,0.0
+4419,categorical__State_Selangor,0.0
+4420,categorical__State_Scotland,0.0
+4421,categorical__State_Salah Ad Din,0.0
+4422,categorical__State_Saitama,0.0
+4423,categorical__State_Sofala,0.0
+4424,categorical__City_Canoas,0.0
+4425,categorical__State_Skåne,0.0
+4426,categorical__State_Skikda,0.0
+4427,categorical__State_Sivas,0.0
+4428,categorical__State_Sistan Va Baluchestan,0.0
+4429,categorical__State_Sirnak,0.0
+4430,categorical__City_Cankaya,0.0
+4431,categorical__City_Abuja,0.0
+4432,categorical__City_Abu Kabir,0.0
+4433,categorical__City_Cangzhou,0.0
+4434,categorical__City_Abha,0.0
+4435,categorical__City_Aberdeen,0.0
+4436,categorical__City_Abeokuta,0.0
+4437,categorical__State_Santa Fe,0.0
+4438,categorical__City_Aix-les-Bains,0.0
+4439,categorical__City_Aix-en-Provence,0.0
+4440,categorical__City_Ain Oussera,0.0
+4441,categorical__City_Ahvaz,0.0
+4442,categorical__City_Agrigento,0.0
+4443,categorical__City_Cancún,0.0
+4444,categorical__City_Agen,0.0
+4445,categorical__City_Agde,0.0
+4446,categorical__City_Canakkale,0.0
+4447,categorical__State_Silesia,0.0
+4448,categorical__State_Siirt,0.0
+4449,categorical__City_Can Tho,0.0
+4450,categorical__State_Sichuan,0.0
+4451,categorical__State_Schleswig-Holstein,0.0
+4452,categorical__State_Sofiya-Grad,0.0
+4453,categorical__State_Southland,0.0
+4454,categorical__State_Southern,0.0
+4455,categorical__State_South Kivu,0.0
+4456,categorical__State_South Khorasan,0.0
+4457,categorical__State_South Holland,0.0
+4458,categorical__State_South Dublin,0.0
+4459,categorical__State_South Denmark,0.0
+4460,categorical__State_South Dakota,0.0
+4461,categorical__State_South Carolina,0.0
+4462,categorical__State_South Australia,0.0
+4463,categorical__State_Souss-Massa-Draâ,0.0
+4464,categorical__State_Sonsonate,0.0
+4465,categorical__State_Sonora,0.0
+4466,categorical__State_Sokoto,0.0
+4467,categorical__City_Abbotsford,0.0
+4468,categorical__City_Ajaccio,0.0
+4469,categorical__State_Sumatera Selatan,0.0
+4470,categorical__State_Sumatera Barat,0.0
+4471,categorical__State_Sulawesi Utara,0.0
+4472,categorical__State_Sulawesi Tenggara,0.0
+4473,categorical__State_Sulawesi Tengah,0.0
+4474,categorical__State_Suhaj,0.0
+4475,categorical__State_Sud-Ouest,0.0
+4476,categorical__State_Sud,0.0
+4477,categorical__State_Sucre,0.0
+4478,categorical__State_Suceava,0.0
+4479,categorical__State_Styria,0.0
+4480,categorical__City_Cabo Frio,0.0
+4481,categorical__State_Stavropol',0.0
+4482,categorical__State_Stara Zagora,0.0
+4483,categorical__State_St. Gallen,0.0
+4484,categorical__State_Splitsko-Dalmatinska,0.0
+4485,categorical__State_Tanga,0.0
+4486,categorical__State_Tamil Nadu,0.0
+4487,categorical__State_Tambov,0.0
+4488,categorical__State_Tamaulipas,0.0
+4489,categorical__State_Taipei City,0.0
+4490,categorical__State_Tadla-Azilal,0.0
+4491,categorical__State_Tabuk,0.0
+4492,categorical__State_Tabora,0.0
+4493,categorical__State_Tabasco,0.0
+4494,categorical__State_Ta'izz,0.0
+4495,categorical__State_T?nh C?n Th?,0.0
+4496,categorical__State_São Paulo,0.0
+4497,categorical__State_Sylhet,0.0
+4498,categorical__State_Surxondaryo,0.0
+4499,categorical__State_Sumy,0.0
+4500,categorical__State_Sumatera Utara,0.0
+4501,categorical__State_Texas,0.0
+4502,categorical__State_Tete,0.0
+4503,categorical__State_Ternopil',0.0
+4504,categorical__State_Telangana,0.0
+4505,categorical__City_Campo Grande,0.0
+4506,categorical__State_Tekirdag,0.0
+4507,categorical__State_Tehran,0.0
+4508,categorical__State_Tbilisi,0.0
+4509,categorical__State_Taza-Al Hoceima-Taounate,0.0
+4510,categorical__State_Tasmania,0.0
+4511,categorical__State_Tartumaa,0.0
+4512,categorical__State_Tarija,0.0
+4513,categorical__State_Tarapacá,0.0
+4514,categorical__State_Taranaki,0.0
+4515,categorical__State_Tanger-Tétouan,0.0
+4516,categorical__State_Trengganu,0.0
+4517,categorical__State_Trabzon,0.0
+4518,categorical__State_Tottori,0.0
+4519,categorical__State_Tolima,0.0
+4520,categorical__State_Tokyo,0.0
+4521,categorical__State_Tokat,0.0
+4522,categorical__State_Tochigi,0.0
+4523,categorical__State_Tocantins,0.0
+4524,categorical__State_Tlemcen,0.0
+4525,categorical__State_Tizi Ouzou,0.0
+4526,categorical__State_Timis,0.0
+4527,categorical__State_Tianjin,0.0
+4528,categorical__State_Thuringia,0.0
+4529,categorical__City_Carrollton,0.0
+4530,categorical__City_Carrefour,0.0
+4531,categorical__State_Th? Dô Hà N?i,0.0
+4532,categorical__State_Usti nad Labem,0.0
+4533,categorical__State_Usak,0.0
+4534,categorical__State_Uppsala,0.0
+4535,categorical__State_Upper Normandy,0.0
+4536,categorical__State_Upper Austria,0.0
+4537,categorical__City_Carrara,0.0
+4538,categorical__State_Ulsan,0.0
+4539,categorical__State_Ulaanbaatar,0.0
+4540,categorical__State_Ucayali,0.0
+4541,categorical__State_Táchira,0.0
+4542,categorical__State_Tyrol,0.0
+4543,categorical__City_Carpi,0.0
+4544,categorical__State_Tunis,0.0
+4545,categorical__State_Victoria,0.0
+4546,categorical__State_Tripura,0.0
+4547,categorical__State_Trentino-Alto Adige,0.0
+4548,categorical__State_Veracruz,0.0
+4549,categorical__State_Veneto,0.0
+4550,categorical__State_Vaud,0.0
+4551,categorical__State_Varna,0.0
+4552,categorical__State_Vargas,0.0
+4553,categorical__State_Van,0.0
+4554,categorical__State_Valparaíso,0.0
+4555,categorical__State_Vallee Du Bandama,0.0
+4556,categorical__State_Valle del Cauca,0.0
+4557,categorical__City_Carpentras,0.0
+4558,categorical__State_Valcea,0.0
+4559,categorical__State_Uusimaa,0.0
+4560,categorical__State_Uttarakhand,0.0
+4561,categorical__State_Washington,0.0
+4562,categorical__State_Utrecht,0.0
+4563,categorical__State_Utah,0.0
+4564,categorical__State_Västra Götaland,0.0
+4565,categorical__City_Carora,0.0
+4566,categorical__State_Vratsa,0.0
+4567,categorical__State_Voronezh,0.0
+4568,categorical__State_Volyn,0.0
+4569,categorical__State_Vlorë,0.0
+4570,categorical__State_Vladimir,0.0
+4571,categorical__State_Vitsyebsk,0.0
+4572,categorical__State_Virginia,0.0
+4573,categorical__State_Vinnytsya,0.0
+4574,categorical__State_Vilnius,0.0
+4575,categorical__State_Villa Clara,0.0
+4576,categorical__State_Vienna,0.0
+4577,categorical__State_Yambol,0.0
+4578,categorical__State_Vest-Agder,0.0
+4579,categorical__State_Vermont,0.0
+4580,categorical__State_Xinjiang Uygur,0.0
+4581,categorical__State_Wyoming,0.0
+4582,categorical__State_Woqooyi Galbeed,0.0
+4583,categorical__City_Carol Stream,0.0
+4584,categorical__State_White Nile,0.0
+4585,categorical__State_Western Visayas,0.0
+4586,categorical__State_Western Cape,0.0
+4587,categorical__City_Carlsbad,0.0
+4588,categorical__State_Western,0.0
+4589,categorical__State_West Virginia,0.0
+4590,categorical__State_West Flanders,0.0
+4591,categorical__City_Carlisle,0.0
+4592,categorical__State_Wellington,0.0
+4593,categorical__State_Zaporizhzhya,0.0
+4594,categorical__State_Wales,0.0
+4595,categorical__State_Waikato,0.0
+4596,categorical__State_Zambezia,0.0
+4597,categorical__State_Zagrebacka,0.0
+4598,categorical__State_Zacatecas,0.0
+4599,categorical__State_Yunnan,0.0
+4600,categorical__State_Yucatán,0.0
+4601,categorical__State_Yoro,0.0
+4602,categorical__State_Yogyakarta,0.0
+4603,categorical__State_Yobe,0.0
+4604,categorical__State_Yevrey,0.0
+4605,categorical__State_Yazd,0.0
+4606,categorical__State_Yaroslavl',0.0
+4607,categorical__City_Cardiff,0.0
+4608,categorical__City_Carcassonne,0.0
+4609,categorical__City_Carapicuíba,0.0
+4610,categorical__State_Yamaguchi,0.0
+4611,categorical__State_Yalova,0.0
+4612,categorical__Country_Angola,0.0
+4613,categorical__Country_Albania,0.0
+4614,categorical__Country_Afghanistan,0.0
+4615,categorical__State_ilina,0.0
+4616,categorical__State_iauliai,0.0
+4617,categorical__State_Zürich,0.0
+4618,categorical__State_Zulia,0.0
+4619,categorical__State_Zinder,0.0
+4620,categorical__State_Ziguinchor,0.0
+4621,categorical__State_Zhytomyr,0.0
+4622,categorical__State_Zhejiang,0.0
+4623,categorical__State_Zealand,0.0
+4624,categorical__City_Calama,0.0
+4625,categorical__City_Catania,0.0
+4626,categorical__State_Zamfara,0.0
+4627,categorical__Country_Burundi,0.0
+4628,categorical__Country_Bosnia and Herzegovina,0.0
+4629,categorical__City_Catanduva,0.0
+4630,categorical__Country_Benin,0.0
+4631,categorical__City_Catalão,0.0
+4632,categorical__Country_Belarus,0.0
+4633,categorical__Country_Barbados,0.0
+4634,categorical__Country_Bangladesh,0.0
+4635,categorical__Country_Bahrain,0.0
+4636,categorical__Country_Azerbaijan,0.0
+4637,categorical__Country_El Salvador,0.0
+4638,categorical__Country_Egypt,0.0
+4639,categorical__Country_Armenia,0.0
+4640,categorical__City_Castrop-Rauxel,0.0
+4641,categorical__Region_EMEA,0.0
+4642,categorical__City_Castelnau-le-Lez,0.0
+4643,categorical__Country_Croatia,0.0
+4644,categorical__Country_Cote d'Ivoire,0.0
+4645,categorical__Country_Colombia,0.0
+4646,categorical__Country_Chile,0.0
+4647,categorical__Country_Chad,0.0
+4648,categorical__City_Avon,0.0
+4649,categorical__City_Ashford,0.0
+4650,categorical__City_Asheville,0.0
+4651,categorical__City_Ashdod,0.0
+4652,categorical__City_Aschaffenburg,0.0
+4653,categorical__City_Castelldefels,0.0
+4654,categorical__City_Auxerre,0.0
+4655,categorical__City_Austin,0.0
+4656,categorical__City_Aurangabad,0.0
+4657,categorical__City_Augsburg,0.0
+4658,categorical__City_Auch,0.0
+4659,categorical__City_Bagcilar,0.0
+4660,categorical__City_Bagamoyo,0.0
+4661,categorical__Country_Central African Republic,0.0
+4662,categorical__Country_Haiti,0.0
+4663,categorical__Country_Guinea-Bissau,0.0
+4664,categorical__Country_Cameroon,0.0
+4665,categorical__Country_Cambodia,0.0
+4666,categorical__City_Castellammare di Stabia,0.0
+4667,categorical__Country_Djibouti,0.0
+4668,categorical__Country_Denmark,0.0
+4669,categorical__Country_Czech Republic,0.0
+4670,categorical__City_Arica,0.0
+4671,categorical__City_Argenteuil,0.0
+4672,categorical__City_Argentan,0.0
+4673,categorical__City_Arezzo,0.0
+4674,categorical__City_Arequipa,0.0
+4675,categorical__City_Castanhal,0.0
+4676,categorical__City_Antibes,0.0
+4677,categorical__City_Cassilândia,0.0
+4678,categorical__City_Antalya,0.0
+4679,categorical__City_Antakya,0.0
+4680,categorical__City_Bingol,0.0
+4681,categorical__Country_Guinea,0.0
+4682,categorical__Country_Guatemala,0.0
+4683,categorical__Country_Guadeloupe,0.0
+4684,categorical__Country_Georgia,0.0
+4685,categorical__Country_Gabon,0.0
+4686,categorical__City_Billings,0.0
+4687,categorical__Country_Ethiopia,0.0
+4688,categorical__Country_Estonia,0.0
+4689,categorical__Country_Eritrea,0.0
+4690,categorical__Country_Equatorial Guinea,0.0
+4691,categorical__Country_Lebanon,0.0
+4692,categorical__Country_Kyrgyzstan,0.0
+4693,categorical__Country_Kenya,0.0
+4694,categorical__City_Bilbao,0.0
+4695,categorical__Country_Kazakhstan,0.0
+4696,categorical__Country_Jordan,0.0
+4697,categorical__City_Bergerac,0.0
+4698,categorical__Country_Jamaica,0.0
+4699,categorical__Country_Ireland,0.0
+4700,categorical__City_Bijie,0.0
+4701,categorical__City_Bijapur,0.0
+4702,categorical__City_Bihar Sharif,0.0
+4703,categorical__City_Bielsko-Biala,0.0
+4704,categorical__Country_Hungary,0.0
+4705,categorical__Country_Hong Kong,0.0
+4706,categorical__Country_Mozambique,0.0
+4707,categorical__Country_Morocco,0.0
+4708,categorical__Country_Montenegro,0.0
+4709,categorical__Country_Mongolia,0.0
+4710,categorical__Country_Moldova,0.0
+4711,categorical__City_Bideford,0.0
+4712,categorical__Country_Mauritania,0.0
+4713,categorical__Country_Martinique,0.0
+4714,categorical__Country_Mali,0.0
+4715,categorical__Country_Malaysia,0.0
+4716,categorical__Country_Madagascar,0.0
+4717,categorical__Country_Macedonia,0.0
+4718,categorical__Country_Lithuania,0.0
+4719,categorical__Country_Libya,0.0
+4720,categorical__Country_Liberia,0.0
+4721,categorical__Country_Lesotho,0.0
+4722,categorical__City_Bloemfontein,0.0
+4723,categorical__City_Blenheim,0.0
+4724,categorical__Country_Peru,0.0
+4725,categorical__Country_Paraguay,0.0
+4726,categorical__Country_Papua New Guinea,0.0
+4727,categorical__City_Blanquefort,0.0
+4728,categorical__City_Blagoveshchensk,0.0
+4729,categorical__City_Casoria,0.0
+4730,categorical__Country_New Zealand,0.0
+4731,categorical__Country_Nepal,0.0
+4732,categorical__Country_Namibia,0.0
+4733,categorical__Country_Myanmar (Burma),0.0
+4734,categorical__Country_South Sudan,0.0
+4735,categorical__Country_South Korea,0.0
+4736,categorical__Country_South Africa,0.0
+4737,categorical__Country_Somalia,0.0
+4738,categorical__Country_Slovenia,0.0
+4739,categorical__Country_Slovakia,0.0
+4740,categorical__Country_Singapore,0.0
+4741,categorical__Country_Sierra Leone,0.0
+4742,categorical__Country_Senegal,0.0
+4743,categorical__City_Caserta,0.0
+4744,categorical__Country_Rwanda,0.0
+4745,categorical__City_Cary,0.0
+4746,categorical__Country_Romania,0.0
+4747,categorical__Country_Republic of the Congo,0.0
+4748,categorical__Country_Qatar,0.0
+4749,categorical__Country_Portugal,0.0
+4750,categorical__Country_Turkmenistan,0.0
+4751,categorical__Country_Tunisia,0.0
+4752,categorical__Country_Trinidad and Tobago,0.0
+4753,categorical__Country_Togo,0.0
+4754,categorical__Country_Thailand,0.0
+4755,categorical__Country_Tanzania,0.0
+4756,categorical__Country_Tajikistan,0.0
+4757,categorical__Country_Taiwan,0.0
+4758,categorical__Country_Syria,0.0
+4759,categorical__Country_Switzerland,0.0
+4760,categorical__City_Carvin,0.0
+4761,categorical__City_Ad Diwem,0.0
+4762,categorical__Country_Uganda,0.0
+4763,categorical__City_Campo Limpo Paulista,0.0
+4764,categorical__City_Ceuta,0.0
+4765,categorical__City_Cessnock,0.0
+4766,categorical__City_Cesena,0.0
+4767,categorical__City_Atakpame,0.0
+4768,categorical__City_Asyut,0.0
+4769,categorical__City_Asunción,0.0
+4770,categorical__City_Astrakhan',0.0
+4771,categorical__City_Asti,0.0
+4772,categorical__City_Astana,0.0
+4773,categorical__City_Assen,0.0
+4774,categorical__City_Ashqelon,0.0
+4775,categorical__City_Ashgabat,0.0
+4776,categorical__City_Acireale,0.0
+4777,categorical__City_Acerra,0.0
+4778,categorical__Country_Sri Lanka,0.0
+4779,categorical__City_Cerignola,0.0
+4780,categorical__Market_Canada,0.0
+4781,categorical__City_Cergy,0.0
+4782,categorical__City_Abbeville,0.0
+4783,categorical__City_Abakaliki,0.0
+4784,categorical__City_Abadan,0.0
+4785,categorical__City_Aba,0.0
+4786,categorical__City_Cercola,0.0
+4787,categorical__City_Apodaca,0.0
+4788,categorical__City_Centurion,0.0
+4789,categorical__Region_Canada,0.0
+4790,categorical__Region_Africa,0.0
+4791,categorical__City_Acayucan,0.0
+4792,categorical__City_Acámbaro,0.0

@@ -1,0 +1,52 @@
+============================================================
+RETAIL ANALYTICS
+MODEL COMPARATIVE ANALYSIS
+============================================================
+
+MODELS EVALUATED
+-----------------
+- Linear Regression
+- Decision Tree
+- Random Forest
+- XGBoost
+- LSTM
+- GRU
+- XGBoost + LSTM Feature Hybrid
+- LSTM + Random Forest
+- GRU + XGBoost
+- GRU + Random Forest
+
+PROPOSED MODEL
+--------------
+XGBoost + LSTM Feature Hybrid
+
+PROPOSED MODEL PERFORMANCE
+---------------------------
+R2   : 0.9100
+MAE  : 32.6901
+RMSE : 56.8745
+MAPE : 34.5552%
+
+COMPARISON WITH XGBOOST
+-----------------------
+XGBoost R2       : 0.9097
+Proposed R2      : 0.9100
+R2 Change        : 0.0003
+
+MAE Improvement  : 0.2115%
+RMSE Improvement : 0.1816%
+MAPE Improvement : 0.9352%
+
+INTERPRETATION
+--------------
+The comparative analysis evaluates multiple machine-learning, deep-learning and hybrid configurations using the experimental results generated during model evaluation.
+
+The proposed model is the XGBoost + LSTM Feature Hybrid. Its performance is compared with standalone XGBoost and alternative hybrid configurations.
+
+For regression evaluation, higher R2 indicates better explanatory performance, while lower MAE, RMSE and MAPE indicate lower prediction error.
+
+The magnitude of improvement is reported as the observed experimental difference and should not be interpreted as a claim of a large improvement unless supported by the measured results.
+
+IMPORTANT COMPARABILITY NOTE
+-----------------------------
+The standalone LSTM and GRU models were evaluated at the monthly level, whereas the transaction-level ML and hybrid models use transaction-level evaluation. Therefore, their metric values should be interpreted with the evaluation level in mind.

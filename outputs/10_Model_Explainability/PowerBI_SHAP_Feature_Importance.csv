@@ -1,0 +1,21 @@
+Rank,Feature,Mean Absolute SHAP
+1,categorical__City_Halesowen,41.54262
+2,categorical__Sub-Category_Copiers,40.777782
+3,categorical__Sub-Category_Appliances,37.014305
+4,categorical__City_Waynesboro,30.154488
+5,categorical__City_Treviglio,30.141083
+6,categorical__City_Wenzhou,27.84916
+7,categorical__City_Lagos de Moreno,23.469559
+8,numeric__Shipping Cost,23.021502
+9,categorical__Sub-Category_Bookcases,21.669786
+10,categorical__City_Noblesville,21.565754
+11,categorical__City_Xiangfan,21.316442
+12,categorical__City_Sukabumi,19.478474
+13,categorical__City_Modica,19.258453
+14,numeric__Quantity,19.247427
+15,categorical__City_Badalona,19.246044
+16,categorical__Sub-Category_Storage,18.99057
+17,categorical__Sub-Category_Phones,18.595324
+18,categorical__City_Pekalongan,18.307823
+19,categorical__Sub-Category_Chairs,17.782679
+20,categorical__City_Inglewood,17.649261
